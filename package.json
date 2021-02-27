@@ -1,0 +1,41 @@
+{
+   "name": "react-ssr",
+   "version": "1.0.0",
+   "description": "Server side rendering project",
+   "main": "index.js",
+   "scripts": {
+      "dev:build:server": "webpack --config webpack.server.mjs --watch",
+      "dev:server": "nodemon --inspect build/bundle.js"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "@babel/core": "^7.13.1",
+      "@babel/plugin-proposal-class-properties": "^7.12.1",
+      "@babel/plugin-proposal-private-methods": "^7.12.1",
+      "@babel/plugin-transform-runtime": "^7.12.1",
+      "@babel/preset-env": "^7.13.5",
+      "@babel/preset-react": "^7.12.13",
+      "axios": "^0.21.1",
+      "babel-loader": "^8.2.2",
+      "compression": "1.7.0",
+      "concurrently": "3.5.0",
+      "express": "^4.17.1",
+      "express-http-proxy": "1.0.6",
+      "nodemon": "^2.0.7",
+      "npm-run-all": "4.1.1",
+      "prettier": "^2.2.1",
+      "ramda": "^0.27.1",
+      "react": "^17.0.1",
+      "react-dom": "^17.0.1",
+      "react-router-dom": "^5.2.0",
+      "serialize-javascript": "1.4.0",
+      "webpack": "^5.24.2",
+      "webpack-dev-server": "^3.11.2",
+      "webpack-merge": "^5.7.3",
+      "webpack-node-externals": "^2.5.2"
+   },
+   "devDependencies": {
+      "webpack-cli": "^4.5.0"
+   }
+}
