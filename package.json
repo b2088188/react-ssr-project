@@ -5,7 +5,8 @@
    "main": "index.js",
    "scripts": {
       "dev:build:server": "webpack --config webpack.server.mjs --watch",
-      "dev:server": "nodemon --inspect build/bundle.js"
+      "dev:server": "nodemon --inspect build/bundle.js",
+      "dev:build:client": "webpack --config webpack.client.mjs --watch"
    },
    "author": "",
    "license": "ISC",
