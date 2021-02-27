@@ -1,27 +1,19 @@
-// import HtmlWebpackPlugin from "html-webpack-plugin";
-import path from "path";
+import webpackNodeExternals from 'webpack-node-externals';
+import { merge } from 'webpack-merge';
+import baseConfig from './webpack.base.mjs';
+import path from 'path';
 const __dirname = path.resolve();
 
-export default {
-	mode: "development",
-	target: "node",
-	entry: "./src/server.js",
+const config = {
+	mode: 'development',
+	target: 'node',
+	entry: './src/server.js',
 	output: {
-		filename: "bundle.js",
-		path: path.resolve(__dirname, "build"),
+		filename: 'bundle.js',
+		path: path.resolve(__dirname, 'build')
 	},
-	module: {
-		rules: [
-			{
-				test: /\.js$/,
-				exclude: /node_modules/,
-				use: {
-					loader: "babel-loader",
-				},
-				resolve: {
-					fullySpecified: false,
-				},
-			},
-		],
-	},
+	// Tell webpack to not bundle any libraries into output server bundle if the library exist inside the node_modules
+	externals: [webpackNodeExternals()]
 };
+
+export default merge(baseConfig, config);

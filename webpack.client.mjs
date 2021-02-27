@@ -1,26 +1,15 @@
-// import HtmlWebpackPlugin from "html-webpack-plugin";
+import { merge } from 'webpack-merge';
+import baseConfig from './webpack.base.mjs';
 import path from 'path';
 const __dirname = path.resolve();
 
-export default {
+const config = {
 	mode: 'development',
 	entry: './src/client/index.js',
 	output: {
 		filename: 'bundle.js',
 		path: path.resolve(__dirname, 'public')
-	},
-	module: {
-		rules: [
-			{
-				test: /\.js$/,
-				exclude: /node_modules/,
-				use: {
-					loader: 'babel-loader'
-				},
-				resolve: {
-					fullySpecified: false
-				}
-			}
-		]
 	}
 };
+
+export default merge(baseConfig, config);
