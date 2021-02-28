@@ -19,4 +19,8 @@ const UsersList = () => {
 	);
 };
 
+function loadData() {
+	console.log("I'm trying to load some data");
+}
+export { loadData };
 export default UsersList;

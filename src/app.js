@@ -7,7 +7,9 @@ const app = express();
 app.use(express.static('public'));
 // Accept all route request, and delegate to React Router
 app.get('*', (req, res) => {
-	console.log(matchRoutes(Routes, req.path));
+	matchRoutes(Routes, req.path).map(({ route }) => {
+		return route.loadData ? route.loadData() : null;
+	});
 	// Send back content to browser, and the bundle file for React application
 	res.send(renderer(req));
 });
