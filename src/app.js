@@ -1,17 +1,24 @@
 import express from 'express';
 import renderer from './helpers/renderer';
+import createStore from './helpers/createStore';
 import { matchRoutes } from 'react-router-config';
 import Routes from './client/Routes';
+
 const app = express();
 
 app.use(express.static('public'));
 // Accept all route request, and delegate to React Router
 app.get('*', (req, res) => {
-	matchRoutes(Routes, req.path).map(({ route }) => {
-		return route.loadData ? route.loadData() : null;
+	const store = createStore();
+	const promises = matchRoutes(Routes, req.path).map(({ route }) => {
+		// If the component has loadData function, call it and return the promise
+		return route.loadData ? route.loadData(store) : null;
 	});
-	// Send back content to browser, and the bundle file for React application
-	res.send(renderer(req));
+	// Once the promise resolved, this means our data loading has finished.
+	Promise.all(promises).then(() => {
+		// Send back content to browser, and the bundle file for React application
+		res.send(renderer(req, store));
+	});
 });
 
 export default app;

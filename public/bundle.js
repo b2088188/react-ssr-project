@@ -9,26 +9,6 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/instance/filter.js":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/instance/filter.js ***!
-  \*******************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/instance/filter */ \"./node_modules/core-js-pure/stable/instance/filter.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/instance/filter.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/instance/for-each.js":
-/*!*********************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/instance/for-each.js ***!
-  \*********************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/instance/for-each */ \"./node_modules/core-js-pure/stable/instance/for-each.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/instance/for-each.js?");
-
-/***/ }),
-
 /***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/instance/map.js":
 /*!****************************************************************************!*\
   !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/instance/map.js ***!
@@ -36,126 +16,6 @@ eval("module.exports = __webpack_require__(/*! core-js-pure/stable/instance/for-
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__(/*! core-js-pure/stable/instance/map */ \"./node_modules/core-js-pure/stable/instance/map.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/instance/map.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-properties.js":
-/*!****************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-properties.js ***!
-  \****************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/object/define-properties */ \"./node_modules/core-js-pure/stable/object/define-properties.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-properties.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-property.js":
-/*!**************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-property.js ***!
-  \**************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/object/define-property */ \"./node_modules/core-js-pure/stable/object/define-property.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-property.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptor.js":
-/*!**************************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptor.js ***!
-  \**************************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/object/get-own-property-descriptor */ \"./node_modules/core-js-pure/stable/object/get-own-property-descriptor.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptor.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptors.js":
-/*!***************************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptors.js ***!
-  \***************************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/object/get-own-property-descriptors */ \"./node_modules/core-js-pure/stable/object/get-own-property-descriptors.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptors.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-symbols.js":
-/*!***********************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-symbols.js ***!
-  \***********************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/object/get-own-property-symbols */ \"./node_modules/core-js-pure/stable/object/get-own-property-symbols.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-symbols.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js-stable/object/keys.js":
-/*!***************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js-stable/object/keys.js ***!
-  \***************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/stable/object/keys */ \"./node_modules/core-js-pure/stable/object/keys.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js-stable/object/keys.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/array/from.js":
-/*!*******************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/array/from.js ***!
-  \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/array/from */ \"./node_modules/core-js-pure/features/array/from.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/array/from.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/array/is-array.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/array/is-array.js ***!
-  \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/array/is-array */ \"./node_modules/core-js-pure/features/array/is-array.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/array/is-array.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/get-iterator.js":
-/*!*********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/get-iterator.js ***!
-  \*********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/get-iterator */ \"./node_modules/core-js-pure/features/get-iterator.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/get-iterator.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/instance/slice.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/instance/slice.js ***!
-  \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/instance/slice */ \"./node_modules/core-js-pure/features/instance/slice.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/instance/slice.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/is-iterable.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/is-iterable.js ***!
-  \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/is-iterable */ \"./node_modules/core-js-pure/features/is-iterable.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/is-iterable.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/object/define-property.js":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/object/define-property.js ***!
-  \*******************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/object/define-property */ \"./node_modules/core-js-pure/features/object/define-property.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/object/define-property.js?");
 
 /***/ }),
 
@@ -169,38 +29,6 @@ eval("module.exports = __webpack_require__(/*! core-js-pure/features/promise */ 
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs3/core-js/symbol.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/core-js/symbol.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! core-js-pure/features/symbol */ \"./node_modules/core-js-pure/features/symbol/index.js\");\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/core-js/symbol.js?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/arrayLikeToArray/_index.mjs":
-/*!*********************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/arrayLikeToArray/_index.mjs ***!
-  \*********************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _arrayLikeToArray)\n/* harmony export */ });\nfunction _arrayLikeToArray(arr, len) {\n  if (len == null || len > arr.length) len = arr.length;\n\n  for (var i = 0, arr2 = new Array(len); i < len; i++) {\n    arr2[i] = arr[i];\n  }\n\n  return arr2;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/arrayLikeToArray/_index.mjs?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/arrayWithHoles/_index.mjs":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/arrayWithHoles/_index.mjs ***!
-  \*******************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _arrayWithHoles)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/array/is-array */ \"./node_modules/@babel/runtime-corejs3/core-js/array/is-array.js\");\n\nfunction _arrayWithHoles(arr) {\n  if (_babel_runtime_corejs3_core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0__(arr)) return arr;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/arrayWithHoles/_index.mjs?");
-
-/***/ }),
-
 /***/ "./node_modules/@babel/runtime-corejs3/helpers/asyncToGenerator/_index.mjs":
 /*!*********************************************************************************!*\
   !*** ./node_modules/@babel/runtime-corejs3/helpers/asyncToGenerator/_index.mjs ***!
@@ -209,61 +37,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _asyncToGenerator)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_promise__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/promise */ \"./node_modules/@babel/runtime-corejs3/core-js/promise.js\");\n\n\nfunction asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {\n  try {\n    var info = gen[key](arg);\n    var value = info.value;\n  } catch (error) {\n    reject(error);\n    return;\n  }\n\n  if (info.done) {\n    resolve(value);\n  } else {\n    _babel_runtime_corejs3_core_js_promise__WEBPACK_IMPORTED_MODULE_0__.resolve(value).then(_next, _throw);\n  }\n}\n\nfunction _asyncToGenerator(fn) {\n  return function () {\n    var self = this,\n        args = arguments;\n    return new _babel_runtime_corejs3_core_js_promise__WEBPACK_IMPORTED_MODULE_0__(function (resolve, reject) {\n      var gen = fn.apply(self, args);\n\n      function _next(value) {\n        asyncGeneratorStep(gen, resolve, reject, _next, _throw, \"next\", value);\n      }\n\n      function _throw(err) {\n        asyncGeneratorStep(gen, resolve, reject, _next, _throw, \"throw\", err);\n      }\n\n      _next(undefined);\n    });\n  };\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/asyncToGenerator/_index.mjs?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/defineProperty/_index.mjs":
-/*!*******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/defineProperty/_index.mjs ***!
-  \*******************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _defineProperty)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/object/define-property */ \"./node_modules/@babel/runtime-corejs3/core-js/object/define-property.js\");\n\nfunction _defineProperty(obj, key, value) {\n  if (key in obj) {\n    _babel_runtime_corejs3_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__(obj, key, {\n      value: value,\n      enumerable: true,\n      configurable: true,\n      writable: true\n    });\n  } else {\n    obj[key] = value;\n  }\n\n  return obj;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/defineProperty/_index.mjs?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/iterableToArrayLimit/_index.mjs":
-/*!*************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/iterableToArrayLimit/_index.mjs ***!
-  \*************************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _iterableToArrayLimit)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_symbol__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/symbol */ \"./node_modules/@babel/runtime-corejs3/core-js/symbol.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_is_iterable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/is-iterable */ \"./node_modules/@babel/runtime-corejs3/core-js/is-iterable.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_get_iterator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/get-iterator */ \"./node_modules/@babel/runtime-corejs3/core-js/get-iterator.js\");\n\n\n\nfunction _iterableToArrayLimit(arr, i) {\n  if (typeof _babel_runtime_corejs3_core_js_symbol__WEBPACK_IMPORTED_MODULE_0__ === \"undefined\" || !_babel_runtime_corejs3_core_js_is_iterable__WEBPACK_IMPORTED_MODULE_1__(Object(arr))) return;\n  var _arr = [];\n  var _n = true;\n  var _d = false;\n  var _e = undefined;\n\n  try {\n    for (var _i = _babel_runtime_corejs3_core_js_get_iterator__WEBPACK_IMPORTED_MODULE_2__(arr), _s; !(_n = (_s = _i.next()).done); _n = true) {\n      _arr.push(_s.value);\n\n      if (i && _arr.length === i) break;\n    }\n  } catch (err) {\n    _d = true;\n    _e = err;\n  } finally {\n    try {\n      if (!_n && _i[\"return\"] != null) _i[\"return\"]();\n    } finally {\n      if (_d) throw _e;\n    }\n  }\n\n  return _arr;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/iterableToArrayLimit/_index.mjs?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/nonIterableRest/_index.mjs":
-/*!********************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/nonIterableRest/_index.mjs ***!
-  \********************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _nonIterableRest)\n/* harmony export */ });\nfunction _nonIterableRest() {\n  throw new TypeError(\"Invalid attempt to destructure non-iterable instance.\\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.\");\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/nonIterableRest/_index.mjs?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/slicedToArray/_index.mjs":
-/*!******************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/slicedToArray/_index.mjs ***!
-  \******************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _slicedToArray)\n/* harmony export */ });\n/* harmony import */ var _arrayWithHoles_index_mjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../arrayWithHoles/_index.mjs */ \"./node_modules/@babel/runtime-corejs3/helpers/arrayWithHoles/_index.mjs\");\n/* harmony import */ var _iterableToArrayLimit_index_mjs__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../iterableToArrayLimit/_index.mjs */ \"./node_modules/@babel/runtime-corejs3/helpers/iterableToArrayLimit/_index.mjs\");\n/* harmony import */ var _unsupportedIterableToArray_index_mjs__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../unsupportedIterableToArray/_index.mjs */ \"./node_modules/@babel/runtime-corejs3/helpers/unsupportedIterableToArray/_index.mjs\");\n/* harmony import */ var _nonIterableRest_index_mjs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../nonIterableRest/_index.mjs */ \"./node_modules/@babel/runtime-corejs3/helpers/nonIterableRest/_index.mjs\");\n\n\n\n\nfunction _slicedToArray(arr, i) {\n  return (0,_arrayWithHoles_index_mjs__WEBPACK_IMPORTED_MODULE_0__.default)(arr) || (0,_iterableToArrayLimit_index_mjs__WEBPACK_IMPORTED_MODULE_1__.default)(arr, i) || (0,_unsupportedIterableToArray_index_mjs__WEBPACK_IMPORTED_MODULE_2__.default)(arr, i) || (0,_nonIterableRest_index_mjs__WEBPACK_IMPORTED_MODULE_3__.default)();\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/slicedToArray/_index.mjs?");
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs3/helpers/unsupportedIterableToArray/_index.mjs":
-/*!*******************************************************************************************!*\
-  !*** ./node_modules/@babel/runtime-corejs3/helpers/unsupportedIterableToArray/_index.mjs ***!
-  \*******************************************************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ _unsupportedIterableToArray)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_instance_slice__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/instance/slice */ \"./node_modules/@babel/runtime-corejs3/core-js/instance/slice.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_array_from__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js/array/from */ \"./node_modules/@babel/runtime-corejs3/core-js/array/from.js\");\n/* harmony import */ var _arrayLikeToArray_index_mjs__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../arrayLikeToArray/_index.mjs */ \"./node_modules/@babel/runtime-corejs3/helpers/arrayLikeToArray/_index.mjs\");\n\n\n\nfunction _unsupportedIterableToArray(o, minLen) {\n  var _context;\n\n  if (!o) return;\n  if (typeof o === \"string\") return (0,_arrayLikeToArray_index_mjs__WEBPACK_IMPORTED_MODULE_2__.default)(o, minLen);\n\n  var n = _babel_runtime_corejs3_core_js_instance_slice__WEBPACK_IMPORTED_MODULE_0__(_context = Object.prototype.toString.call(o)).call(_context, 8, -1);\n\n  if (n === \"Object\" && o.constructor) n = o.constructor.name;\n  if (n === \"Map\" || n === \"Set\") return _babel_runtime_corejs3_core_js_array_from__WEBPACK_IMPORTED_MODULE_1__(o);\n  if (n === \"Arguments\" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return (0,_arrayLikeToArray_index_mjs__WEBPACK_IMPORTED_MODULE_2__.default)(o, minLen);\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/@babel/runtime-corejs3/helpers/unsupportedIterableToArray/_index.mjs?");
 
 /***/ }),
 
@@ -628,6 +401,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "./src/client/actions/index.js":
+/*!*************************************!*\
+  !*** ./src/client/actions/index.js ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"FETCH_USERS\": () => (/* binding */ FETCH_USERS),\n/* harmony export */   \"fetchUsers\": () => (/* binding */ fetchUsers)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/helpers/asyncToGenerator */ \"./node_modules/@babel/runtime-corejs3/helpers/asyncToGenerator/_index.mjs\");\n/* harmony import */ var _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs3/regenerator */ \"./node_modules/@babel/runtime-corejs3/regenerator/index.js\");\n/* harmony import */ var _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nvar FETCH_USERS = 'fetch_users';\nvar fetchUsers = function fetchUsers() {\n  return /*#__PURE__*/function () {\n    var _ref = (0,_babel_runtime_corejs3_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__.default)( /*#__PURE__*/_babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1___default().mark(function _callee(dispatch) {\n      var res;\n      return _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1___default().wrap(function _callee$(_context) {\n        while (1) {\n          switch (_context.prev = _context.next) {\n            case 0:\n              _context.next = 2;\n              return axios__WEBPACK_IMPORTED_MODULE_2___default().get('http://react-ssr-api.herokuapp.com/users');\n\n            case 2:\n              res = _context.sent;\n              dispatch({\n                type: FETCH_USERS,\n                payload: res\n              });\n\n            case 4:\n            case \"end\":\n              return _context.stop();\n          }\n        }\n      }, _callee);\n    }));\n\n    return function (_x) {\n      return _ref.apply(this, arguments);\n    };\n  }();\n};\n\n//# sourceURL=webpack://react-ssr/./src/client/actions/index.js?");
+
+/***/ }),
+
 /***/ "./src/client/components/Home.js":
 /*!***************************************!*\
   !*** ./src/client/components/Home.js ***!
@@ -646,51 +430,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"loadData\": () => (/* binding */ loadData),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/instance/map */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/instance/map.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _context_user_userContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../context/user/userContext */ \"./src/client/context/user/userContext.js\");\n/* harmony import */ var _context_user_UserProvider__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../context/user/UserProvider */ \"./src/client/context/user/UserProvider.js\");\n\n\n\n\n\nvar UsersList = function UsersList() {\n  var _useUser = (0,_context_user_userContext__WEBPACK_IMPORTED_MODULE_2__.useUser)(),\n      users = _useUser.users,\n      dispatch = _useUser.dispatch;\n\n  (0,react__WEBPACK_IMPORTED_MODULE_1__.useEffect)(function () {\n    (0,_context_user_UserProvider__WEBPACK_IMPORTED_MODULE_3__.fetchUsers)(dispatch);\n  }, [dispatch]);\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(\"div\", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(\"div\", null, \"Here's a big list of users:\"), _babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_0___default()(users).call(users, function (user) {\n    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(\"li\", {\n      key: user.id\n    }, user.name);\n  }));\n};\n\nfunction loadData() {\n  console.log(\"I'm trying to load some data\");\n}\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (UsersList);\n\n//# sourceURL=webpack://react-ssr/./src/client/components/UsersList.js?");
-
-/***/ }),
-
-/***/ "./src/client/context/types.js":
-/*!*************************************!*\
-  !*** ./src/client/context/types.js ***!
-  \*************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"REQUEST_LOADING\": () => (/* binding */ REQUEST_LOADING),\n/* harmony export */   \"REQUEST_SUCCESS\": () => (/* binding */ REQUEST_SUCCESS),\n/* harmony export */   \"REQUEST_FAIL\": () => (/* binding */ REQUEST_FAIL)\n/* harmony export */ });\nvar REQUEST_LOADING = 'REQUEST_LOADING';\nvar REQUEST_SUCCESS = 'REQUEST_SUCCESS';\nvar REQUEST_FAIL = 'REQUEST_FAIL';\n\n//# sourceURL=webpack://react-ssr/./src/client/context/types.js?");
-
-/***/ }),
-
-/***/ "./src/client/context/user/UserProvider.js":
-/*!*************************************************!*\
-  !*** ./src/client/context/user/UserProvider.js ***!
-  \*************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"fetchUsers\": () => (/* binding */ fetchUsers),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/helpers/slicedToArray */ \"./node_modules/@babel/runtime-corejs3/helpers/slicedToArray/_index.mjs\");\n/* harmony import */ var _babel_runtime_corejs3_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs3/helpers/asyncToGenerator */ \"./node_modules/@babel/runtime-corejs3/helpers/asyncToGenerator/_index.mjs\");\n/* harmony import */ var _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs3/regenerator */ \"./node_modules/@babel/runtime-corejs3/regenerator/index.js\");\n/* harmony import */ var _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _userContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./userContext */ \"./src/client/context/user/userContext.js\");\n/* harmony import */ var _userReducer__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./userReducer */ \"./src/client/context/user/userReducer.js\");\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../types */ \"./src/client/context/types.js\");\n\n\n\n\n\n\n\n\nvar InitialState = {\n  status: 'idle',\n  users: [],\n  error: null\n};\nvar fetchUsers = /*#__PURE__*/function () {\n  var _ref = (0,_babel_runtime_corejs3_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__.default)( /*#__PURE__*/_babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_2___default().mark(function _callee(dispatch) {\n    var _yield$axios$get, data;\n\n    return _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_2___default().wrap(function _callee$(_context) {\n      while (1) {\n        switch (_context.prev = _context.next) {\n          case 0:\n            _context.prev = 0;\n            dispatch({\n              type: _types__WEBPACK_IMPORTED_MODULE_7__.REQUEST_LOADING\n            });\n            _context.next = 4;\n            return axios__WEBPACK_IMPORTED_MODULE_6___default().get('http://react-ssr-api.herokuapp.com/users');\n\n          case 4:\n            _yield$axios$get = _context.sent;\n            data = _yield$axios$get.data;\n            dispatch({\n              type: _types__WEBPACK_IMPORTED_MODULE_7__.REQUEST_SUCCESS,\n              payload: {\n                users: data\n              }\n            });\n            _context.next = 11;\n            break;\n\n          case 9:\n            _context.prev = 9;\n            _context.t0 = _context[\"catch\"](0);\n\n          case 11:\n          case \"end\":\n            return _context.stop();\n        }\n      }\n    }, _callee, null, [[0, 9]]);\n  }));\n\n  return function fetchUsers(_x) {\n    return _ref.apply(this, arguments);\n  };\n}();\n\nvar UserProvider = function UserProvider(_ref2) {\n  var children = _ref2.children;\n\n  var _useReducer = (0,react__WEBPACK_IMPORTED_MODULE_3__.useReducer)(_userReducer__WEBPACK_IMPORTED_MODULE_5__.default, InitialState),\n      _useReducer2 = (0,_babel_runtime_corejs3_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__.default)(_useReducer, 2),\n      state = _useReducer2[0],\n      dispatch = _useReducer2[1];\n\n  var isIdle = state.status === 'idle';\n  var isLoading = state.status === 'pending';\n  var isSuccess = state.status === 'resolved';\n  var isError = state.status === 'rejected';\n  var value = {\n    users: state.users,\n    isIdle: isIdle,\n    isLoading: isLoading,\n    isSuccess: isSuccess,\n    isError: isError,\n    dispatch: dispatch\n  };\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(_userContext__WEBPACK_IMPORTED_MODULE_4__.default.Provider, {\n    value: value\n  }, children);\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (UserProvider);\n\n//# sourceURL=webpack://react-ssr/./src/client/context/user/UserProvider.js?");
-
-/***/ }),
-
-/***/ "./src/client/context/user/userContext.js":
-/*!************************************************!*\
-  !*** ./src/client/context/user/userContext.js ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"useUser\": () => (/* binding */ useUser),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar UserContext = /*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_0__.createContext)();\nUserContext.displayName = 'UserProvider';\nvar useUser = function useUser() {\n  var context = (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(UserContext);\n  if (!context) throw new Error('The user context must be wrapped in UserProvider');\n  return context;\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (UserContext);\n\n//# sourceURL=webpack://react-ssr/./src/client/context/user/userContext.js?");
-
-/***/ }),
-
-/***/ "./src/client/context/user/userReducer.js":
-/*!************************************************!*\
-  !*** ./src/client/context/user/userReducer.js ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_keys__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/object/keys */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/object/keys.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_keys__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_object_keys__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/object/get-own-property-symbols */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-symbols.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_filter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/instance/filter */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/instance/filter.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_filter__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_instance_filter__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptor */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptor.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_for_each__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/instance/for-each */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/instance/for-each.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_for_each__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_instance_for_each__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptors */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/object/get-own-property-descriptors.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_define_properties__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/object/define-properties */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-properties.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_define_properties__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_object_define_properties__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_define_property__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/object/define-property */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/object/define-property.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_object_define_property__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_object_define_property__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _babel_runtime_corejs3_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs3/helpers/defineProperty */ \"./node_modules/@babel/runtime-corejs3/helpers/defineProperty/_index.mjs\");\n/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../types */ \"./src/client/context/types.js\");\n\n\n\n\n\n\n\n\n\n\nfunction ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs3_core_js_stable_object_keys__WEBPACK_IMPORTED_MODULE_0___default()(object); if ((_babel_runtime_corejs3_core_js_stable_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_1___default())) { var symbols = _babel_runtime_corejs3_core_js_stable_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_1___default()(object); if (enumerableOnly) symbols = _babel_runtime_corejs3_core_js_stable_instance_filter__WEBPACK_IMPORTED_MODULE_2___default()(symbols).call(symbols, function (sym) { return _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }\n\nfunction _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { var _context; _babel_runtime_corejs3_core_js_stable_instance_for_each__WEBPACK_IMPORTED_MODULE_4___default()(_context = ownKeys(Object(source), true)).call(_context, function (key) { (0,_babel_runtime_corejs3_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_8__.default)(target, key, source[key]); }); } else if ((_babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_5___default())) { _babel_runtime_corejs3_core_js_stable_object_define_properties__WEBPACK_IMPORTED_MODULE_6___default()(target, _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_5___default()(source)); } else { var _context2; _babel_runtime_corejs3_core_js_stable_instance_for_each__WEBPACK_IMPORTED_MODULE_4___default()(_context2 = ownKeys(Object(source))).call(_context2, function (key) { _babel_runtime_corejs3_core_js_stable_object_define_property__WEBPACK_IMPORTED_MODULE_7___default()(target, key, _babel_runtime_corejs3_core_js_stable_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(source, key)); }); } } return target; }\n\n\n\nfunction userReducer(currentState, action) {\n  switch (action.type) {\n    case _types__WEBPACK_IMPORTED_MODULE_9__.REQUEST_LOADING:\n      return _objectSpread(_objectSpread({}, currentState), {}, {\n        status: 'pending'\n      });\n\n    case _types__WEBPACK_IMPORTED_MODULE_9__.REQUEST_SUCCESS:\n      return _objectSpread(_objectSpread({}, currentState), {}, {\n        status: 'resolved',\n        users: action.payload.users,\n        error: null\n      });\n\n    case _types__WEBPACK_IMPORTED_MODULE_9__.REQUEST_FAIL:\n      return _objectSpread(_objectSpread({}, currentState), {}, {\n        status: 'rejected'\n      });\n\n    default:\n      return currentState;\n  }\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (userReducer);\n\n//# sourceURL=webpack://react-ssr/./src/client/context/user/userReducer.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"loadData\": () => (/* binding */ loadData),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_corejs3_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs3/helpers/asyncToGenerator */ \"./node_modules/@babel/runtime-corejs3/helpers/asyncToGenerator/_index.mjs\");\n/* harmony import */ var _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs3/regenerator */ \"./node_modules/@babel/runtime-corejs3/regenerator/index.js\");\n/* harmony import */ var _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs3/core-js-stable/instance/map */ \"./node_modules/@babel/runtime-corejs3/core-js-stable/instance/map.js\");\n/* harmony import */ var _babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-redux */ \"./node_modules/react-redux/es/index.js\");\n/* harmony import */ var _actions__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../actions */ \"./src/client/actions/index.js\");\n\n\n\n\n\n\n\nvar UsersList = function UsersList() {\n  var users = (0,react_redux__WEBPACK_IMPORTED_MODULE_4__.useSelector)(function (state) {\n    return state.users;\n  });\n  var dispatch = (0,react_redux__WEBPACK_IMPORTED_MODULE_4__.useDispatch)();\n  (0,react__WEBPACK_IMPORTED_MODULE_3__.useEffect)(function () {\n    dispatch((0,_actions__WEBPACK_IMPORTED_MODULE_5__.fetchUsers)());\n  }, [dispatch]);\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(\"div\", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(\"div\", null, \"Here's a big list of users:\"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(\"ul\", null, _babel_runtime_corejs3_core_js_stable_instance_map__WEBPACK_IMPORTED_MODULE_2___default()(users).call(users, function (user) {\n    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(\"li\", {\n      key: user.id\n    }, user.name);\n  })));\n};\n\nfunction loadData(_x) {\n  return _loadData.apply(this, arguments);\n}\n\nfunction _loadData() {\n  _loadData = (0,_babel_runtime_corejs3_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__.default)( /*#__PURE__*/_babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1___default().mark(function _callee(store) {\n    return _babel_runtime_corejs3_regenerator__WEBPACK_IMPORTED_MODULE_1___default().wrap(function _callee$(_context) {\n      while (1) {\n        switch (_context.prev = _context.next) {\n          case 0:\n            return _context.abrupt(\"return\", store.dispatch((0,_actions__WEBPACK_IMPORTED_MODULE_5__.fetchUsers)()));\n\n          case 1:\n          case \"end\":\n            return _context.stop();\n        }\n      }\n    }, _callee);\n  }));\n  return _loadData.apply(this, arguments);\n}\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (UsersList);\n\n//# sourceURL=webpack://react-ssr/./src/client/components/UsersList.js?");
 
 /***/ }),
 
@@ -701,47 +441,29 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-router-dom */ \"./node_modules/react-router-dom/esm/react-router-dom.js\");\n/* harmony import */ var _Routes__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Routes */ \"./src/client/Routes.js\");\n/* harmony import */ var _context_user_UserProvider__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./context/user/UserProvider */ \"./src/client/context/user/UserProvider.js\");\n/* harmony import */ var react_router_config__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-router-config */ \"./node_modules/react-router-config/esm/react-router-config.js\");\n\n\n\n\n\n // The code is executed on browser side,\n// There's already content rendered from the server inside the div,\n// We're not replacing existing HTML, we just set up all event handlers and some necessary code.\n// So we need to use hydrate rather than render.\n\nreact_dom__WEBPACK_IMPORTED_MODULE_1__.hydrate( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_context_user_UserProvider__WEBPACK_IMPORTED_MODULE_3__.default, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.BrowserRouter, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"div\", null, (0,react_router_config__WEBPACK_IMPORTED_MODULE_5__.renderRoutes)(_Routes__WEBPACK_IMPORTED_MODULE_2__.default)))), document.querySelector('#root'));\n\n//# sourceURL=webpack://react-ssr/./src/client/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-router-dom */ \"./node_modules/react-router-dom/esm/react-router-dom.js\");\n/* harmony import */ var _Routes__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Routes */ \"./src/client/Routes.js\");\n/* harmony import */ var react_router_config__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-router-config */ \"./node_modules/react-router-config/esm/react-router-config.js\");\n/* harmony import */ var redux__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! redux */ \"./node_modules/redux/es/redux.js\");\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-redux */ \"./node_modules/react-redux/es/index.js\");\n/* harmony import */ var redux_thunk__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! redux-thunk */ \"./node_modules/redux-thunk/es/index.js\");\n/* harmony import */ var _reducers__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./reducers */ \"./src/client/reducers/index.js\");\n\n\n\n\n\n\n\n\n\nvar store = (0,redux__WEBPACK_IMPORTED_MODULE_6__.createStore)(_reducers__WEBPACK_IMPORTED_MODULE_5__.default, (0,redux__WEBPACK_IMPORTED_MODULE_6__.applyMiddleware)(redux_thunk__WEBPACK_IMPORTED_MODULE_4__.default)); // The code is executed on browser side,\n// There's already content rendered from the server inside the div,\n// We're not replacing existing HTML, we just set up all event handlers and some necessary code.\n// So we need to use hydrate rather than render.\n\nreact_dom__WEBPACK_IMPORTED_MODULE_1__.hydrate( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react_redux__WEBPACK_IMPORTED_MODULE_3__.Provider, {\n  store: store\n}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_7__.BrowserRouter, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(\"div\", null, (0,react_router_config__WEBPACK_IMPORTED_MODULE_8__.renderRoutes)(_Routes__WEBPACK_IMPORTED_MODULE_2__.default)))), document.querySelector('#root'));\n\n//# sourceURL=webpack://react-ssr/./src/client/index.js?");
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/es/array/from.js":
-/*!****************************************************!*\
-  !*** ./node_modules/core-js-pure/es/array/from.js ***!
-  \****************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+/***/ "./src/client/reducers/index.js":
+/*!**************************************!*\
+  !*** ./src/client/reducers/index.js ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__(/*! ../../modules/es.string.iterator */ \"./node_modules/core-js-pure/modules/es.string.iterator.js\");\n__webpack_require__(/*! ../../modules/es.array.from */ \"./node_modules/core-js-pure/modules/es.array.from.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nmodule.exports = path.Array.from;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/array/from.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/array/is-array.js":
-/*!********************************************************!*\
-  !*** ./node_modules/core-js-pure/es/array/is-array.js ***!
-  \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.array.is-array */ \"./node_modules/core-js-pure/modules/es.array.is-array.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nmodule.exports = path.Array.isArray;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/array/is-array.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var redux__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! redux */ \"./node_modules/redux/es/redux.js\");\n/* harmony import */ var _usersReducer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./usersReducer */ \"./src/client/reducers/usersReducer.js\");\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,redux__WEBPACK_IMPORTED_MODULE_1__.combineReducers)({\n  users: _usersReducer__WEBPACK_IMPORTED_MODULE_0__.default\n}));\n\n//# sourceURL=webpack://react-ssr/./src/client/reducers/index.js?");
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/es/array/virtual/filter.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/array/virtual/filter.js ***!
-  \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+/***/ "./src/client/reducers/usersReducer.js":
+/*!*********************************************!*\
+  !*** ./src/client/reducers/usersReducer.js ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__(/*! ../../../modules/es.array.filter */ \"./node_modules/core-js-pure/modules/es.array.filter.js\");\nvar entryVirtual = __webpack_require__(/*! ../../../internals/entry-virtual */ \"./node_modules/core-js-pure/internals/entry-virtual.js\");\n\nmodule.exports = entryVirtual('Array').filter;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/array/virtual/filter.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/array/virtual/for-each.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/array/virtual/for-each.js ***!
-  \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../../modules/es.array.for-each */ \"./node_modules/core-js-pure/modules/es.array.for-each.js\");\nvar entryVirtual = __webpack_require__(/*! ../../../internals/entry-virtual */ \"./node_modules/core-js-pure/internals/entry-virtual.js\");\n\nmodule.exports = entryVirtual('Array').forEach;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/array/virtual/for-each.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _actions__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../actions */ \"./src/client/actions/index.js\");\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (function () {\n  var state = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : [];\n  var action = arguments.length > 1 ? arguments[1] : undefined;\n\n  switch (action.type) {\n    case _actions__WEBPACK_IMPORTED_MODULE_0__.FETCH_USERS:\n      return action.payload.data;\n\n    default:\n      return state;\n  }\n});\n\n//# sourceURL=webpack://react-ssr/./src/client/reducers/usersReducer.js?");
 
 /***/ }),
 
@@ -755,26 +477,6 @@ eval("__webpack_require__(/*! ../../../modules/es.array.map */ \"./node_modules/
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/es/array/virtual/slice.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/array/virtual/slice.js ***!
-  \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../../modules/es.array.slice */ \"./node_modules/core-js-pure/modules/es.array.slice.js\");\nvar entryVirtual = __webpack_require__(/*! ../../../internals/entry-virtual */ \"./node_modules/core-js-pure/internals/entry-virtual.js\");\n\nmodule.exports = entryVirtual('Array').slice;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/array/virtual/slice.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/instance/filter.js":
-/*!*********************************************************!*\
-  !*** ./node_modules/core-js-pure/es/instance/filter.js ***!
-  \*********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var filter = __webpack_require__(/*! ../array/virtual/filter */ \"./node_modules/core-js-pure/es/array/virtual/filter.js\");\n\nvar ArrayPrototype = Array.prototype;\n\nmodule.exports = function (it) {\n  var own = it.filter;\n  return it === ArrayPrototype || (it instanceof Array && own === ArrayPrototype.filter) ? filter : own;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/instance/filter.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/es/instance/map.js":
 /*!******************************************************!*\
   !*** ./node_modules/core-js-pure/es/instance/map.js ***!
@@ -782,76 +484,6 @@ eval("var filter = __webpack_require__(/*! ../array/virtual/filter */ \"./node_m
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("var map = __webpack_require__(/*! ../array/virtual/map */ \"./node_modules/core-js-pure/es/array/virtual/map.js\");\n\nvar ArrayPrototype = Array.prototype;\n\nmodule.exports = function (it) {\n  var own = it.map;\n  return it === ArrayPrototype || (it instanceof Array && own === ArrayPrototype.map) ? map : own;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/instance/map.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/instance/slice.js":
-/*!********************************************************!*\
-  !*** ./node_modules/core-js-pure/es/instance/slice.js ***!
-  \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var slice = __webpack_require__(/*! ../array/virtual/slice */ \"./node_modules/core-js-pure/es/array/virtual/slice.js\");\n\nvar ArrayPrototype = Array.prototype;\n\nmodule.exports = function (it) {\n  var own = it.slice;\n  return it === ArrayPrototype || (it instanceof Array && own === ArrayPrototype.slice) ? slice : own;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/instance/slice.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/object/define-properties.js":
-/*!******************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/object/define-properties.js ***!
-  \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.object.define-properties */ \"./node_modules/core-js-pure/modules/es.object.define-properties.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nvar Object = path.Object;\n\nvar defineProperties = module.exports = function defineProperties(T, D) {\n  return Object.defineProperties(T, D);\n};\n\nif (Object.defineProperties.sham) defineProperties.sham = true;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/object/define-properties.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/object/define-property.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/object/define-property.js ***!
-  \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.object.define-property */ \"./node_modules/core-js-pure/modules/es.object.define-property.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nvar Object = path.Object;\n\nvar defineProperty = module.exports = function defineProperty(it, key, desc) {\n  return Object.defineProperty(it, key, desc);\n};\n\nif (Object.defineProperty.sham) defineProperty.sham = true;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/object/define-property.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/object/get-own-property-descriptor.js":
-/*!****************************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/object/get-own-property-descriptor.js ***!
-  \****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.object.get-own-property-descriptor */ \"./node_modules/core-js-pure/modules/es.object.get-own-property-descriptor.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nvar Object = path.Object;\n\nvar getOwnPropertyDescriptor = module.exports = function getOwnPropertyDescriptor(it, key) {\n  return Object.getOwnPropertyDescriptor(it, key);\n};\n\nif (Object.getOwnPropertyDescriptor.sham) getOwnPropertyDescriptor.sham = true;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/object/get-own-property-descriptor.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/object/get-own-property-descriptors.js":
-/*!*****************************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/object/get-own-property-descriptors.js ***!
-  \*****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.object.get-own-property-descriptors */ \"./node_modules/core-js-pure/modules/es.object.get-own-property-descriptors.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nmodule.exports = path.Object.getOwnPropertyDescriptors;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/object/get-own-property-descriptors.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/object/get-own-property-symbols.js":
-/*!*************************************************************************!*\
-  !*** ./node_modules/core-js-pure/es/object/get-own-property-symbols.js ***!
-  \*************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.symbol */ \"./node_modules/core-js-pure/modules/es.symbol.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nmodule.exports = path.Object.getOwnPropertySymbols;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/object/get-own-property-symbols.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/es/object/keys.js":
-/*!*****************************************************!*\
-  !*** ./node_modules/core-js-pure/es/object/keys.js ***!
-  \*****************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.object.keys */ \"./node_modules/core-js-pure/modules/es.object.keys.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nmodule.exports = path.Object.keys;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/object/keys.js?");
 
 /***/ }),
 
@@ -865,76 +497,6 @@ eval("__webpack_require__(/*! ../../modules/es.aggregate-error */ \"./node_modul
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/es/symbol/index.js":
-/*!******************************************************!*\
-  !*** ./node_modules/core-js-pure/es/symbol/index.js ***!
-  \******************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/es.array.concat */ \"./node_modules/core-js-pure/modules/es.array.concat.js\");\n__webpack_require__(/*! ../../modules/es.object.to-string */ \"./node_modules/core-js-pure/modules/es.object.to-string.js\");\n__webpack_require__(/*! ../../modules/es.symbol */ \"./node_modules/core-js-pure/modules/es.symbol.js\");\n__webpack_require__(/*! ../../modules/es.symbol.async-iterator */ \"./node_modules/core-js-pure/modules/es.symbol.async-iterator.js\");\n__webpack_require__(/*! ../../modules/es.symbol.description */ \"./node_modules/core-js-pure/modules/es.symbol.description.js\");\n__webpack_require__(/*! ../../modules/es.symbol.has-instance */ \"./node_modules/core-js-pure/modules/es.symbol.has-instance.js\");\n__webpack_require__(/*! ../../modules/es.symbol.is-concat-spreadable */ \"./node_modules/core-js-pure/modules/es.symbol.is-concat-spreadable.js\");\n__webpack_require__(/*! ../../modules/es.symbol.iterator */ \"./node_modules/core-js-pure/modules/es.symbol.iterator.js\");\n__webpack_require__(/*! ../../modules/es.symbol.match */ \"./node_modules/core-js-pure/modules/es.symbol.match.js\");\n__webpack_require__(/*! ../../modules/es.symbol.match-all */ \"./node_modules/core-js-pure/modules/es.symbol.match-all.js\");\n__webpack_require__(/*! ../../modules/es.symbol.replace */ \"./node_modules/core-js-pure/modules/es.symbol.replace.js\");\n__webpack_require__(/*! ../../modules/es.symbol.search */ \"./node_modules/core-js-pure/modules/es.symbol.search.js\");\n__webpack_require__(/*! ../../modules/es.symbol.species */ \"./node_modules/core-js-pure/modules/es.symbol.species.js\");\n__webpack_require__(/*! ../../modules/es.symbol.split */ \"./node_modules/core-js-pure/modules/es.symbol.split.js\");\n__webpack_require__(/*! ../../modules/es.symbol.to-primitive */ \"./node_modules/core-js-pure/modules/es.symbol.to-primitive.js\");\n__webpack_require__(/*! ../../modules/es.symbol.to-string-tag */ \"./node_modules/core-js-pure/modules/es.symbol.to-string-tag.js\");\n__webpack_require__(/*! ../../modules/es.symbol.unscopables */ \"./node_modules/core-js-pure/modules/es.symbol.unscopables.js\");\n__webpack_require__(/*! ../../modules/es.json.to-string-tag */ \"./node_modules/core-js-pure/modules/es.json.to-string-tag.js\");\n__webpack_require__(/*! ../../modules/es.math.to-string-tag */ \"./node_modules/core-js-pure/modules/es.math.to-string-tag.js\");\n__webpack_require__(/*! ../../modules/es.reflect.to-string-tag */ \"./node_modules/core-js-pure/modules/es.reflect.to-string-tag.js\");\nvar path = __webpack_require__(/*! ../../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\n\nmodule.exports = path.Symbol;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/es/symbol/index.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/array/from.js":
-/*!**********************************************************!*\
-  !*** ./node_modules/core-js-pure/features/array/from.js ***!
-  \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/array/from */ \"./node_modules/core-js-pure/es/array/from.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/array/from.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/array/is-array.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/features/array/is-array.js ***!
-  \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/array/is-array */ \"./node_modules/core-js-pure/es/array/is-array.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/array/is-array.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/get-iterator.js":
-/*!************************************************************!*\
-  !*** ./node_modules/core-js-pure/features/get-iterator.js ***!
-  \************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../modules/web.dom-collections.iterator */ \"./node_modules/core-js-pure/modules/web.dom-collections.iterator.js\");\n__webpack_require__(/*! ../modules/es.string.iterator */ \"./node_modules/core-js-pure/modules/es.string.iterator.js\");\nvar getIterator = __webpack_require__(/*! ../internals/get-iterator */ \"./node_modules/core-js-pure/internals/get-iterator.js\");\n\nmodule.exports = getIterator;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/get-iterator.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/instance/slice.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/features/instance/slice.js ***!
-  \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/instance/slice */ \"./node_modules/core-js-pure/es/instance/slice.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/instance/slice.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/is-iterable.js":
-/*!***********************************************************!*\
-  !*** ./node_modules/core-js-pure/features/is-iterable.js ***!
-  \***********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../modules/web.dom-collections.iterator */ \"./node_modules/core-js-pure/modules/web.dom-collections.iterator.js\");\n__webpack_require__(/*! ../modules/es.string.iterator */ \"./node_modules/core-js-pure/modules/es.string.iterator.js\");\nvar isIterable = __webpack_require__(/*! ../internals/is-iterable */ \"./node_modules/core-js-pure/internals/is-iterable.js\");\n\nmodule.exports = isIterable;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/is-iterable.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/object/define-property.js":
-/*!**********************************************************************!*\
-  !*** ./node_modules/core-js-pure/features/object/define-property.js ***!
-  \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/define-property */ \"./node_modules/core-js-pure/es/object/define-property.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/object/define-property.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/features/promise/index.js":
 /*!*************************************************************!*\
   !*** ./node_modules/core-js-pure/features/promise/index.js ***!
@@ -942,16 +504,6 @@ eval("var parent = __webpack_require__(/*! ../../es/object/define-property */ \"
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("var parent = __webpack_require__(/*! ../../es/promise */ \"./node_modules/core-js-pure/es/promise/index.js\");\n__webpack_require__(/*! ../../modules/esnext.aggregate-error */ \"./node_modules/core-js-pure/modules/esnext.aggregate-error.js\");\n// TODO: Remove from `core-js@4`\n__webpack_require__(/*! ../../modules/esnext.promise.all-settled */ \"./node_modules/core-js-pure/modules/esnext.promise.all-settled.js\");\n__webpack_require__(/*! ../../modules/esnext.promise.try */ \"./node_modules/core-js-pure/modules/esnext.promise.try.js\");\n__webpack_require__(/*! ../../modules/esnext.promise.any */ \"./node_modules/core-js-pure/modules/esnext.promise.any.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/promise/index.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/features/symbol/index.js":
-/*!************************************************************!*\
-  !*** ./node_modules/core-js-pure/features/symbol/index.js ***!
-  \************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/symbol */ \"./node_modules/core-js-pure/es/symbol/index.js\");\n__webpack_require__(/*! ../../modules/esnext.symbol.async-dispose */ \"./node_modules/core-js-pure/modules/esnext.symbol.async-dispose.js\");\n__webpack_require__(/*! ../../modules/esnext.symbol.dispose */ \"./node_modules/core-js-pure/modules/esnext.symbol.dispose.js\");\n__webpack_require__(/*! ../../modules/esnext.symbol.observable */ \"./node_modules/core-js-pure/modules/esnext.symbol.observable.js\");\n__webpack_require__(/*! ../../modules/esnext.symbol.pattern-match */ \"./node_modules/core-js-pure/modules/esnext.symbol.pattern-match.js\");\n// TODO: Remove from `core-js@4`\n__webpack_require__(/*! ../../modules/esnext.symbol.replace-all */ \"./node_modules/core-js-pure/modules/esnext.symbol.replace-all.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/features/symbol/index.js?");
 
 /***/ }),
 
@@ -1005,28 +557,6 @@ eval("var isObject = __webpack_require__(/*! ../internals/is-object */ \"./node_
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/internals/array-for-each.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/array-for-each.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar $forEach = __webpack_require__(/*! ../internals/array-iteration */ \"./node_modules/core-js-pure/internals/array-iteration.js\").forEach;\nvar arrayMethodIsStrict = __webpack_require__(/*! ../internals/array-method-is-strict */ \"./node_modules/core-js-pure/internals/array-method-is-strict.js\");\n\nvar STRICT_METHOD = arrayMethodIsStrict('forEach');\n\n// `Array.prototype.forEach` method implementation\n// https://tc39.es/ecma262/#sec-array.prototype.foreach\nmodule.exports = !STRICT_METHOD ? function forEach(callbackfn /* , thisArg */) {\n  return $forEach(this, callbackfn, arguments.length > 1 ? arguments[1] : undefined);\n} : [].forEach;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/array-for-each.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/array-from.js":
-/*!***********************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/array-from.js ***!
-  \***********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar bind = __webpack_require__(/*! ../internals/function-bind-context */ \"./node_modules/core-js-pure/internals/function-bind-context.js\");\nvar toObject = __webpack_require__(/*! ../internals/to-object */ \"./node_modules/core-js-pure/internals/to-object.js\");\nvar callWithSafeIterationClosing = __webpack_require__(/*! ../internals/call-with-safe-iteration-closing */ \"./node_modules/core-js-pure/internals/call-with-safe-iteration-closing.js\");\nvar isArrayIteratorMethod = __webpack_require__(/*! ../internals/is-array-iterator-method */ \"./node_modules/core-js-pure/internals/is-array-iterator-method.js\");\nvar toLength = __webpack_require__(/*! ../internals/to-length */ \"./node_modules/core-js-pure/internals/to-length.js\");\nvar createProperty = __webpack_require__(/*! ../internals/create-property */ \"./node_modules/core-js-pure/internals/create-property.js\");\nvar getIteratorMethod = __webpack_require__(/*! ../internals/get-iterator-method */ \"./node_modules/core-js-pure/internals/get-iterator-method.js\");\n\n// `Array.from` method implementation\n// https://tc39.es/ecma262/#sec-array.from\nmodule.exports = function from(arrayLike /* , mapfn = undefined, thisArg = undefined */) {\n  var O = toObject(arrayLike);\n  var C = typeof this == 'function' ? this : Array;\n  var argumentsLength = arguments.length;\n  var mapfn = argumentsLength > 1 ? arguments[1] : undefined;\n  var mapping = mapfn !== undefined;\n  var iteratorMethod = getIteratorMethod(O);\n  var index = 0;\n  var length, result, step, iterator, next, value;\n  if (mapping) mapfn = bind(mapfn, argumentsLength > 2 ? arguments[2] : undefined, 2);\n  // if the target is not iterable or it's an array with the default iterator - use a simple case\n  if (iteratorMethod != undefined && !(C == Array && isArrayIteratorMethod(iteratorMethod))) {\n    iterator = iteratorMethod.call(O);\n    next = iterator.next;\n    result = new C();\n    for (;!(step = next.call(iterator)).done; index++) {\n      value = mapping ? callWithSafeIterationClosing(iterator, mapfn, [step.value, index], true) : step.value;\n      createProperty(result, index, value);\n    }\n  } else {\n    length = toLength(O.length);\n    result = new C(length);\n    for (;length > index; index++) {\n      value = mapping ? mapfn(O[index], index) : O[index];\n      createProperty(result, index, value);\n    }\n  }\n  result.length = index;\n  return result;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/array-from.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/internals/array-includes.js":
 /*!***************************************************************!*\
   !*** ./node_modules/core-js-pure/internals/array-includes.js ***!
@@ -1057,17 +587,6 @@ eval("var fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/internals/array-method-is-strict.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/array-method-is-strict.js ***!
-  \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules/core-js-pure/internals/fails.js\");\n\nmodule.exports = function (METHOD_NAME, argument) {\n  var method = [][METHOD_NAME];\n  return !!method && fails(function () {\n    // eslint-disable-next-line no-useless-call,no-throw-literal -- required for testing\n    method.call(null, argument || function () { throw 1; }, 1);\n  });\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/array-method-is-strict.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/internals/array-species-create.js":
 /*!*********************************************************************!*\
   !*** ./node_modules/core-js-pure/internals/array-species-create.js ***!
@@ -1075,16 +594,6 @@ eval("\nvar fails = __webpack_require__(/*! ../internals/fails */ \"./node_modul
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("var isObject = __webpack_require__(/*! ../internals/is-object */ \"./node_modules/core-js-pure/internals/is-object.js\");\nvar isArray = __webpack_require__(/*! ../internals/is-array */ \"./node_modules/core-js-pure/internals/is-array.js\");\nvar wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\n\nvar SPECIES = wellKnownSymbol('species');\n\n// `ArraySpeciesCreate` abstract operation\n// https://tc39.es/ecma262/#sec-arrayspeciescreate\nmodule.exports = function (originalArray, length) {\n  var C;\n  if (isArray(originalArray)) {\n    C = originalArray.constructor;\n    // cross-realm fallback\n    if (typeof C == 'function' && (C === Array || isArray(C.prototype))) C = undefined;\n    else if (isObject(C)) {\n      C = C[SPECIES];\n      if (C === null) C = undefined;\n    }\n  } return new (C === undefined ? Array : C)(length === 0 ? 0 : length);\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/array-species-create.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/call-with-safe-iteration-closing.js":
-/*!*********************************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/call-with-safe-iteration-closing.js ***!
-  \*********************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var anObject = __webpack_require__(/*! ../internals/an-object */ \"./node_modules/core-js-pure/internals/an-object.js\");\nvar iteratorClose = __webpack_require__(/*! ../internals/iterator-close */ \"./node_modules/core-js-pure/internals/iterator-close.js\");\n\n// call something on iterator step with safe closing on error\nmodule.exports = function (iterator, fn, value, ENTRIES) {\n  try {\n    return ENTRIES ? fn(anObject(value)[0], value[1]) : fn(value);\n  // 7.4.6 IteratorClose(iterator, completion)\n  } catch (error) {\n    iteratorClose(iterator);\n    throw error;\n  }\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/call-with-safe-iteration-closing.js?");
 
 /***/ }),
 
@@ -1159,17 +668,6 @@ eval("module.exports = function (bitmap, value) {\n  return {\n    enumerable: !
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/internals/create-property.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/create-property.js ***!
-  \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar toPrimitive = __webpack_require__(/*! ../internals/to-primitive */ \"./node_modules/core-js-pure/internals/to-primitive.js\");\nvar definePropertyModule = __webpack_require__(/*! ../internals/object-define-property */ \"./node_modules/core-js-pure/internals/object-define-property.js\");\nvar createPropertyDescriptor = __webpack_require__(/*! ../internals/create-property-descriptor */ \"./node_modules/core-js-pure/internals/create-property-descriptor.js\");\n\nmodule.exports = function (object, key, value) {\n  var propertyKey = toPrimitive(key);\n  if (propertyKey in object) definePropertyModule.f(object, propertyKey, createPropertyDescriptor(0, value));\n  else object[propertyKey] = value;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/create-property.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/internals/define-iterator.js":
 /*!****************************************************************!*\
   !*** ./node_modules/core-js-pure/internals/define-iterator.js ***!
@@ -1178,16 +676,6 @@ eval("\nvar toPrimitive = __webpack_require__(/*! ../internals/to-primitive */ \
 
 "use strict";
 eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar createIteratorConstructor = __webpack_require__(/*! ../internals/create-iterator-constructor */ \"./node_modules/core-js-pure/internals/create-iterator-constructor.js\");\nvar getPrototypeOf = __webpack_require__(/*! ../internals/object-get-prototype-of */ \"./node_modules/core-js-pure/internals/object-get-prototype-of.js\");\nvar setPrototypeOf = __webpack_require__(/*! ../internals/object-set-prototype-of */ \"./node_modules/core-js-pure/internals/object-set-prototype-of.js\");\nvar setToStringTag = __webpack_require__(/*! ../internals/set-to-string-tag */ \"./node_modules/core-js-pure/internals/set-to-string-tag.js\");\nvar createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ \"./node_modules/core-js-pure/internals/create-non-enumerable-property.js\");\nvar redefine = __webpack_require__(/*! ../internals/redefine */ \"./node_modules/core-js-pure/internals/redefine.js\");\nvar wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\nvar IS_PURE = __webpack_require__(/*! ../internals/is-pure */ \"./node_modules/core-js-pure/internals/is-pure.js\");\nvar Iterators = __webpack_require__(/*! ../internals/iterators */ \"./node_modules/core-js-pure/internals/iterators.js\");\nvar IteratorsCore = __webpack_require__(/*! ../internals/iterators-core */ \"./node_modules/core-js-pure/internals/iterators-core.js\");\n\nvar IteratorPrototype = IteratorsCore.IteratorPrototype;\nvar BUGGY_SAFARI_ITERATORS = IteratorsCore.BUGGY_SAFARI_ITERATORS;\nvar ITERATOR = wellKnownSymbol('iterator');\nvar KEYS = 'keys';\nvar VALUES = 'values';\nvar ENTRIES = 'entries';\n\nvar returnThis = function () { return this; };\n\nmodule.exports = function (Iterable, NAME, IteratorConstructor, next, DEFAULT, IS_SET, FORCED) {\n  createIteratorConstructor(IteratorConstructor, NAME, next);\n\n  var getIterationMethod = function (KIND) {\n    if (KIND === DEFAULT && defaultIterator) return defaultIterator;\n    if (!BUGGY_SAFARI_ITERATORS && KIND in IterablePrototype) return IterablePrototype[KIND];\n    switch (KIND) {\n      case KEYS: return function keys() { return new IteratorConstructor(this, KIND); };\n      case VALUES: return function values() { return new IteratorConstructor(this, KIND); };\n      case ENTRIES: return function entries() { return new IteratorConstructor(this, KIND); };\n    } return function () { return new IteratorConstructor(this); };\n  };\n\n  var TO_STRING_TAG = NAME + ' Iterator';\n  var INCORRECT_VALUES_NAME = false;\n  var IterablePrototype = Iterable.prototype;\n  var nativeIterator = IterablePrototype[ITERATOR]\n    || IterablePrototype['@@iterator']\n    || DEFAULT && IterablePrototype[DEFAULT];\n  var defaultIterator = !BUGGY_SAFARI_ITERATORS && nativeIterator || getIterationMethod(DEFAULT);\n  var anyNativeIterator = NAME == 'Array' ? IterablePrototype.entries || nativeIterator : nativeIterator;\n  var CurrentIteratorPrototype, methods, KEY;\n\n  // fix native\n  if (anyNativeIterator) {\n    CurrentIteratorPrototype = getPrototypeOf(anyNativeIterator.call(new Iterable()));\n    if (IteratorPrototype !== Object.prototype && CurrentIteratorPrototype.next) {\n      if (!IS_PURE && getPrototypeOf(CurrentIteratorPrototype) !== IteratorPrototype) {\n        if (setPrototypeOf) {\n          setPrototypeOf(CurrentIteratorPrototype, IteratorPrototype);\n        } else if (typeof CurrentIteratorPrototype[ITERATOR] != 'function') {\n          createNonEnumerableProperty(CurrentIteratorPrototype, ITERATOR, returnThis);\n        }\n      }\n      // Set @@toStringTag to native iterators\n      setToStringTag(CurrentIteratorPrototype, TO_STRING_TAG, true, true);\n      if (IS_PURE) Iterators[TO_STRING_TAG] = returnThis;\n    }\n  }\n\n  // fix Array#{values, @@iterator}.name in V8 / FF\n  if (DEFAULT == VALUES && nativeIterator && nativeIterator.name !== VALUES) {\n    INCORRECT_VALUES_NAME = true;\n    defaultIterator = function values() { return nativeIterator.call(this); };\n  }\n\n  // define iterator\n  if ((!IS_PURE || FORCED) && IterablePrototype[ITERATOR] !== defaultIterator) {\n    createNonEnumerableProperty(IterablePrototype, ITERATOR, defaultIterator);\n  }\n  Iterators[NAME] = defaultIterator;\n\n  // export additional methods\n  if (DEFAULT) {\n    methods = {\n      values: getIterationMethod(VALUES),\n      keys: IS_SET ? defaultIterator : getIterationMethod(KEYS),\n      entries: getIterationMethod(ENTRIES)\n    };\n    if (FORCED) for (KEY in methods) {\n      if (BUGGY_SAFARI_ITERATORS || INCORRECT_VALUES_NAME || !(KEY in IterablePrototype)) {\n        redefine(IterablePrototype, KEY, methods[KEY]);\n      }\n    } else $({ target: NAME, proto: true, forced: BUGGY_SAFARI_ITERATORS || INCORRECT_VALUES_NAME }, methods);\n  }\n\n  return methods;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/define-iterator.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/define-well-known-symbol.js":
-/*!*************************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/define-well-known-symbol.js ***!
-  \*************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var path = __webpack_require__(/*! ../internals/path */ \"./node_modules/core-js-pure/internals/path.js\");\nvar has = __webpack_require__(/*! ../internals/has */ \"./node_modules/core-js-pure/internals/has.js\");\nvar wrappedWellKnownSymbolModule = __webpack_require__(/*! ../internals/well-known-symbol-wrapped */ \"./node_modules/core-js-pure/internals/well-known-symbol-wrapped.js\");\nvar defineProperty = __webpack_require__(/*! ../internals/object-define-property */ \"./node_modules/core-js-pure/internals/object-define-property.js\").f;\n\nmodule.exports = function (NAME) {\n  var Symbol = path.Symbol || (path.Symbol = {});\n  if (!has(Symbol, NAME)) defineProperty(Symbol, NAME, {\n    value: wrappedWellKnownSymbolModule.f(NAME)\n  });\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/define-well-known-symbol.js?");
 
 /***/ }),
 
@@ -1342,16 +830,6 @@ eval("var classof = __webpack_require__(/*! ../internals/classof */ \"./node_mod
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/internals/get-iterator.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/get-iterator.js ***!
-  \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var anObject = __webpack_require__(/*! ../internals/an-object */ \"./node_modules/core-js-pure/internals/an-object.js\");\nvar getIteratorMethod = __webpack_require__(/*! ../internals/get-iterator-method */ \"./node_modules/core-js-pure/internals/get-iterator-method.js\");\n\nmodule.exports = function (it) {\n  var iteratorMethod = getIteratorMethod(it);\n  if (typeof iteratorMethod != 'function') {\n    throw TypeError(String(it) + ' is not iterable');\n  } return anObject(iteratorMethod.call(it));\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/get-iterator.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/internals/global.js":
 /*!*******************************************************!*\
   !*** ./node_modules/core-js-pure/internals/global.js ***!
@@ -1469,16 +947,6 @@ eval("var classof = __webpack_require__(/*! ../internals/classof-raw */ \"./node
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("var fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules/core-js-pure/internals/fails.js\");\n\nvar replacement = /#|\\.prototype\\./;\n\nvar isForced = function (feature, detection) {\n  var value = data[normalize(feature)];\n  return value == POLYFILL ? true\n    : value == NATIVE ? false\n    : typeof detection == 'function' ? fails(detection)\n    : !!detection;\n};\n\nvar normalize = isForced.normalize = function (string) {\n  return String(string).replace(replacement, '.').toLowerCase();\n};\n\nvar data = isForced.data = {};\nvar NATIVE = isForced.NATIVE = 'N';\nvar POLYFILL = isForced.POLYFILL = 'P';\n\nmodule.exports = isForced;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/is-forced.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/is-iterable.js":
-/*!************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/is-iterable.js ***!
-  \************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var classof = __webpack_require__(/*! ../internals/classof */ \"./node_modules/core-js-pure/internals/classof.js\");\nvar wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\nvar Iterators = __webpack_require__(/*! ../internals/iterators */ \"./node_modules/core-js-pure/internals/iterators.js\");\n\nvar ITERATOR = wellKnownSymbol('iterator');\n\nmodule.exports = function (it) {\n  var O = Object(it);\n  return O[ITERATOR] !== undefined\n    || '@@iterator' in O\n    // eslint-disable-next-line no-prototype-builtins -- safe\n    || Iterators.hasOwnProperty(classof(O));\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/is-iterable.js?");
 
 /***/ }),
 
@@ -1634,36 +1102,6 @@ eval("var DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ \"./
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/internals/object-get-own-property-names-external.js":
-/*!***************************************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/object-get-own-property-names-external.js ***!
-  \***************************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ \"./node_modules/core-js-pure/internals/to-indexed-object.js\");\nvar nativeGetOwnPropertyNames = __webpack_require__(/*! ../internals/object-get-own-property-names */ \"./node_modules/core-js-pure/internals/object-get-own-property-names.js\").f;\n\nvar toString = {}.toString;\n\nvar windowNames = typeof window == 'object' && window && Object.getOwnPropertyNames\n  ? Object.getOwnPropertyNames(window) : [];\n\nvar getWindowNames = function (it) {\n  try {\n    return nativeGetOwnPropertyNames(it);\n  } catch (error) {\n    return windowNames.slice();\n  }\n};\n\n// fallback for IE11 buggy Object.getOwnPropertyNames with iframe and window\nmodule.exports.f = function getOwnPropertyNames(it) {\n  return windowNames && toString.call(it) == '[object Window]'\n    ? getWindowNames(it)\n    : nativeGetOwnPropertyNames(toIndexedObject(it));\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/object-get-own-property-names-external.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/object-get-own-property-names.js":
-/*!******************************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/object-get-own-property-names.js ***!
-  \******************************************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
-
-eval("var internalObjectKeys = __webpack_require__(/*! ../internals/object-keys-internal */ \"./node_modules/core-js-pure/internals/object-keys-internal.js\");\nvar enumBugKeys = __webpack_require__(/*! ../internals/enum-bug-keys */ \"./node_modules/core-js-pure/internals/enum-bug-keys.js\");\n\nvar hiddenKeys = enumBugKeys.concat('length', 'prototype');\n\n// `Object.getOwnPropertyNames` method\n// https://tc39.es/ecma262/#sec-object.getownpropertynames\nexports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {\n  return internalObjectKeys(O, hiddenKeys);\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/object-get-own-property-names.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/object-get-own-property-symbols.js":
-/*!********************************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/object-get-own-property-symbols.js ***!
-  \********************************************************************************/
-/***/ ((__unused_webpack_module, exports) => {
-
-eval("exports.f = Object.getOwnPropertySymbols;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/object-get-own-property-symbols.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/internals/object-get-prototype-of.js":
 /*!************************************************************************!*\
   !*** ./node_modules/core-js-pure/internals/object-get-prototype-of.js ***!
@@ -1723,16 +1161,6 @@ eval("/* eslint-disable no-proto -- safe */\nvar anObject = __webpack_require__(
 
 "use strict";
 eval("\nvar TO_STRING_TAG_SUPPORT = __webpack_require__(/*! ../internals/to-string-tag-support */ \"./node_modules/core-js-pure/internals/to-string-tag-support.js\");\nvar classof = __webpack_require__(/*! ../internals/classof */ \"./node_modules/core-js-pure/internals/classof.js\");\n\n// `Object.prototype.toString` method implementation\n// https://tc39.es/ecma262/#sec-object.prototype.tostring\nmodule.exports = TO_STRING_TAG_SUPPORT ? {}.toString : function toString() {\n  return '[object ' + classof(this) + ']';\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/object-to-string.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/internals/own-keys.js":
-/*!*********************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/own-keys.js ***!
-  \*********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var getBuiltIn = __webpack_require__(/*! ../internals/get-built-in */ \"./node_modules/core-js-pure/internals/get-built-in.js\");\nvar getOwnPropertyNamesModule = __webpack_require__(/*! ../internals/object-get-own-property-names */ \"./node_modules/core-js-pure/internals/object-get-own-property-names.js\");\nvar getOwnPropertySymbolsModule = __webpack_require__(/*! ../internals/object-get-own-property-symbols */ \"./node_modules/core-js-pure/internals/object-get-own-property-symbols.js\");\nvar anObject = __webpack_require__(/*! ../internals/an-object */ \"./node_modules/core-js-pure/internals/an-object.js\");\n\n// all object keys, includes non-enumerable and symbols\nmodule.exports = getBuiltIn('Reflect', 'ownKeys') || function ownKeys(it) {\n  var keys = getOwnPropertyNamesModule.f(anObject(it));\n  var getOwnPropertySymbols = getOwnPropertySymbolsModule.f;\n  return getOwnPropertySymbols ? keys.concat(getOwnPropertySymbols(it)) : keys;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/own-keys.js?");
 
 /***/ }),
 
@@ -1977,16 +1405,6 @@ eval("var NATIVE_SYMBOL = __webpack_require__(/*! ../internals/native-symbol */ 
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/internals/well-known-symbol-wrapped.js":
-/*!**************************************************************************!*\
-  !*** ./node_modules/core-js-pure/internals/well-known-symbol-wrapped.js ***!
-  \**************************************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
-
-eval("var wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\n\nexports.f = wellKnownSymbol;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/internals/well-known-symbol-wrapped.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/internals/well-known-symbol.js":
 /*!******************************************************************!*\
   !*** ./node_modules/core-js-pure/internals/well-known-symbol.js ***!
@@ -2005,59 +1423,6 @@ eval("var global = __webpack_require__(/*! ../internals/global */ \"./node_modul
 
 "use strict";
 eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar getPrototypeOf = __webpack_require__(/*! ../internals/object-get-prototype-of */ \"./node_modules/core-js-pure/internals/object-get-prototype-of.js\");\nvar setPrototypeOf = __webpack_require__(/*! ../internals/object-set-prototype-of */ \"./node_modules/core-js-pure/internals/object-set-prototype-of.js\");\nvar create = __webpack_require__(/*! ../internals/object-create */ \"./node_modules/core-js-pure/internals/object-create.js\");\nvar createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ \"./node_modules/core-js-pure/internals/create-non-enumerable-property.js\");\nvar createPropertyDescriptor = __webpack_require__(/*! ../internals/create-property-descriptor */ \"./node_modules/core-js-pure/internals/create-property-descriptor.js\");\nvar iterate = __webpack_require__(/*! ../internals/iterate */ \"./node_modules/core-js-pure/internals/iterate.js\");\n\nvar $AggregateError = function AggregateError(errors, message) {\n  var that = this;\n  if (!(that instanceof $AggregateError)) return new $AggregateError(errors, message);\n  if (setPrototypeOf) {\n    // eslint-disable-next-line unicorn/error-message -- expected\n    that = setPrototypeOf(new Error(undefined), getPrototypeOf(that));\n  }\n  if (message !== undefined) createNonEnumerableProperty(that, 'message', String(message));\n  var errorsArray = [];\n  iterate(errors, errorsArray.push, { that: errorsArray });\n  createNonEnumerableProperty(that, 'errors', errorsArray);\n  return that;\n};\n\n$AggregateError.prototype = create(Error.prototype, {\n  constructor: createPropertyDescriptor(5, $AggregateError),\n  message: createPropertyDescriptor(5, ''),\n  name: createPropertyDescriptor(5, 'AggregateError')\n});\n\n// `AggregateError` constructor\n// https://tc39.es/ecma262/#sec-aggregate-error-constructor\n$({ global: true }, {\n  AggregateError: $AggregateError\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.aggregate-error.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.array.concat.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.array.concat.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules/core-js-pure/internals/fails.js\");\nvar isArray = __webpack_require__(/*! ../internals/is-array */ \"./node_modules/core-js-pure/internals/is-array.js\");\nvar isObject = __webpack_require__(/*! ../internals/is-object */ \"./node_modules/core-js-pure/internals/is-object.js\");\nvar toObject = __webpack_require__(/*! ../internals/to-object */ \"./node_modules/core-js-pure/internals/to-object.js\");\nvar toLength = __webpack_require__(/*! ../internals/to-length */ \"./node_modules/core-js-pure/internals/to-length.js\");\nvar createProperty = __webpack_require__(/*! ../internals/create-property */ \"./node_modules/core-js-pure/internals/create-property.js\");\nvar arraySpeciesCreate = __webpack_require__(/*! ../internals/array-species-create */ \"./node_modules/core-js-pure/internals/array-species-create.js\");\nvar arrayMethodHasSpeciesSupport = __webpack_require__(/*! ../internals/array-method-has-species-support */ \"./node_modules/core-js-pure/internals/array-method-has-species-support.js\");\nvar wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\nvar V8_VERSION = __webpack_require__(/*! ../internals/engine-v8-version */ \"./node_modules/core-js-pure/internals/engine-v8-version.js\");\n\nvar IS_CONCAT_SPREADABLE = wellKnownSymbol('isConcatSpreadable');\nvar MAX_SAFE_INTEGER = 0x1FFFFFFFFFFFFF;\nvar MAXIMUM_ALLOWED_INDEX_EXCEEDED = 'Maximum allowed index exceeded';\n\n// We can't use this feature detection in V8 since it causes\n// deoptimization and serious performance degradation\n// https://github.com/zloirock/core-js/issues/679\nvar IS_CONCAT_SPREADABLE_SUPPORT = V8_VERSION >= 51 || !fails(function () {\n  var array = [];\n  array[IS_CONCAT_SPREADABLE] = false;\n  return array.concat()[0] !== array;\n});\n\nvar SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('concat');\n\nvar isConcatSpreadable = function (O) {\n  if (!isObject(O)) return false;\n  var spreadable = O[IS_CONCAT_SPREADABLE];\n  return spreadable !== undefined ? !!spreadable : isArray(O);\n};\n\nvar FORCED = !IS_CONCAT_SPREADABLE_SUPPORT || !SPECIES_SUPPORT;\n\n// `Array.prototype.concat` method\n// https://tc39.es/ecma262/#sec-array.prototype.concat\n// with adding support of @@isConcatSpreadable and @@species\n$({ target: 'Array', proto: true, forced: FORCED }, {\n  // eslint-disable-next-line no-unused-vars -- required for `.length`\n  concat: function concat(arg) {\n    var O = toObject(this);\n    var A = arraySpeciesCreate(O, 0);\n    var n = 0;\n    var i, k, length, len, E;\n    for (i = -1, length = arguments.length; i < length; i++) {\n      E = i === -1 ? O : arguments[i];\n      if (isConcatSpreadable(E)) {\n        len = toLength(E.length);\n        if (n + len > MAX_SAFE_INTEGER) throw TypeError(MAXIMUM_ALLOWED_INDEX_EXCEEDED);\n        for (k = 0; k < len; k++, n++) if (k in E) createProperty(A, n, E[k]);\n      } else {\n        if (n >= MAX_SAFE_INTEGER) throw TypeError(MAXIMUM_ALLOWED_INDEX_EXCEEDED);\n        createProperty(A, n++, E);\n      }\n    }\n    A.length = n;\n    return A;\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.concat.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.array.filter.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.array.filter.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar $filter = __webpack_require__(/*! ../internals/array-iteration */ \"./node_modules/core-js-pure/internals/array-iteration.js\").filter;\nvar arrayMethodHasSpeciesSupport = __webpack_require__(/*! ../internals/array-method-has-species-support */ \"./node_modules/core-js-pure/internals/array-method-has-species-support.js\");\n\nvar HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('filter');\n\n// `Array.prototype.filter` method\n// https://tc39.es/ecma262/#sec-array.prototype.filter\n// with adding support of @@species\n$({ target: 'Array', proto: true, forced: !HAS_SPECIES_SUPPORT }, {\n  filter: function filter(callbackfn /* , thisArg */) {\n    return $filter(this, callbackfn, arguments.length > 1 ? arguments[1] : undefined);\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.filter.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.array.for-each.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.array.for-each.js ***!
-  \****************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar forEach = __webpack_require__(/*! ../internals/array-for-each */ \"./node_modules/core-js-pure/internals/array-for-each.js\");\n\n// `Array.prototype.forEach` method\n// https://tc39.es/ecma262/#sec-array.prototype.foreach\n$({ target: 'Array', proto: true, forced: [].forEach != forEach }, {\n  forEach: forEach\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.for-each.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.array.from.js":
-/*!************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.array.from.js ***!
-  \************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar from = __webpack_require__(/*! ../internals/array-from */ \"./node_modules/core-js-pure/internals/array-from.js\");\nvar checkCorrectnessOfIteration = __webpack_require__(/*! ../internals/check-correctness-of-iteration */ \"./node_modules/core-js-pure/internals/check-correctness-of-iteration.js\");\n\nvar INCORRECT_ITERATION = !checkCorrectnessOfIteration(function (iterable) {\n  Array.from(iterable);\n});\n\n// `Array.from` method\n// https://tc39.es/ecma262/#sec-array.from\n$({ target: 'Array', stat: true, forced: INCORRECT_ITERATION }, {\n  from: from\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.from.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.array.is-array.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.array.is-array.js ***!
-  \****************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar isArray = __webpack_require__(/*! ../internals/is-array */ \"./node_modules/core-js-pure/internals/is-array.js\");\n\n// `Array.isArray` method\n// https://tc39.es/ecma262/#sec-array.isarray\n$({ target: 'Array', stat: true }, {\n  isArray: isArray\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.is-array.js?");
 
 /***/ }),
 
@@ -2080,87 +1445,6 @@ eval("\nvar toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-ob
 
 "use strict";
 eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar $map = __webpack_require__(/*! ../internals/array-iteration */ \"./node_modules/core-js-pure/internals/array-iteration.js\").map;\nvar arrayMethodHasSpeciesSupport = __webpack_require__(/*! ../internals/array-method-has-species-support */ \"./node_modules/core-js-pure/internals/array-method-has-species-support.js\");\n\nvar HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('map');\n\n// `Array.prototype.map` method\n// https://tc39.es/ecma262/#sec-array.prototype.map\n// with adding support of @@species\n$({ target: 'Array', proto: true, forced: !HAS_SPECIES_SUPPORT }, {\n  map: function map(callbackfn /* , thisArg */) {\n    return $map(this, callbackfn, arguments.length > 1 ? arguments[1] : undefined);\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.map.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.array.slice.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.array.slice.js ***!
-  \*************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar isObject = __webpack_require__(/*! ../internals/is-object */ \"./node_modules/core-js-pure/internals/is-object.js\");\nvar isArray = __webpack_require__(/*! ../internals/is-array */ \"./node_modules/core-js-pure/internals/is-array.js\");\nvar toAbsoluteIndex = __webpack_require__(/*! ../internals/to-absolute-index */ \"./node_modules/core-js-pure/internals/to-absolute-index.js\");\nvar toLength = __webpack_require__(/*! ../internals/to-length */ \"./node_modules/core-js-pure/internals/to-length.js\");\nvar toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ \"./node_modules/core-js-pure/internals/to-indexed-object.js\");\nvar createProperty = __webpack_require__(/*! ../internals/create-property */ \"./node_modules/core-js-pure/internals/create-property.js\");\nvar wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\nvar arrayMethodHasSpeciesSupport = __webpack_require__(/*! ../internals/array-method-has-species-support */ \"./node_modules/core-js-pure/internals/array-method-has-species-support.js\");\n\nvar HAS_SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('slice');\n\nvar SPECIES = wellKnownSymbol('species');\nvar nativeSlice = [].slice;\nvar max = Math.max;\n\n// `Array.prototype.slice` method\n// https://tc39.es/ecma262/#sec-array.prototype.slice\n// fallback for not array-like ES3 strings and DOM objects\n$({ target: 'Array', proto: true, forced: !HAS_SPECIES_SUPPORT }, {\n  slice: function slice(start, end) {\n    var O = toIndexedObject(this);\n    var length = toLength(O.length);\n    var k = toAbsoluteIndex(start, length);\n    var fin = toAbsoluteIndex(end === undefined ? length : end, length);\n    // inline `ArraySpeciesCreate` for usage native `Array#slice` where it's possible\n    var Constructor, result, n;\n    if (isArray(O)) {\n      Constructor = O.constructor;\n      // cross-realm fallback\n      if (typeof Constructor == 'function' && (Constructor === Array || isArray(Constructor.prototype))) {\n        Constructor = undefined;\n      } else if (isObject(Constructor)) {\n        Constructor = Constructor[SPECIES];\n        if (Constructor === null) Constructor = undefined;\n      }\n      if (Constructor === Array || Constructor === undefined) {\n        return nativeSlice.call(O, k, fin);\n      }\n    }\n    result = new (Constructor === undefined ? Array : Constructor)(max(fin - k, 0));\n    for (n = 0; k < fin; k++, n++) if (k in O) createProperty(result, n, O[k]);\n    result.length = n;\n    return result;\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.array.slice.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.json.to-string-tag.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.json.to-string-tag.js ***!
-  \********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var global = __webpack_require__(/*! ../internals/global */ \"./node_modules/core-js-pure/internals/global.js\");\nvar setToStringTag = __webpack_require__(/*! ../internals/set-to-string-tag */ \"./node_modules/core-js-pure/internals/set-to-string-tag.js\");\n\n// JSON[@@toStringTag] property\n// https://tc39.es/ecma262/#sec-json-@@tostringtag\nsetToStringTag(global.JSON, 'JSON', true);\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.json.to-string-tag.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.math.to-string-tag.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.math.to-string-tag.js ***!
-  \********************************************************************/
-/***/ (() => {
-
-eval("// empty\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.math.to-string-tag.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.object.define-properties.js":
-/*!**************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.object.define-properties.js ***!
-  \**************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ \"./node_modules/core-js-pure/internals/descriptors.js\");\nvar defineProperties = __webpack_require__(/*! ../internals/object-define-properties */ \"./node_modules/core-js-pure/internals/object-define-properties.js\");\n\n// `Object.defineProperties` method\n// https://tc39.es/ecma262/#sec-object.defineproperties\n$({ target: 'Object', stat: true, forced: !DESCRIPTORS, sham: !DESCRIPTORS }, {\n  defineProperties: defineProperties\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.object.define-properties.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.object.define-property.js":
-/*!************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.object.define-property.js ***!
-  \************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ \"./node_modules/core-js-pure/internals/descriptors.js\");\nvar objectDefinePropertyModile = __webpack_require__(/*! ../internals/object-define-property */ \"./node_modules/core-js-pure/internals/object-define-property.js\");\n\n// `Object.defineProperty` method\n// https://tc39.es/ecma262/#sec-object.defineproperty\n$({ target: 'Object', stat: true, forced: !DESCRIPTORS, sham: !DESCRIPTORS }, {\n  defineProperty: objectDefinePropertyModile.f\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.object.define-property.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.object.get-own-property-descriptor.js":
-/*!************************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.object.get-own-property-descriptor.js ***!
-  \************************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules/core-js-pure/internals/fails.js\");\nvar toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ \"./node_modules/core-js-pure/internals/to-indexed-object.js\");\nvar nativeGetOwnPropertyDescriptor = __webpack_require__(/*! ../internals/object-get-own-property-descriptor */ \"./node_modules/core-js-pure/internals/object-get-own-property-descriptor.js\").f;\nvar DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ \"./node_modules/core-js-pure/internals/descriptors.js\");\n\nvar FAILS_ON_PRIMITIVES = fails(function () { nativeGetOwnPropertyDescriptor(1); });\nvar FORCED = !DESCRIPTORS || FAILS_ON_PRIMITIVES;\n\n// `Object.getOwnPropertyDescriptor` method\n// https://tc39.es/ecma262/#sec-object.getownpropertydescriptor\n$({ target: 'Object', stat: true, forced: FORCED, sham: !DESCRIPTORS }, {\n  getOwnPropertyDescriptor: function getOwnPropertyDescriptor(it, key) {\n    return nativeGetOwnPropertyDescriptor(toIndexedObject(it), key);\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.object.get-own-property-descriptor.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.object.get-own-property-descriptors.js":
-/*!*************************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.object.get-own-property-descriptors.js ***!
-  \*************************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ \"./node_modules/core-js-pure/internals/descriptors.js\");\nvar ownKeys = __webpack_require__(/*! ../internals/own-keys */ \"./node_modules/core-js-pure/internals/own-keys.js\");\nvar toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ \"./node_modules/core-js-pure/internals/to-indexed-object.js\");\nvar getOwnPropertyDescriptorModule = __webpack_require__(/*! ../internals/object-get-own-property-descriptor */ \"./node_modules/core-js-pure/internals/object-get-own-property-descriptor.js\");\nvar createProperty = __webpack_require__(/*! ../internals/create-property */ \"./node_modules/core-js-pure/internals/create-property.js\");\n\n// `Object.getOwnPropertyDescriptors` method\n// https://tc39.es/ecma262/#sec-object.getownpropertydescriptors\n$({ target: 'Object', stat: true, sham: !DESCRIPTORS }, {\n  getOwnPropertyDescriptors: function getOwnPropertyDescriptors(object) {\n    var O = toIndexedObject(object);\n    var getOwnPropertyDescriptor = getOwnPropertyDescriptorModule.f;\n    var keys = ownKeys(O);\n    var result = {};\n    var index = 0;\n    var key, descriptor;\n    while (keys.length > index) {\n      descriptor = getOwnPropertyDescriptor(O, key = keys[index++]);\n      if (descriptor !== undefined) createProperty(result, key, descriptor);\n    }\n    return result;\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.object.get-own-property-descriptors.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.object.keys.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.object.keys.js ***!
-  \*************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar toObject = __webpack_require__(/*! ../internals/to-object */ \"./node_modules/core-js-pure/internals/to-object.js\");\nvar nativeKeys = __webpack_require__(/*! ../internals/object-keys */ \"./node_modules/core-js-pure/internals/object-keys.js\");\nvar fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules/core-js-pure/internals/fails.js\");\n\nvar FAILS_ON_PRIMITIVES = fails(function () { nativeKeys(1); });\n\n// `Object.keys` method\n// https://tc39.es/ecma262/#sec-object.keys\n$({ target: 'Object', stat: true, forced: FAILS_ON_PRIMITIVES }, {\n  keys: function keys(it) {\n    return nativeKeys(toObject(it));\n  }\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.object.keys.js?");
 
 /***/ }),
 
@@ -2218,16 +1502,6 @@ eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/modules/es.reflect.to-string-tag.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.reflect.to-string-tag.js ***!
-  \***********************************************************************/
-/***/ (() => {
-
-eval("// empty\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.reflect.to-string-tag.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/modules/es.string.iterator.js":
 /*!*****************************************************************!*\
   !*** ./node_modules/core-js-pure/modules/es.string.iterator.js ***!
@@ -2236,157 +1510,6 @@ eval("// empty\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pur
 
 "use strict";
 eval("\nvar charAt = __webpack_require__(/*! ../internals/string-multibyte */ \"./node_modules/core-js-pure/internals/string-multibyte.js\").charAt;\nvar InternalStateModule = __webpack_require__(/*! ../internals/internal-state */ \"./node_modules/core-js-pure/internals/internal-state.js\");\nvar defineIterator = __webpack_require__(/*! ../internals/define-iterator */ \"./node_modules/core-js-pure/internals/define-iterator.js\");\n\nvar STRING_ITERATOR = 'String Iterator';\nvar setInternalState = InternalStateModule.set;\nvar getInternalState = InternalStateModule.getterFor(STRING_ITERATOR);\n\n// `String.prototype[@@iterator]` method\n// https://tc39.es/ecma262/#sec-string.prototype-@@iterator\ndefineIterator(String, 'String', function (iterated) {\n  setInternalState(this, {\n    type: STRING_ITERATOR,\n    string: String(iterated),\n    index: 0\n  });\n// `%StringIteratorPrototype%.next` method\n// https://tc39.es/ecma262/#sec-%stringiteratorprototype%.next\n}, function next() {\n  var state = getInternalState(this);\n  var string = state.string;\n  var index = state.index;\n  var point;\n  if (index >= string.length) return { value: undefined, done: true };\n  point = charAt(string, index);\n  state.index += point.length;\n  return { value: point, done: false };\n});\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.string.iterator.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.async-iterator.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.async-iterator.js ***!
-  \***********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.asyncIterator` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.asynciterator\ndefineWellKnownSymbol('asyncIterator');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.async-iterator.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.description.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.description.js ***!
-  \********************************************************************/
-/***/ (() => {
-
-eval("// empty\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.description.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.has-instance.js":
-/*!*********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.has-instance.js ***!
-  \*********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.hasInstance` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.hasinstance\ndefineWellKnownSymbol('hasInstance');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.has-instance.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.is-concat-spreadable.js":
-/*!*****************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.is-concat-spreadable.js ***!
-  \*****************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.isConcatSpreadable` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.isconcatspreadable\ndefineWellKnownSymbol('isConcatSpreadable');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.is-concat-spreadable.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.iterator.js":
-/*!*****************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.iterator.js ***!
-  \*****************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.iterator` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.iterator\ndefineWellKnownSymbol('iterator');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.iterator.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.js":
-/*!********************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.js ***!
-  \********************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/core-js-pure/internals/export.js\");\nvar global = __webpack_require__(/*! ../internals/global */ \"./node_modules/core-js-pure/internals/global.js\");\nvar getBuiltIn = __webpack_require__(/*! ../internals/get-built-in */ \"./node_modules/core-js-pure/internals/get-built-in.js\");\nvar IS_PURE = __webpack_require__(/*! ../internals/is-pure */ \"./node_modules/core-js-pure/internals/is-pure.js\");\nvar DESCRIPTORS = __webpack_require__(/*! ../internals/descriptors */ \"./node_modules/core-js-pure/internals/descriptors.js\");\nvar NATIVE_SYMBOL = __webpack_require__(/*! ../internals/native-symbol */ \"./node_modules/core-js-pure/internals/native-symbol.js\");\nvar USE_SYMBOL_AS_UID = __webpack_require__(/*! ../internals/use-symbol-as-uid */ \"./node_modules/core-js-pure/internals/use-symbol-as-uid.js\");\nvar fails = __webpack_require__(/*! ../internals/fails */ \"./node_modules/core-js-pure/internals/fails.js\");\nvar has = __webpack_require__(/*! ../internals/has */ \"./node_modules/core-js-pure/internals/has.js\");\nvar isArray = __webpack_require__(/*! ../internals/is-array */ \"./node_modules/core-js-pure/internals/is-array.js\");\nvar isObject = __webpack_require__(/*! ../internals/is-object */ \"./node_modules/core-js-pure/internals/is-object.js\");\nvar anObject = __webpack_require__(/*! ../internals/an-object */ \"./node_modules/core-js-pure/internals/an-object.js\");\nvar toObject = __webpack_require__(/*! ../internals/to-object */ \"./node_modules/core-js-pure/internals/to-object.js\");\nvar toIndexedObject = __webpack_require__(/*! ../internals/to-indexed-object */ \"./node_modules/core-js-pure/internals/to-indexed-object.js\");\nvar toPrimitive = __webpack_require__(/*! ../internals/to-primitive */ \"./node_modules/core-js-pure/internals/to-primitive.js\");\nvar createPropertyDescriptor = __webpack_require__(/*! ../internals/create-property-descriptor */ \"./node_modules/core-js-pure/internals/create-property-descriptor.js\");\nvar nativeObjectCreate = __webpack_require__(/*! ../internals/object-create */ \"./node_modules/core-js-pure/internals/object-create.js\");\nvar objectKeys = __webpack_require__(/*! ../internals/object-keys */ \"./node_modules/core-js-pure/internals/object-keys.js\");\nvar getOwnPropertyNamesModule = __webpack_require__(/*! ../internals/object-get-own-property-names */ \"./node_modules/core-js-pure/internals/object-get-own-property-names.js\");\nvar getOwnPropertyNamesExternal = __webpack_require__(/*! ../internals/object-get-own-property-names-external */ \"./node_modules/core-js-pure/internals/object-get-own-property-names-external.js\");\nvar getOwnPropertySymbolsModule = __webpack_require__(/*! ../internals/object-get-own-property-symbols */ \"./node_modules/core-js-pure/internals/object-get-own-property-symbols.js\");\nvar getOwnPropertyDescriptorModule = __webpack_require__(/*! ../internals/object-get-own-property-descriptor */ \"./node_modules/core-js-pure/internals/object-get-own-property-descriptor.js\");\nvar definePropertyModule = __webpack_require__(/*! ../internals/object-define-property */ \"./node_modules/core-js-pure/internals/object-define-property.js\");\nvar propertyIsEnumerableModule = __webpack_require__(/*! ../internals/object-property-is-enumerable */ \"./node_modules/core-js-pure/internals/object-property-is-enumerable.js\");\nvar createNonEnumerableProperty = __webpack_require__(/*! ../internals/create-non-enumerable-property */ \"./node_modules/core-js-pure/internals/create-non-enumerable-property.js\");\nvar redefine = __webpack_require__(/*! ../internals/redefine */ \"./node_modules/core-js-pure/internals/redefine.js\");\nvar shared = __webpack_require__(/*! ../internals/shared */ \"./node_modules/core-js-pure/internals/shared.js\");\nvar sharedKey = __webpack_require__(/*! ../internals/shared-key */ \"./node_modules/core-js-pure/internals/shared-key.js\");\nvar hiddenKeys = __webpack_require__(/*! ../internals/hidden-keys */ \"./node_modules/core-js-pure/internals/hidden-keys.js\");\nvar uid = __webpack_require__(/*! ../internals/uid */ \"./node_modules/core-js-pure/internals/uid.js\");\nvar wellKnownSymbol = __webpack_require__(/*! ../internals/well-known-symbol */ \"./node_modules/core-js-pure/internals/well-known-symbol.js\");\nvar wrappedWellKnownSymbolModule = __webpack_require__(/*! ../internals/well-known-symbol-wrapped */ \"./node_modules/core-js-pure/internals/well-known-symbol-wrapped.js\");\nvar defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\nvar setToStringTag = __webpack_require__(/*! ../internals/set-to-string-tag */ \"./node_modules/core-js-pure/internals/set-to-string-tag.js\");\nvar InternalStateModule = __webpack_require__(/*! ../internals/internal-state */ \"./node_modules/core-js-pure/internals/internal-state.js\");\nvar $forEach = __webpack_require__(/*! ../internals/array-iteration */ \"./node_modules/core-js-pure/internals/array-iteration.js\").forEach;\n\nvar HIDDEN = sharedKey('hidden');\nvar SYMBOL = 'Symbol';\nvar PROTOTYPE = 'prototype';\nvar TO_PRIMITIVE = wellKnownSymbol('toPrimitive');\nvar setInternalState = InternalStateModule.set;\nvar getInternalState = InternalStateModule.getterFor(SYMBOL);\nvar ObjectPrototype = Object[PROTOTYPE];\nvar $Symbol = global.Symbol;\nvar $stringify = getBuiltIn('JSON', 'stringify');\nvar nativeGetOwnPropertyDescriptor = getOwnPropertyDescriptorModule.f;\nvar nativeDefineProperty = definePropertyModule.f;\nvar nativeGetOwnPropertyNames = getOwnPropertyNamesExternal.f;\nvar nativePropertyIsEnumerable = propertyIsEnumerableModule.f;\nvar AllSymbols = shared('symbols');\nvar ObjectPrototypeSymbols = shared('op-symbols');\nvar StringToSymbolRegistry = shared('string-to-symbol-registry');\nvar SymbolToStringRegistry = shared('symbol-to-string-registry');\nvar WellKnownSymbolsStore = shared('wks');\nvar QObject = global.QObject;\n// Don't use setters in Qt Script, https://github.com/zloirock/core-js/issues/173\nvar USE_SETTER = !QObject || !QObject[PROTOTYPE] || !QObject[PROTOTYPE].findChild;\n\n// fallback for old Android, https://code.google.com/p/v8/issues/detail?id=687\nvar setSymbolDescriptor = DESCRIPTORS && fails(function () {\n  return nativeObjectCreate(nativeDefineProperty({}, 'a', {\n    get: function () { return nativeDefineProperty(this, 'a', { value: 7 }).a; }\n  })).a != 7;\n}) ? function (O, P, Attributes) {\n  var ObjectPrototypeDescriptor = nativeGetOwnPropertyDescriptor(ObjectPrototype, P);\n  if (ObjectPrototypeDescriptor) delete ObjectPrototype[P];\n  nativeDefineProperty(O, P, Attributes);\n  if (ObjectPrototypeDescriptor && O !== ObjectPrototype) {\n    nativeDefineProperty(ObjectPrototype, P, ObjectPrototypeDescriptor);\n  }\n} : nativeDefineProperty;\n\nvar wrap = function (tag, description) {\n  var symbol = AllSymbols[tag] = nativeObjectCreate($Symbol[PROTOTYPE]);\n  setInternalState(symbol, {\n    type: SYMBOL,\n    tag: tag,\n    description: description\n  });\n  if (!DESCRIPTORS) symbol.description = description;\n  return symbol;\n};\n\nvar isSymbol = USE_SYMBOL_AS_UID ? function (it) {\n  return typeof it == 'symbol';\n} : function (it) {\n  return Object(it) instanceof $Symbol;\n};\n\nvar $defineProperty = function defineProperty(O, P, Attributes) {\n  if (O === ObjectPrototype) $defineProperty(ObjectPrototypeSymbols, P, Attributes);\n  anObject(O);\n  var key = toPrimitive(P, true);\n  anObject(Attributes);\n  if (has(AllSymbols, key)) {\n    if (!Attributes.enumerable) {\n      if (!has(O, HIDDEN)) nativeDefineProperty(O, HIDDEN, createPropertyDescriptor(1, {}));\n      O[HIDDEN][key] = true;\n    } else {\n      if (has(O, HIDDEN) && O[HIDDEN][key]) O[HIDDEN][key] = false;\n      Attributes = nativeObjectCreate(Attributes, { enumerable: createPropertyDescriptor(0, false) });\n    } return setSymbolDescriptor(O, key, Attributes);\n  } return nativeDefineProperty(O, key, Attributes);\n};\n\nvar $defineProperties = function defineProperties(O, Properties) {\n  anObject(O);\n  var properties = toIndexedObject(Properties);\n  var keys = objectKeys(properties).concat($getOwnPropertySymbols(properties));\n  $forEach(keys, function (key) {\n    if (!DESCRIPTORS || $propertyIsEnumerable.call(properties, key)) $defineProperty(O, key, properties[key]);\n  });\n  return O;\n};\n\nvar $create = function create(O, Properties) {\n  return Properties === undefined ? nativeObjectCreate(O) : $defineProperties(nativeObjectCreate(O), Properties);\n};\n\nvar $propertyIsEnumerable = function propertyIsEnumerable(V) {\n  var P = toPrimitive(V, true);\n  var enumerable = nativePropertyIsEnumerable.call(this, P);\n  if (this === ObjectPrototype && has(AllSymbols, P) && !has(ObjectPrototypeSymbols, P)) return false;\n  return enumerable || !has(this, P) || !has(AllSymbols, P) || has(this, HIDDEN) && this[HIDDEN][P] ? enumerable : true;\n};\n\nvar $getOwnPropertyDescriptor = function getOwnPropertyDescriptor(O, P) {\n  var it = toIndexedObject(O);\n  var key = toPrimitive(P, true);\n  if (it === ObjectPrototype && has(AllSymbols, key) && !has(ObjectPrototypeSymbols, key)) return;\n  var descriptor = nativeGetOwnPropertyDescriptor(it, key);\n  if (descriptor && has(AllSymbols, key) && !(has(it, HIDDEN) && it[HIDDEN][key])) {\n    descriptor.enumerable = true;\n  }\n  return descriptor;\n};\n\nvar $getOwnPropertyNames = function getOwnPropertyNames(O) {\n  var names = nativeGetOwnPropertyNames(toIndexedObject(O));\n  var result = [];\n  $forEach(names, function (key) {\n    if (!has(AllSymbols, key) && !has(hiddenKeys, key)) result.push(key);\n  });\n  return result;\n};\n\nvar $getOwnPropertySymbols = function getOwnPropertySymbols(O) {\n  var IS_OBJECT_PROTOTYPE = O === ObjectPrototype;\n  var names = nativeGetOwnPropertyNames(IS_OBJECT_PROTOTYPE ? ObjectPrototypeSymbols : toIndexedObject(O));\n  var result = [];\n  $forEach(names, function (key) {\n    if (has(AllSymbols, key) && (!IS_OBJECT_PROTOTYPE || has(ObjectPrototype, key))) {\n      result.push(AllSymbols[key]);\n    }\n  });\n  return result;\n};\n\n// `Symbol` constructor\n// https://tc39.es/ecma262/#sec-symbol-constructor\nif (!NATIVE_SYMBOL) {\n  $Symbol = function Symbol() {\n    if (this instanceof $Symbol) throw TypeError('Symbol is not a constructor');\n    var description = !arguments.length || arguments[0] === undefined ? undefined : String(arguments[0]);\n    var tag = uid(description);\n    var setter = function (value) {\n      if (this === ObjectPrototype) setter.call(ObjectPrototypeSymbols, value);\n      if (has(this, HIDDEN) && has(this[HIDDEN], tag)) this[HIDDEN][tag] = false;\n      setSymbolDescriptor(this, tag, createPropertyDescriptor(1, value));\n    };\n    if (DESCRIPTORS && USE_SETTER) setSymbolDescriptor(ObjectPrototype, tag, { configurable: true, set: setter });\n    return wrap(tag, description);\n  };\n\n  redefine($Symbol[PROTOTYPE], 'toString', function toString() {\n    return getInternalState(this).tag;\n  });\n\n  redefine($Symbol, 'withoutSetter', function (description) {\n    return wrap(uid(description), description);\n  });\n\n  propertyIsEnumerableModule.f = $propertyIsEnumerable;\n  definePropertyModule.f = $defineProperty;\n  getOwnPropertyDescriptorModule.f = $getOwnPropertyDescriptor;\n  getOwnPropertyNamesModule.f = getOwnPropertyNamesExternal.f = $getOwnPropertyNames;\n  getOwnPropertySymbolsModule.f = $getOwnPropertySymbols;\n\n  wrappedWellKnownSymbolModule.f = function (name) {\n    return wrap(wellKnownSymbol(name), name);\n  };\n\n  if (DESCRIPTORS) {\n    // https://github.com/tc39/proposal-Symbol-description\n    nativeDefineProperty($Symbol[PROTOTYPE], 'description', {\n      configurable: true,\n      get: function description() {\n        return getInternalState(this).description;\n      }\n    });\n    if (!IS_PURE) {\n      redefine(ObjectPrototype, 'propertyIsEnumerable', $propertyIsEnumerable, { unsafe: true });\n    }\n  }\n}\n\n$({ global: true, wrap: true, forced: !NATIVE_SYMBOL, sham: !NATIVE_SYMBOL }, {\n  Symbol: $Symbol\n});\n\n$forEach(objectKeys(WellKnownSymbolsStore), function (name) {\n  defineWellKnownSymbol(name);\n});\n\n$({ target: SYMBOL, stat: true, forced: !NATIVE_SYMBOL }, {\n  // `Symbol.for` method\n  // https://tc39.es/ecma262/#sec-symbol.for\n  'for': function (key) {\n    var string = String(key);\n    if (has(StringToSymbolRegistry, string)) return StringToSymbolRegistry[string];\n    var symbol = $Symbol(string);\n    StringToSymbolRegistry[string] = symbol;\n    SymbolToStringRegistry[symbol] = string;\n    return symbol;\n  },\n  // `Symbol.keyFor` method\n  // https://tc39.es/ecma262/#sec-symbol.keyfor\n  keyFor: function keyFor(sym) {\n    if (!isSymbol(sym)) throw TypeError(sym + ' is not a symbol');\n    if (has(SymbolToStringRegistry, sym)) return SymbolToStringRegistry[sym];\n  },\n  useSetter: function () { USE_SETTER = true; },\n  useSimple: function () { USE_SETTER = false; }\n});\n\n$({ target: 'Object', stat: true, forced: !NATIVE_SYMBOL, sham: !DESCRIPTORS }, {\n  // `Object.create` method\n  // https://tc39.es/ecma262/#sec-object.create\n  create: $create,\n  // `Object.defineProperty` method\n  // https://tc39.es/ecma262/#sec-object.defineproperty\n  defineProperty: $defineProperty,\n  // `Object.defineProperties` method\n  // https://tc39.es/ecma262/#sec-object.defineproperties\n  defineProperties: $defineProperties,\n  // `Object.getOwnPropertyDescriptor` method\n  // https://tc39.es/ecma262/#sec-object.getownpropertydescriptors\n  getOwnPropertyDescriptor: $getOwnPropertyDescriptor\n});\n\n$({ target: 'Object', stat: true, forced: !NATIVE_SYMBOL }, {\n  // `Object.getOwnPropertyNames` method\n  // https://tc39.es/ecma262/#sec-object.getownpropertynames\n  getOwnPropertyNames: $getOwnPropertyNames,\n  // `Object.getOwnPropertySymbols` method\n  // https://tc39.es/ecma262/#sec-object.getownpropertysymbols\n  getOwnPropertySymbols: $getOwnPropertySymbols\n});\n\n// Chrome 38 and 39 `Object.getOwnPropertySymbols` fails on primitives\n// https://bugs.chromium.org/p/v8/issues/detail?id=3443\n$({ target: 'Object', stat: true, forced: fails(function () { getOwnPropertySymbolsModule.f(1); }) }, {\n  getOwnPropertySymbols: function getOwnPropertySymbols(it) {\n    return getOwnPropertySymbolsModule.f(toObject(it));\n  }\n});\n\n// `JSON.stringify` method behavior with symbols\n// https://tc39.es/ecma262/#sec-json.stringify\nif ($stringify) {\n  var FORCED_JSON_STRINGIFY = !NATIVE_SYMBOL || fails(function () {\n    var symbol = $Symbol();\n    // MS Edge converts symbol values to JSON as {}\n    return $stringify([symbol]) != '[null]'\n      // WebKit converts symbol values to JSON as null\n      || $stringify({ a: symbol }) != '{}'\n      // V8 throws on boxed symbols\n      || $stringify(Object(symbol)) != '{}';\n  });\n\n  $({ target: 'JSON', stat: true, forced: FORCED_JSON_STRINGIFY }, {\n    // eslint-disable-next-line no-unused-vars -- required for `.length`\n    stringify: function stringify(it, replacer, space) {\n      var args = [it];\n      var index = 1;\n      var $replacer;\n      while (arguments.length > index) args.push(arguments[index++]);\n      $replacer = replacer;\n      if (!isObject(replacer) && it === undefined || isSymbol(it)) return; // IE8 returns string on undefined\n      if (!isArray(replacer)) replacer = function (key, value) {\n        if (typeof $replacer == 'function') value = $replacer.call(this, key, value);\n        if (!isSymbol(value)) return value;\n      };\n      args[1] = replacer;\n      return $stringify.apply(null, args);\n    }\n  });\n}\n\n// `Symbol.prototype[@@toPrimitive]` method\n// https://tc39.es/ecma262/#sec-symbol.prototype-@@toprimitive\nif (!$Symbol[PROTOTYPE][TO_PRIMITIVE]) {\n  createNonEnumerableProperty($Symbol[PROTOTYPE], TO_PRIMITIVE, $Symbol[PROTOTYPE].valueOf);\n}\n// `Symbol.prototype[@@toStringTag]` property\n// https://tc39.es/ecma262/#sec-symbol.prototype-@@tostringtag\nsetToStringTag($Symbol, SYMBOL);\n\nhiddenKeys[HIDDEN] = true;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.match-all.js":
-/*!******************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.match-all.js ***!
-  \******************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.matchAll` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.matchall\ndefineWellKnownSymbol('matchAll');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.match-all.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.match.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.match.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.match` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.match\ndefineWellKnownSymbol('match');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.match.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.replace.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.replace.js ***!
-  \****************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.replace` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.replace\ndefineWellKnownSymbol('replace');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.replace.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.search.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.search.js ***!
-  \***************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.search` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.search\ndefineWellKnownSymbol('search');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.search.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.species.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.species.js ***!
-  \****************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.species` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.species\ndefineWellKnownSymbol('species');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.species.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.split.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.split.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.split` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.split\ndefineWellKnownSymbol('split');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.split.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.to-primitive.js":
-/*!*********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.to-primitive.js ***!
-  \*********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.toPrimitive` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.toprimitive\ndefineWellKnownSymbol('toPrimitive');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.to-primitive.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.to-string-tag.js":
-/*!**********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.to-string-tag.js ***!
-  \**********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.toStringTag` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.tostringtag\ndefineWellKnownSymbol('toStringTag');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.to-string-tag.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/es.symbol.unscopables.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/es.symbol.unscopables.js ***!
-  \********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.unscopables` well-known symbol\n// https://tc39.es/ecma262/#sec-symbol.unscopables\ndefineWellKnownSymbol('unscopables');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/es.symbol.unscopables.js?");
 
 /***/ }),
 
@@ -2431,56 +1554,6 @@ eval("\nvar $ = __webpack_require__(/*! ../internals/export */ \"./node_modules/
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/modules/esnext.symbol.async-dispose.js":
-/*!**************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/esnext.symbol.async-dispose.js ***!
-  \**************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.asyncDispose` well-known symbol\n// https://github.com/tc39/proposal-using-statement\ndefineWellKnownSymbol('asyncDispose');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/esnext.symbol.async-dispose.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/esnext.symbol.dispose.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/esnext.symbol.dispose.js ***!
-  \********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.dispose` well-known symbol\n// https://github.com/tc39/proposal-using-statement\ndefineWellKnownSymbol('dispose');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/esnext.symbol.dispose.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/esnext.symbol.observable.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/esnext.symbol.observable.js ***!
-  \***********************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.observable` well-known symbol\n// https://github.com/tc39/proposal-observable\ndefineWellKnownSymbol('observable');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/esnext.symbol.observable.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/esnext.symbol.pattern-match.js":
-/*!**************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/esnext.symbol.pattern-match.js ***!
-  \**************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\n// `Symbol.patternMatch` well-known symbol\n// https://github.com/tc39/proposal-pattern-matching\ndefineWellKnownSymbol('patternMatch');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/esnext.symbol.pattern-match.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/modules/esnext.symbol.replace-all.js":
-/*!************************************************************************!*\
-  !*** ./node_modules/core-js-pure/modules/esnext.symbol.replace-all.js ***!
-  \************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("// TODO: remove from `core-js@4`\nvar defineWellKnownSymbol = __webpack_require__(/*! ../internals/define-well-known-symbol */ \"./node_modules/core-js-pure/internals/define-well-known-symbol.js\");\n\ndefineWellKnownSymbol('replaceAll');\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/modules/esnext.symbol.replace-all.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/modules/web.dom-collections.iterator.js":
 /*!***************************************************************************!*\
   !*** ./node_modules/core-js-pure/modules/web.dom-collections.iterator.js ***!
@@ -2491,36 +1564,6 @@ eval("__webpack_require__(/*! ./es.array.iterator */ \"./node_modules/core-js-pu
 
 /***/ }),
 
-/***/ "./node_modules/core-js-pure/stable/array/virtual/for-each.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/array/virtual/for-each.js ***!
-  \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../../es/array/virtual/for-each */ \"./node_modules/core-js-pure/es/array/virtual/for-each.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/array/virtual/for-each.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/instance/filter.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/instance/filter.js ***!
-  \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/instance/filter */ \"./node_modules/core-js-pure/es/instance/filter.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/instance/filter.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/instance/for-each.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/instance/for-each.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("__webpack_require__(/*! ../../modules/web.dom-collections.iterator */ \"./node_modules/core-js-pure/modules/web.dom-collections.iterator.js\");\nvar forEach = __webpack_require__(/*! ../array/virtual/for-each */ \"./node_modules/core-js-pure/stable/array/virtual/for-each.js\");\nvar classof = __webpack_require__(/*! ../../internals/classof */ \"./node_modules/core-js-pure/internals/classof.js\");\nvar ArrayPrototype = Array.prototype;\n\nvar DOMIterables = {\n  DOMTokenList: true,\n  NodeList: true\n};\n\nmodule.exports = function (it) {\n  var own = it.forEach;\n  return it === ArrayPrototype || (it instanceof Array && own === ArrayPrototype.forEach)\n    // eslint-disable-next-line no-prototype-builtins -- safe\n    || DOMIterables.hasOwnProperty(classof(it)) ? forEach : own;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/instance/for-each.js?");
-
-/***/ }),
-
 /***/ "./node_modules/core-js-pure/stable/instance/map.js":
 /*!**********************************************************!*\
   !*** ./node_modules/core-js-pure/stable/instance/map.js ***!
@@ -2528,66 +1571,6 @@ eval("__webpack_require__(/*! ../../modules/web.dom-collections.iterator */ \"./
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("var parent = __webpack_require__(/*! ../../es/instance/map */ \"./node_modules/core-js-pure/es/instance/map.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/instance/map.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/object/define-properties.js":
-/*!**********************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/object/define-properties.js ***!
-  \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/define-properties */ \"./node_modules/core-js-pure/es/object/define-properties.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/object/define-properties.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/object/define-property.js":
-/*!********************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/object/define-property.js ***!
-  \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/define-property */ \"./node_modules/core-js-pure/es/object/define-property.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/object/define-property.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/object/get-own-property-descriptor.js":
-/*!********************************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/object/get-own-property-descriptor.js ***!
-  \********************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/get-own-property-descriptor */ \"./node_modules/core-js-pure/es/object/get-own-property-descriptor.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/object/get-own-property-descriptor.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/object/get-own-property-descriptors.js":
-/*!*********************************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/object/get-own-property-descriptors.js ***!
-  \*********************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/get-own-property-descriptors */ \"./node_modules/core-js-pure/es/object/get-own-property-descriptors.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/object/get-own-property-descriptors.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/object/get-own-property-symbols.js":
-/*!*****************************************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/object/get-own-property-symbols.js ***!
-  \*****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/get-own-property-symbols */ \"./node_modules/core-js-pure/es/object/get-own-property-symbols.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/object/get-own-property-symbols.js?");
-
-/***/ }),
-
-/***/ "./node_modules/core-js-pure/stable/object/keys.js":
-/*!*********************************************************!*\
-  !*** ./node_modules/core-js-pure/stable/object/keys.js ***!
-  \*********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("var parent = __webpack_require__(/*! ../../es/object/keys */ \"./node_modules/core-js-pure/es/object/keys.js\");\n\nmodule.exports = parent;\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/core-js-pure/stable/object/keys.js?");
 
 /***/ }),
 
@@ -2722,6 +1705,259 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
 
 /***/ }),
 
+/***/ "./node_modules/react-redux/es/components/Context.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-redux/es/components/Context.js ***!
+  \***********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"ReactReduxContext\": () => (/* binding */ ReactReduxContext),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar ReactReduxContext = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createContext(null);\n\nif (true) {\n  ReactReduxContext.displayName = 'ReactRedux';\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ReactReduxContext);\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/components/Context.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/components/Provider.js":
+/*!************************************************************!*\
+  !*** ./node_modules/react-redux/es/components/Provider.js ***!
+  \************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ \"./node_modules/prop-types/index.js\");\n/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _Context__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Context */ \"./node_modules/react-redux/es/components/Context.js\");\n/* harmony import */ var _utils_Subscription__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utils/Subscription */ \"./node_modules/react-redux/es/utils/Subscription.js\");\n\n\n\n\n\nfunction Provider(_ref) {\n  var store = _ref.store,\n      context = _ref.context,\n      children = _ref.children;\n  var contextValue = (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(function () {\n    var subscription = new _utils_Subscription__WEBPACK_IMPORTED_MODULE_3__.default(store);\n    subscription.onStateChange = subscription.notifyNestedSubs;\n    return {\n      store: store,\n      subscription: subscription\n    };\n  }, [store]);\n  var previousState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(function () {\n    return store.getState();\n  }, [store]);\n  (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)(function () {\n    var subscription = contextValue.subscription;\n    subscription.trySubscribe();\n\n    if (previousState !== store.getState()) {\n      subscription.notifyNestedSubs();\n    }\n\n    return function () {\n      subscription.tryUnsubscribe();\n      subscription.onStateChange = null;\n    };\n  }, [contextValue, previousState]);\n  var Context = context || _Context__WEBPACK_IMPORTED_MODULE_2__.ReactReduxContext;\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(Context.Provider, {\n    value: contextValue\n  }, children);\n}\n\nif (true) {\n  Provider.propTypes = {\n    store: prop_types__WEBPACK_IMPORTED_MODULE_1___default().shape({\n      subscribe: (prop_types__WEBPACK_IMPORTED_MODULE_1___default().func.isRequired),\n      dispatch: (prop_types__WEBPACK_IMPORTED_MODULE_1___default().func.isRequired),\n      getState: (prop_types__WEBPACK_IMPORTED_MODULE_1___default().func.isRequired)\n    }),\n    context: (prop_types__WEBPACK_IMPORTED_MODULE_1___default().object),\n    children: (prop_types__WEBPACK_IMPORTED_MODULE_1___default().any)\n  };\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Provider);\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/components/Provider.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/components/connectAdvanced.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-redux/es/components/connectAdvanced.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ connectAdvanced)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ \"./node_modules/@babel/runtime/helpers/extends/_index.mjs\");\n/* harmony import */ var _babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */ \"./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose/_index.mjs\");\n/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! hoist-non-react-statics */ \"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\");\n/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react_is__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-is */ \"./node_modules/react-is/index.js\");\n/* harmony import */ var _utils_Subscription__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../utils/Subscription */ \"./node_modules/react-redux/es/utils/Subscription.js\");\n/* harmony import */ var _utils_useIsomorphicLayoutEffect__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../utils/useIsomorphicLayoutEffect */ \"./node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js\");\n/* harmony import */ var _Context__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./Context */ \"./node_modules/react-redux/es/components/Context.js\");\n\n\n\n\n\n\n\n // Define some constant arrays just to avoid re-creating these\n\nvar EMPTY_ARRAY = [];\nvar NO_SUBSCRIPTION_ARRAY = [null, null];\n\nvar stringifyComponent = function stringifyComponent(Comp) {\n  try {\n    return JSON.stringify(Comp);\n  } catch (err) {\n    return String(Comp);\n  }\n};\n\nfunction storeStateUpdatesReducer(state, action) {\n  var updateCount = state[1];\n  return [action.payload, updateCount + 1];\n}\n\nfunction useIsomorphicLayoutEffectWithArgs(effectFunc, effectArgs, dependencies) {\n  (0,_utils_useIsomorphicLayoutEffect__WEBPACK_IMPORTED_MODULE_6__.useIsomorphicLayoutEffect)(function () {\n    return effectFunc.apply(void 0, effectArgs);\n  }, dependencies);\n}\n\nfunction captureWrapperProps(lastWrapperProps, lastChildProps, renderIsScheduled, wrapperProps, actualChildProps, childPropsFromStoreUpdate, notifyNestedSubs) {\n  // We want to capture the wrapper props and child props we used for later comparisons\n  lastWrapperProps.current = wrapperProps;\n  lastChildProps.current = actualChildProps;\n  renderIsScheduled.current = false; // If the render was from a store update, clear out that reference and cascade the subscriber update\n\n  if (childPropsFromStoreUpdate.current) {\n    childPropsFromStoreUpdate.current = null;\n    notifyNestedSubs();\n  }\n}\n\nfunction subscribeUpdates(shouldHandleStateChanges, store, subscription, childPropsSelector, lastWrapperProps, lastChildProps, renderIsScheduled, childPropsFromStoreUpdate, notifyNestedSubs, forceComponentUpdateDispatch) {\n  // If we're not subscribed to the store, nothing to do here\n  if (!shouldHandleStateChanges) return; // Capture values for checking if and when this component unmounts\n\n  var didUnsubscribe = false;\n  var lastThrownError = null; // We'll run this callback every time a store subscription update propagates to this component\n\n  var checkForUpdates = function checkForUpdates() {\n    if (didUnsubscribe) {\n      // Don't run stale listeners.\n      // Redux doesn't guarantee unsubscriptions happen until next dispatch.\n      return;\n    }\n\n    var latestStoreState = store.getState();\n    var newChildProps, error;\n\n    try {\n      // Actually run the selector with the most recent store state and wrapper props\n      // to determine what the child props should be\n      newChildProps = childPropsSelector(latestStoreState, lastWrapperProps.current);\n    } catch (e) {\n      error = e;\n      lastThrownError = e;\n    }\n\n    if (!error) {\n      lastThrownError = null;\n    } // If the child props haven't changed, nothing to do here - cascade the subscription update\n\n\n    if (newChildProps === lastChildProps.current) {\n      if (!renderIsScheduled.current) {\n        notifyNestedSubs();\n      }\n    } else {\n      // Save references to the new child props.  Note that we track the \"child props from store update\"\n      // as a ref instead of a useState/useReducer because we need a way to determine if that value has\n      // been processed.  If this went into useState/useReducer, we couldn't clear out the value without\n      // forcing another re-render, which we don't want.\n      lastChildProps.current = newChildProps;\n      childPropsFromStoreUpdate.current = newChildProps;\n      renderIsScheduled.current = true; // If the child props _did_ change (or we caught an error), this wrapper component needs to re-render\n\n      forceComponentUpdateDispatch({\n        type: 'STORE_UPDATED',\n        payload: {\n          error: error\n        }\n      });\n    }\n  }; // Actually subscribe to the nearest connected ancestor (or store)\n\n\n  subscription.onStateChange = checkForUpdates;\n  subscription.trySubscribe(); // Pull data from the store after first render in case the store has\n  // changed since we began.\n\n  checkForUpdates();\n\n  var unsubscribeWrapper = function unsubscribeWrapper() {\n    didUnsubscribe = true;\n    subscription.tryUnsubscribe();\n    subscription.onStateChange = null;\n\n    if (lastThrownError) {\n      // It's possible that we caught an error due to a bad mapState function, but the\n      // parent re-rendered without this component and we're about to unmount.\n      // This shouldn't happen as long as we do top-down subscriptions correctly, but\n      // if we ever do those wrong, this throw will surface the error in our tests.\n      // In that case, throw the error from here so it doesn't get lost.\n      throw lastThrownError;\n    }\n  };\n\n  return unsubscribeWrapper;\n}\n\nvar initStateUpdates = function initStateUpdates() {\n  return [null, 0];\n};\n\nfunction connectAdvanced(\n/*\n  selectorFactory is a func that is responsible for returning the selector function used to\n  compute new props from state, props, and dispatch. For example:\n     export default connectAdvanced((dispatch, options) => (state, props) => ({\n      thing: state.things[props.thingId],\n      saveThing: fields => dispatch(actionCreators.saveThing(props.thingId, fields)),\n    }))(YourComponent)\n   Access to dispatch is provided to the factory so selectorFactories can bind actionCreators\n  outside of their selector as an optimization. Options passed to connectAdvanced are passed to\n  the selectorFactory, along with displayName and WrappedComponent, as the second argument.\n   Note that selectorFactory is responsible for all caching/memoization of inbound and outbound\n  props. Do not use connectAdvanced directly without memoizing results between calls to your\n  selector, otherwise the Connect component will re-render on every state or props change.\n*/\nselectorFactory, // options object:\n_ref) {\n  if (_ref === void 0) {\n    _ref = {};\n  }\n\n  var _ref2 = _ref,\n      _ref2$getDisplayName = _ref2.getDisplayName,\n      getDisplayName = _ref2$getDisplayName === void 0 ? function (name) {\n    return \"ConnectAdvanced(\" + name + \")\";\n  } : _ref2$getDisplayName,\n      _ref2$methodName = _ref2.methodName,\n      methodName = _ref2$methodName === void 0 ? 'connectAdvanced' : _ref2$methodName,\n      _ref2$renderCountProp = _ref2.renderCountProp,\n      renderCountProp = _ref2$renderCountProp === void 0 ? undefined : _ref2$renderCountProp,\n      _ref2$shouldHandleSta = _ref2.shouldHandleStateChanges,\n      shouldHandleStateChanges = _ref2$shouldHandleSta === void 0 ? true : _ref2$shouldHandleSta,\n      _ref2$storeKey = _ref2.storeKey,\n      storeKey = _ref2$storeKey === void 0 ? 'store' : _ref2$storeKey,\n      _ref2$withRef = _ref2.withRef,\n      withRef = _ref2$withRef === void 0 ? false : _ref2$withRef,\n      _ref2$forwardRef = _ref2.forwardRef,\n      forwardRef = _ref2$forwardRef === void 0 ? false : _ref2$forwardRef,\n      _ref2$context = _ref2.context,\n      context = _ref2$context === void 0 ? _Context__WEBPACK_IMPORTED_MODULE_7__.ReactReduxContext : _ref2$context,\n      connectOptions = (0,_babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__.default)(_ref2, [\"getDisplayName\", \"methodName\", \"renderCountProp\", \"shouldHandleStateChanges\", \"storeKey\", \"withRef\", \"forwardRef\", \"context\"]);\n\n  if (true) {\n    if (renderCountProp !== undefined) {\n      throw new Error(\"renderCountProp is removed. render counting is built into the latest React Dev Tools profiling extension\");\n    }\n\n    if (withRef) {\n      throw new Error('withRef is removed. To access the wrapped instance, use a ref on the connected component');\n    }\n\n    var customStoreWarningMessage = 'To use a custom Redux store for specific components, create a custom React context with ' + \"React.createContext(), and pass the context object to React Redux's Provider and specific components\" + ' like: <Provider context={MyContext}><ConnectedComponent context={MyContext} /></Provider>. ' + 'You may also pass a {context : MyContext} option to connect';\n\n    if (storeKey !== 'store') {\n      throw new Error('storeKey has been removed and does not do anything. ' + customStoreWarningMessage);\n    }\n  }\n\n  var Context = context;\n  return function wrapWithConnect(WrappedComponent) {\n    if ( true && !(0,react_is__WEBPACK_IMPORTED_MODULE_4__.isValidElementType)(WrappedComponent)) {\n      throw new Error(\"You must pass a component to the function returned by \" + (methodName + \". Instead received \" + stringifyComponent(WrappedComponent)));\n    }\n\n    var wrappedComponentName = WrappedComponent.displayName || WrappedComponent.name || 'Component';\n    var displayName = getDisplayName(wrappedComponentName);\n\n    var selectorFactoryOptions = (0,_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__.default)({}, connectOptions, {\n      getDisplayName: getDisplayName,\n      methodName: methodName,\n      renderCountProp: renderCountProp,\n      shouldHandleStateChanges: shouldHandleStateChanges,\n      storeKey: storeKey,\n      displayName: displayName,\n      wrappedComponentName: wrappedComponentName,\n      WrappedComponent: WrappedComponent\n    });\n\n    var pure = connectOptions.pure;\n\n    function createChildSelector(store) {\n      return selectorFactory(store.dispatch, selectorFactoryOptions);\n    } // If we aren't running in \"pure\" mode, we don't want to memoize values.\n    // To avoid conditionally calling hooks, we fall back to a tiny wrapper\n    // that just executes the given callback immediately.\n\n\n    var usePureOnlyMemo = pure ? react__WEBPACK_IMPORTED_MODULE_3__.useMemo : function (callback) {\n      return callback();\n    };\n\n    function ConnectFunction(props) {\n      var _useMemo = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        // Distinguish between actual \"data\" props that were passed to the wrapper component,\n        // and values needed to control behavior (forwarded refs, alternate context instances).\n        // To maintain the wrapperProps object reference, memoize this destructuring.\n        var reactReduxForwardedRef = props.reactReduxForwardedRef,\n            wrapperProps = (0,_babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__.default)(props, [\"reactReduxForwardedRef\"]);\n\n        return [props.context, reactReduxForwardedRef, wrapperProps];\n      }, [props]),\n          propsContext = _useMemo[0],\n          reactReduxForwardedRef = _useMemo[1],\n          wrapperProps = _useMemo[2];\n\n      var ContextToUse = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        // Users may optionally pass in a custom context instance to use instead of our ReactReduxContext.\n        // Memoize the check that determines which context instance we should use.\n        return propsContext && propsContext.Consumer && (0,react_is__WEBPACK_IMPORTED_MODULE_4__.isContextConsumer)( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(propsContext.Consumer, null)) ? propsContext : Context;\n      }, [propsContext, Context]); // Retrieve the store and ancestor subscription via context, if available\n\n      var contextValue = (0,react__WEBPACK_IMPORTED_MODULE_3__.useContext)(ContextToUse); // The store _must_ exist as either a prop or in context.\n      // We'll check to see if it _looks_ like a Redux store first.\n      // This allows us to pass through a `store` prop that is just a plain value.\n\n      var didStoreComeFromProps = Boolean(props.store) && Boolean(props.store.getState) && Boolean(props.store.dispatch);\n      var didStoreComeFromContext = Boolean(contextValue) && Boolean(contextValue.store);\n\n      if ( true && !didStoreComeFromProps && !didStoreComeFromContext) {\n        throw new Error(\"Could not find \\\"store\\\" in the context of \" + (\"\\\"\" + displayName + \"\\\". Either wrap the root component in a <Provider>, \") + \"or pass a custom React context provider to <Provider> and the corresponding \" + (\"React context consumer to \" + displayName + \" in connect options.\"));\n      } // Based on the previous check, one of these must be true\n\n\n      var store = didStoreComeFromProps ? props.store : contextValue.store;\n      var childPropsSelector = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        // The child props selector needs the store reference as an input.\n        // Re-create this selector whenever the store changes.\n        return createChildSelector(store);\n      }, [store]);\n\n      var _useMemo2 = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        if (!shouldHandleStateChanges) return NO_SUBSCRIPTION_ARRAY; // This Subscription's source should match where store came from: props vs. context. A component\n        // connected to the store via props shouldn't use subscription from context, or vice versa.\n\n        var subscription = new _utils_Subscription__WEBPACK_IMPORTED_MODULE_5__.default(store, didStoreComeFromProps ? null : contextValue.subscription); // `notifyNestedSubs` is duplicated to handle the case where the component is unmounted in\n        // the middle of the notification loop, where `subscription` will then be null. This can\n        // probably be avoided if Subscription's listeners logic is changed to not call listeners\n        // that have been unsubscribed in the  middle of the notification loop.\n\n        var notifyNestedSubs = subscription.notifyNestedSubs.bind(subscription);\n        return [subscription, notifyNestedSubs];\n      }, [store, didStoreComeFromProps, contextValue]),\n          subscription = _useMemo2[0],\n          notifyNestedSubs = _useMemo2[1]; // Determine what {store, subscription} value should be put into nested context, if necessary,\n      // and memoize that value to avoid unnecessary context updates.\n\n\n      var overriddenContextValue = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        if (didStoreComeFromProps) {\n          // This component is directly subscribed to a store from props.\n          // We don't want descendants reading from this store - pass down whatever\n          // the existing context value is from the nearest connected ancestor.\n          return contextValue;\n        } // Otherwise, put this component's subscription instance into context, so that\n        // connected descendants won't update until after this component is done\n\n\n        return (0,_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__.default)({}, contextValue, {\n          subscription: subscription\n        });\n      }, [didStoreComeFromProps, contextValue, subscription]); // We need to force this wrapper component to re-render whenever a Redux store update\n      // causes a change to the calculated child component props (or we caught an error in mapState)\n\n      var _useReducer = (0,react__WEBPACK_IMPORTED_MODULE_3__.useReducer)(storeStateUpdatesReducer, EMPTY_ARRAY, initStateUpdates),\n          _useReducer$ = _useReducer[0],\n          previousStateUpdateResult = _useReducer$[0],\n          forceComponentUpdateDispatch = _useReducer[1]; // Propagate any mapState/mapDispatch errors upwards\n\n\n      if (previousStateUpdateResult && previousStateUpdateResult.error) {\n        throw previousStateUpdateResult.error;\n      } // Set up refs to coordinate values between the subscription effect and the render logic\n\n\n      var lastChildProps = (0,react__WEBPACK_IMPORTED_MODULE_3__.useRef)();\n      var lastWrapperProps = (0,react__WEBPACK_IMPORTED_MODULE_3__.useRef)(wrapperProps);\n      var childPropsFromStoreUpdate = (0,react__WEBPACK_IMPORTED_MODULE_3__.useRef)();\n      var renderIsScheduled = (0,react__WEBPACK_IMPORTED_MODULE_3__.useRef)(false);\n      var actualChildProps = usePureOnlyMemo(function () {\n        // Tricky logic here:\n        // - This render may have been triggered by a Redux store update that produced new child props\n        // - However, we may have gotten new wrapper props after that\n        // If we have new child props, and the same wrapper props, we know we should use the new child props as-is.\n        // But, if we have new wrapper props, those might change the child props, so we have to recalculate things.\n        // So, we'll use the child props from store update only if the wrapper props are the same as last time.\n        if (childPropsFromStoreUpdate.current && wrapperProps === lastWrapperProps.current) {\n          return childPropsFromStoreUpdate.current;\n        } // TODO We're reading the store directly in render() here. Bad idea?\n        // This will likely cause Bad Things (TM) to happen in Concurrent Mode.\n        // Note that we do this because on renders _not_ caused by store updates, we need the latest store state\n        // to determine what the child props should be.\n\n\n        return childPropsSelector(store.getState(), wrapperProps);\n      }, [store, previousStateUpdateResult, wrapperProps]); // We need this to execute synchronously every time we re-render. However, React warns\n      // about useLayoutEffect in SSR, so we try to detect environment and fall back to\n      // just useEffect instead to avoid the warning, since neither will run anyway.\n\n      useIsomorphicLayoutEffectWithArgs(captureWrapperProps, [lastWrapperProps, lastChildProps, renderIsScheduled, wrapperProps, actualChildProps, childPropsFromStoreUpdate, notifyNestedSubs]); // Our re-subscribe logic only runs when the store/subscription setup changes\n\n      useIsomorphicLayoutEffectWithArgs(subscribeUpdates, [shouldHandleStateChanges, store, subscription, childPropsSelector, lastWrapperProps, lastChildProps, renderIsScheduled, childPropsFromStoreUpdate, notifyNestedSubs, forceComponentUpdateDispatch], [store, subscription, childPropsSelector]); // Now that all that's done, we can finally try to actually render the child component.\n      // We memoize the elements for the rendered child component as an optimization.\n\n      var renderedWrappedComponent = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(WrappedComponent, (0,_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__.default)({}, actualChildProps, {\n          ref: reactReduxForwardedRef\n        }));\n      }, [reactReduxForwardedRef, WrappedComponent, actualChildProps]); // If React sees the exact same element reference as last time, it bails out of re-rendering\n      // that child, same as if it was wrapped in React.memo() or returned false from shouldComponentUpdate.\n\n      var renderedChild = (0,react__WEBPACK_IMPORTED_MODULE_3__.useMemo)(function () {\n        if (shouldHandleStateChanges) {\n          // If this component is subscribed to store updates, we need to pass its own\n          // subscription instance down to our descendants. That means rendering the same\n          // Context instance, and putting a different value into the context.\n          return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(ContextToUse.Provider, {\n            value: overriddenContextValue\n          }, renderedWrappedComponent);\n        }\n\n        return renderedWrappedComponent;\n      }, [ContextToUse, renderedWrappedComponent, overriddenContextValue]);\n      return renderedChild;\n    } // If we're in \"pure\" mode, ensure our wrapper component only re-renders when incoming props have changed.\n\n\n    var Connect = pure ? react__WEBPACK_IMPORTED_MODULE_3__.memo(ConnectFunction) : ConnectFunction;\n    Connect.WrappedComponent = WrappedComponent;\n    Connect.displayName = displayName;\n\n    if (forwardRef) {\n      var forwarded = react__WEBPACK_IMPORTED_MODULE_3__.forwardRef(function forwardConnectRef(props, ref) {\n        return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3__.createElement(Connect, (0,_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__.default)({}, props, {\n          reactReduxForwardedRef: ref\n        }));\n      });\n      forwarded.displayName = displayName;\n      forwarded.WrappedComponent = WrappedComponent;\n      return hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2___default()(forwarded, WrappedComponent);\n    }\n\n    return hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2___default()(Connect, WrappedComponent);\n  };\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/components/connectAdvanced.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/connect.js":
+/*!********************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/connect.js ***!
+  \********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"createConnect\": () => (/* binding */ createConnect),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ \"./node_modules/@babel/runtime/helpers/extends/_index.mjs\");\n/* harmony import */ var _babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */ \"./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose/_index.mjs\");\n/* harmony import */ var _components_connectAdvanced__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/connectAdvanced */ \"./node_modules/react-redux/es/components/connectAdvanced.js\");\n/* harmony import */ var _utils_shallowEqual__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utils/shallowEqual */ \"./node_modules/react-redux/es/utils/shallowEqual.js\");\n/* harmony import */ var _mapDispatchToProps__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./mapDispatchToProps */ \"./node_modules/react-redux/es/connect/mapDispatchToProps.js\");\n/* harmony import */ var _mapStateToProps__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./mapStateToProps */ \"./node_modules/react-redux/es/connect/mapStateToProps.js\");\n/* harmony import */ var _mergeProps__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./mergeProps */ \"./node_modules/react-redux/es/connect/mergeProps.js\");\n/* harmony import */ var _selectorFactory__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./selectorFactory */ \"./node_modules/react-redux/es/connect/selectorFactory.js\");\n\n\n\n\n\n\n\n\n/*\n  connect is a facade over connectAdvanced. It turns its args into a compatible\n  selectorFactory, which has the signature:\n\n    (dispatch, options) => (nextState, nextOwnProps) => nextFinalProps\n  \n  connect passes its args to connectAdvanced as options, which will in turn pass them to\n  selectorFactory each time a Connect component instance is instantiated or hot reloaded.\n\n  selectorFactory returns a final props selector from its mapStateToProps,\n  mapStateToPropsFactories, mapDispatchToProps, mapDispatchToPropsFactories, mergeProps,\n  mergePropsFactories, and pure args.\n\n  The resulting final props selector is called by the Connect component instance whenever\n  it receives new props or store state.\n */\n\nfunction match(arg, factories, name) {\n  for (var i = factories.length - 1; i >= 0; i--) {\n    var result = factories[i](arg);\n    if (result) return result;\n  }\n\n  return function (dispatch, options) {\n    throw new Error(\"Invalid value of type \" + typeof arg + \" for \" + name + \" argument when connecting component \" + options.wrappedComponentName + \".\");\n  };\n}\n\nfunction strictEqual(a, b) {\n  return a === b;\n} // createConnect with default args builds the 'official' connect behavior. Calling it with\n// different options opens up some testing and extensibility scenarios\n\n\nfunction createConnect(_temp) {\n  var _ref = _temp === void 0 ? {} : _temp,\n      _ref$connectHOC = _ref.connectHOC,\n      connectHOC = _ref$connectHOC === void 0 ? _components_connectAdvanced__WEBPACK_IMPORTED_MODULE_2__.default : _ref$connectHOC,\n      _ref$mapStateToPropsF = _ref.mapStateToPropsFactories,\n      mapStateToPropsFactories = _ref$mapStateToPropsF === void 0 ? _mapStateToProps__WEBPACK_IMPORTED_MODULE_5__.default : _ref$mapStateToPropsF,\n      _ref$mapDispatchToPro = _ref.mapDispatchToPropsFactories,\n      mapDispatchToPropsFactories = _ref$mapDispatchToPro === void 0 ? _mapDispatchToProps__WEBPACK_IMPORTED_MODULE_4__.default : _ref$mapDispatchToPro,\n      _ref$mergePropsFactor = _ref.mergePropsFactories,\n      mergePropsFactories = _ref$mergePropsFactor === void 0 ? _mergeProps__WEBPACK_IMPORTED_MODULE_6__.default : _ref$mergePropsFactor,\n      _ref$selectorFactory = _ref.selectorFactory,\n      selectorFactory = _ref$selectorFactory === void 0 ? _selectorFactory__WEBPACK_IMPORTED_MODULE_7__.default : _ref$selectorFactory;\n\n  return function connect(mapStateToProps, mapDispatchToProps, mergeProps, _ref2) {\n    if (_ref2 === void 0) {\n      _ref2 = {};\n    }\n\n    var _ref3 = _ref2,\n        _ref3$pure = _ref3.pure,\n        pure = _ref3$pure === void 0 ? true : _ref3$pure,\n        _ref3$areStatesEqual = _ref3.areStatesEqual,\n        areStatesEqual = _ref3$areStatesEqual === void 0 ? strictEqual : _ref3$areStatesEqual,\n        _ref3$areOwnPropsEqua = _ref3.areOwnPropsEqual,\n        areOwnPropsEqual = _ref3$areOwnPropsEqua === void 0 ? _utils_shallowEqual__WEBPACK_IMPORTED_MODULE_3__.default : _ref3$areOwnPropsEqua,\n        _ref3$areStatePropsEq = _ref3.areStatePropsEqual,\n        areStatePropsEqual = _ref3$areStatePropsEq === void 0 ? _utils_shallowEqual__WEBPACK_IMPORTED_MODULE_3__.default : _ref3$areStatePropsEq,\n        _ref3$areMergedPropsE = _ref3.areMergedPropsEqual,\n        areMergedPropsEqual = _ref3$areMergedPropsE === void 0 ? _utils_shallowEqual__WEBPACK_IMPORTED_MODULE_3__.default : _ref3$areMergedPropsE,\n        extraOptions = (0,_babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__.default)(_ref3, [\"pure\", \"areStatesEqual\", \"areOwnPropsEqual\", \"areStatePropsEqual\", \"areMergedPropsEqual\"]);\n\n    var initMapStateToProps = match(mapStateToProps, mapStateToPropsFactories, 'mapStateToProps');\n    var initMapDispatchToProps = match(mapDispatchToProps, mapDispatchToPropsFactories, 'mapDispatchToProps');\n    var initMergeProps = match(mergeProps, mergePropsFactories, 'mergeProps');\n    return connectHOC(selectorFactory, (0,_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__.default)({\n      // used in error messages\n      methodName: 'connect',\n      // used to compute Connect's displayName from the wrapped component's displayName.\n      getDisplayName: function getDisplayName(name) {\n        return \"Connect(\" + name + \")\";\n      },\n      // if mapStateToProps is falsy, the Connect component doesn't subscribe to store state changes\n      shouldHandleStateChanges: Boolean(mapStateToProps),\n      // passed through to selectorFactory\n      initMapStateToProps: initMapStateToProps,\n      initMapDispatchToProps: initMapDispatchToProps,\n      initMergeProps: initMergeProps,\n      pure: pure,\n      areStatesEqual: areStatesEqual,\n      areOwnPropsEqual: areOwnPropsEqual,\n      areStatePropsEqual: areStatePropsEqual,\n      areMergedPropsEqual: areMergedPropsEqual\n    }, extraOptions));\n  };\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (/*#__PURE__*/createConnect());\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/connect.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/mapDispatchToProps.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/mapDispatchToProps.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"whenMapDispatchToPropsIsFunction\": () => (/* binding */ whenMapDispatchToPropsIsFunction),\n/* harmony export */   \"whenMapDispatchToPropsIsMissing\": () => (/* binding */ whenMapDispatchToPropsIsMissing),\n/* harmony export */   \"whenMapDispatchToPropsIsObject\": () => (/* binding */ whenMapDispatchToPropsIsObject),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var redux__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! redux */ \"./node_modules/redux/es/redux.js\");\n/* harmony import */ var _wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./wrapMapToProps */ \"./node_modules/react-redux/es/connect/wrapMapToProps.js\");\n\n\nfunction whenMapDispatchToPropsIsFunction(mapDispatchToProps) {\n  return typeof mapDispatchToProps === 'function' ? (0,_wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__.wrapMapToPropsFunc)(mapDispatchToProps, 'mapDispatchToProps') : undefined;\n}\nfunction whenMapDispatchToPropsIsMissing(mapDispatchToProps) {\n  return !mapDispatchToProps ? (0,_wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__.wrapMapToPropsConstant)(function (dispatch) {\n    return {\n      dispatch: dispatch\n    };\n  }) : undefined;\n}\nfunction whenMapDispatchToPropsIsObject(mapDispatchToProps) {\n  return mapDispatchToProps && typeof mapDispatchToProps === 'object' ? (0,_wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__.wrapMapToPropsConstant)(function (dispatch) {\n    return (0,redux__WEBPACK_IMPORTED_MODULE_1__.bindActionCreators)(mapDispatchToProps, dispatch);\n  }) : undefined;\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([whenMapDispatchToPropsIsFunction, whenMapDispatchToPropsIsMissing, whenMapDispatchToPropsIsObject]);\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/mapDispatchToProps.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/mapStateToProps.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/mapStateToProps.js ***!
+  \****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"whenMapStateToPropsIsFunction\": () => (/* binding */ whenMapStateToPropsIsFunction),\n/* harmony export */   \"whenMapStateToPropsIsMissing\": () => (/* binding */ whenMapStateToPropsIsMissing),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./wrapMapToProps */ \"./node_modules/react-redux/es/connect/wrapMapToProps.js\");\n\nfunction whenMapStateToPropsIsFunction(mapStateToProps) {\n  return typeof mapStateToProps === 'function' ? (0,_wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__.wrapMapToPropsFunc)(mapStateToProps, 'mapStateToProps') : undefined;\n}\nfunction whenMapStateToPropsIsMissing(mapStateToProps) {\n  return !mapStateToProps ? (0,_wrapMapToProps__WEBPACK_IMPORTED_MODULE_0__.wrapMapToPropsConstant)(function () {\n    return {};\n  }) : undefined;\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([whenMapStateToPropsIsFunction, whenMapStateToPropsIsMissing]);\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/mapStateToProps.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/mergeProps.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/mergeProps.js ***!
+  \***********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"defaultMergeProps\": () => (/* binding */ defaultMergeProps),\n/* harmony export */   \"wrapMergePropsFunc\": () => (/* binding */ wrapMergePropsFunc),\n/* harmony export */   \"whenMergePropsIsFunction\": () => (/* binding */ whenMergePropsIsFunction),\n/* harmony export */   \"whenMergePropsIsOmitted\": () => (/* binding */ whenMergePropsIsOmitted),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ \"./node_modules/@babel/runtime/helpers/extends/_index.mjs\");\n/* harmony import */ var _utils_verifyPlainObject__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils/verifyPlainObject */ \"./node_modules/react-redux/es/utils/verifyPlainObject.js\");\n\n\nfunction defaultMergeProps(stateProps, dispatchProps, ownProps) {\n  return (0,_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__.default)({}, ownProps, stateProps, dispatchProps);\n}\nfunction wrapMergePropsFunc(mergeProps) {\n  return function initMergePropsProxy(dispatch, _ref) {\n    var displayName = _ref.displayName,\n        pure = _ref.pure,\n        areMergedPropsEqual = _ref.areMergedPropsEqual;\n    var hasRunOnce = false;\n    var mergedProps;\n    return function mergePropsProxy(stateProps, dispatchProps, ownProps) {\n      var nextMergedProps = mergeProps(stateProps, dispatchProps, ownProps);\n\n      if (hasRunOnce) {\n        if (!pure || !areMergedPropsEqual(nextMergedProps, mergedProps)) mergedProps = nextMergedProps;\n      } else {\n        hasRunOnce = true;\n        mergedProps = nextMergedProps;\n        if (true) (0,_utils_verifyPlainObject__WEBPACK_IMPORTED_MODULE_1__.default)(mergedProps, displayName, 'mergeProps');\n      }\n\n      return mergedProps;\n    };\n  };\n}\nfunction whenMergePropsIsFunction(mergeProps) {\n  return typeof mergeProps === 'function' ? wrapMergePropsFunc(mergeProps) : undefined;\n}\nfunction whenMergePropsIsOmitted(mergeProps) {\n  return !mergeProps ? function () {\n    return defaultMergeProps;\n  } : undefined;\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([whenMergePropsIsFunction, whenMergePropsIsOmitted]);\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/mergeProps.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/selectorFactory.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/selectorFactory.js ***!
+  \****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"impureFinalPropsSelectorFactory\": () => (/* binding */ impureFinalPropsSelectorFactory),\n/* harmony export */   \"pureFinalPropsSelectorFactory\": () => (/* binding */ pureFinalPropsSelectorFactory),\n/* harmony export */   \"default\": () => (/* binding */ finalPropsSelectorFactory)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */ \"./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose/_index.mjs\");\n/* harmony import */ var _verifySubselectors__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./verifySubselectors */ \"./node_modules/react-redux/es/connect/verifySubselectors.js\");\n\n\nfunction impureFinalPropsSelectorFactory(mapStateToProps, mapDispatchToProps, mergeProps, dispatch) {\n  return function impureFinalPropsSelector(state, ownProps) {\n    return mergeProps(mapStateToProps(state, ownProps), mapDispatchToProps(dispatch, ownProps), ownProps);\n  };\n}\nfunction pureFinalPropsSelectorFactory(mapStateToProps, mapDispatchToProps, mergeProps, dispatch, _ref) {\n  var areStatesEqual = _ref.areStatesEqual,\n      areOwnPropsEqual = _ref.areOwnPropsEqual,\n      areStatePropsEqual = _ref.areStatePropsEqual;\n  var hasRunAtLeastOnce = false;\n  var state;\n  var ownProps;\n  var stateProps;\n  var dispatchProps;\n  var mergedProps;\n\n  function handleFirstCall(firstState, firstOwnProps) {\n    state = firstState;\n    ownProps = firstOwnProps;\n    stateProps = mapStateToProps(state, ownProps);\n    dispatchProps = mapDispatchToProps(dispatch, ownProps);\n    mergedProps = mergeProps(stateProps, dispatchProps, ownProps);\n    hasRunAtLeastOnce = true;\n    return mergedProps;\n  }\n\n  function handleNewPropsAndNewState() {\n    stateProps = mapStateToProps(state, ownProps);\n    if (mapDispatchToProps.dependsOnOwnProps) dispatchProps = mapDispatchToProps(dispatch, ownProps);\n    mergedProps = mergeProps(stateProps, dispatchProps, ownProps);\n    return mergedProps;\n  }\n\n  function handleNewProps() {\n    if (mapStateToProps.dependsOnOwnProps) stateProps = mapStateToProps(state, ownProps);\n    if (mapDispatchToProps.dependsOnOwnProps) dispatchProps = mapDispatchToProps(dispatch, ownProps);\n    mergedProps = mergeProps(stateProps, dispatchProps, ownProps);\n    return mergedProps;\n  }\n\n  function handleNewState() {\n    var nextStateProps = mapStateToProps(state, ownProps);\n    var statePropsChanged = !areStatePropsEqual(nextStateProps, stateProps);\n    stateProps = nextStateProps;\n    if (statePropsChanged) mergedProps = mergeProps(stateProps, dispatchProps, ownProps);\n    return mergedProps;\n  }\n\n  function handleSubsequentCalls(nextState, nextOwnProps) {\n    var propsChanged = !areOwnPropsEqual(nextOwnProps, ownProps);\n    var stateChanged = !areStatesEqual(nextState, state);\n    state = nextState;\n    ownProps = nextOwnProps;\n    if (propsChanged && stateChanged) return handleNewPropsAndNewState();\n    if (propsChanged) return handleNewProps();\n    if (stateChanged) return handleNewState();\n    return mergedProps;\n  }\n\n  return function pureFinalPropsSelector(nextState, nextOwnProps) {\n    return hasRunAtLeastOnce ? handleSubsequentCalls(nextState, nextOwnProps) : handleFirstCall(nextState, nextOwnProps);\n  };\n} // TODO: Add more comments\n// If pure is true, the selector returned by selectorFactory will memoize its results,\n// allowing connectAdvanced's shouldComponentUpdate to return false if final\n// props have not changed. If false, the selector will always return a new\n// object and shouldComponentUpdate will always return true.\n\nfunction finalPropsSelectorFactory(dispatch, _ref2) {\n  var initMapStateToProps = _ref2.initMapStateToProps,\n      initMapDispatchToProps = _ref2.initMapDispatchToProps,\n      initMergeProps = _ref2.initMergeProps,\n      options = (0,_babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_0__.default)(_ref2, [\"initMapStateToProps\", \"initMapDispatchToProps\", \"initMergeProps\"]);\n\n  var mapStateToProps = initMapStateToProps(dispatch, options);\n  var mapDispatchToProps = initMapDispatchToProps(dispatch, options);\n  var mergeProps = initMergeProps(dispatch, options);\n\n  if (true) {\n    (0,_verifySubselectors__WEBPACK_IMPORTED_MODULE_1__.default)(mapStateToProps, mapDispatchToProps, mergeProps, options.displayName);\n  }\n\n  var selectorFactory = options.pure ? pureFinalPropsSelectorFactory : impureFinalPropsSelectorFactory;\n  return selectorFactory(mapStateToProps, mapDispatchToProps, mergeProps, dispatch, options);\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/selectorFactory.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/verifySubselectors.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/verifySubselectors.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ verifySubselectors)\n/* harmony export */ });\n/* harmony import */ var _utils_warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils/warning */ \"./node_modules/react-redux/es/utils/warning.js\");\n\n\nfunction verify(selector, methodName, displayName) {\n  if (!selector) {\n    throw new Error(\"Unexpected value for \" + methodName + \" in \" + displayName + \".\");\n  } else if (methodName === 'mapStateToProps' || methodName === 'mapDispatchToProps') {\n    if (!Object.prototype.hasOwnProperty.call(selector, 'dependsOnOwnProps')) {\n      (0,_utils_warning__WEBPACK_IMPORTED_MODULE_0__.default)(\"The selector for \" + methodName + \" of \" + displayName + \" did not specify a value for dependsOnOwnProps.\");\n    }\n  }\n}\n\nfunction verifySubselectors(mapStateToProps, mapDispatchToProps, mergeProps, displayName) {\n  verify(mapStateToProps, 'mapStateToProps', displayName);\n  verify(mapDispatchToProps, 'mapDispatchToProps', displayName);\n  verify(mergeProps, 'mergeProps', displayName);\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/verifySubselectors.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/connect/wrapMapToProps.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/react-redux/es/connect/wrapMapToProps.js ***!
+  \***************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"wrapMapToPropsConstant\": () => (/* binding */ wrapMapToPropsConstant),\n/* harmony export */   \"getDependsOnOwnProps\": () => (/* binding */ getDependsOnOwnProps),\n/* harmony export */   \"wrapMapToPropsFunc\": () => (/* binding */ wrapMapToPropsFunc)\n/* harmony export */ });\n/* harmony import */ var _utils_verifyPlainObject__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils/verifyPlainObject */ \"./node_modules/react-redux/es/utils/verifyPlainObject.js\");\n\nfunction wrapMapToPropsConstant(getConstant) {\n  return function initConstantSelector(dispatch, options) {\n    var constant = getConstant(dispatch, options);\n\n    function constantSelector() {\n      return constant;\n    }\n\n    constantSelector.dependsOnOwnProps = false;\n    return constantSelector;\n  };\n} // dependsOnOwnProps is used by createMapToPropsProxy to determine whether to pass props as args\n// to the mapToProps function being wrapped. It is also used by makePurePropsSelector to determine\n// whether mapToProps needs to be invoked when props have changed.\n//\n// A length of one signals that mapToProps does not depend on props from the parent component.\n// A length of zero is assumed to mean mapToProps is getting args via arguments or ...args and\n// therefore not reporting its length accurately..\n\nfunction getDependsOnOwnProps(mapToProps) {\n  return mapToProps.dependsOnOwnProps !== null && mapToProps.dependsOnOwnProps !== undefined ? Boolean(mapToProps.dependsOnOwnProps) : mapToProps.length !== 1;\n} // Used by whenMapStateToPropsIsFunction and whenMapDispatchToPropsIsFunction,\n// this function wraps mapToProps in a proxy function which does several things:\n//\n//  * Detects whether the mapToProps function being called depends on props, which\n//    is used by selectorFactory to decide if it should reinvoke on props changes.\n//\n//  * On first call, handles mapToProps if returns another function, and treats that\n//    new function as the true mapToProps for subsequent calls.\n//\n//  * On first call, verifies the first result is a plain object, in order to warn\n//    the developer that their mapToProps function is not returning a valid result.\n//\n\nfunction wrapMapToPropsFunc(mapToProps, methodName) {\n  return function initProxySelector(dispatch, _ref) {\n    var displayName = _ref.displayName;\n\n    var proxy = function mapToPropsProxy(stateOrDispatch, ownProps) {\n      return proxy.dependsOnOwnProps ? proxy.mapToProps(stateOrDispatch, ownProps) : proxy.mapToProps(stateOrDispatch);\n    }; // allow detectFactoryAndVerify to get ownProps\n\n\n    proxy.dependsOnOwnProps = true;\n\n    proxy.mapToProps = function detectFactoryAndVerify(stateOrDispatch, ownProps) {\n      proxy.mapToProps = mapToProps;\n      proxy.dependsOnOwnProps = getDependsOnOwnProps(mapToProps);\n      var props = proxy(stateOrDispatch, ownProps);\n\n      if (typeof props === 'function') {\n        proxy.mapToProps = props;\n        proxy.dependsOnOwnProps = getDependsOnOwnProps(props);\n        props = proxy(stateOrDispatch, ownProps);\n      }\n\n      if (true) (0,_utils_verifyPlainObject__WEBPACK_IMPORTED_MODULE_0__.default)(props, displayName, methodName);\n      return props;\n    };\n\n    return proxy;\n  };\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/connect/wrapMapToProps.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/hooks/useDispatch.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/react-redux/es/hooks/useDispatch.js ***!
+  \**********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"createDispatchHook\": () => (/* binding */ createDispatchHook),\n/* harmony export */   \"useDispatch\": () => (/* binding */ useDispatch)\n/* harmony export */ });\n/* harmony import */ var _components_Context__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/Context */ \"./node_modules/react-redux/es/components/Context.js\");\n/* harmony import */ var _useStore__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./useStore */ \"./node_modules/react-redux/es/hooks/useStore.js\");\n\n\n/**\n * Hook factory, which creates a `useDispatch` hook bound to a given context.\n *\n * @param {React.Context} [context=ReactReduxContext] Context passed to your `<Provider>`.\n * @returns {Function} A `useDispatch` hook bound to the specified context.\n */\n\nfunction createDispatchHook(context) {\n  if (context === void 0) {\n    context = _components_Context__WEBPACK_IMPORTED_MODULE_0__.ReactReduxContext;\n  }\n\n  var useStore = context === _components_Context__WEBPACK_IMPORTED_MODULE_0__.ReactReduxContext ? _useStore__WEBPACK_IMPORTED_MODULE_1__.useStore : (0,_useStore__WEBPACK_IMPORTED_MODULE_1__.createStoreHook)(context);\n  return function useDispatch() {\n    var store = useStore();\n    return store.dispatch;\n  };\n}\n/**\n * A hook to access the redux `dispatch` function.\n *\n * @returns {any|function} redux store's `dispatch` function\n *\n * @example\n *\n * import React, { useCallback } from 'react'\n * import { useDispatch } from 'react-redux'\n *\n * export const CounterComponent = ({ value }) => {\n *   const dispatch = useDispatch()\n *   const increaseCounter = useCallback(() => dispatch({ type: 'increase-counter' }), [])\n *   return (\n *     <div>\n *       <span>{value}</span>\n *       <button onClick={increaseCounter}>Increase counter</button>\n *     </div>\n *   )\n * }\n */\n\nvar useDispatch = /*#__PURE__*/createDispatchHook();\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/hooks/useDispatch.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/hooks/useReduxContext.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/react-redux/es/hooks/useReduxContext.js ***!
+  \**************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"useReduxContext\": () => (/* binding */ useReduxContext)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _components_Context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Context */ \"./node_modules/react-redux/es/components/Context.js\");\n\n\n/**\n * A hook to access the value of the `ReactReduxContext`. This is a low-level\n * hook that you should usually not need to call directly.\n *\n * @returns {any} the value of the `ReactReduxContext`\n *\n * @example\n *\n * import React from 'react'\n * import { useReduxContext } from 'react-redux'\n *\n * export const CounterComponent = ({ value }) => {\n *   const { store } = useReduxContext()\n *   return <div>{store.getState()}</div>\n * }\n */\n\nfunction useReduxContext() {\n  var contextValue = (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(_components_Context__WEBPACK_IMPORTED_MODULE_1__.ReactReduxContext);\n\n  if ( true && !contextValue) {\n    throw new Error('could not find react-redux context value; please ensure the component is wrapped in a <Provider>');\n  }\n\n  return contextValue;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/hooks/useReduxContext.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/hooks/useSelector.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/react-redux/es/hooks/useSelector.js ***!
+  \**********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"createSelectorHook\": () => (/* binding */ createSelectorHook),\n/* harmony export */   \"useSelector\": () => (/* binding */ useSelector)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _useReduxContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./useReduxContext */ \"./node_modules/react-redux/es/hooks/useReduxContext.js\");\n/* harmony import */ var _utils_Subscription__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../utils/Subscription */ \"./node_modules/react-redux/es/utils/Subscription.js\");\n/* harmony import */ var _utils_useIsomorphicLayoutEffect__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utils/useIsomorphicLayoutEffect */ \"./node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js\");\n/* harmony import */ var _components_Context__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Context */ \"./node_modules/react-redux/es/components/Context.js\");\n\n\n\n\n\n\nvar refEquality = function refEquality(a, b) {\n  return a === b;\n};\n\nfunction useSelectorWithStoreAndSubscription(selector, equalityFn, store, contextSub) {\n  var _useReducer = (0,react__WEBPACK_IMPORTED_MODULE_0__.useReducer)(function (s) {\n    return s + 1;\n  }, 0),\n      forceRender = _useReducer[1];\n\n  var subscription = (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(function () {\n    return new _utils_Subscription__WEBPACK_IMPORTED_MODULE_2__.default(store, contextSub);\n  }, [store, contextSub]);\n  var latestSubscriptionCallbackError = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)();\n  var latestSelector = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)();\n  var latestStoreState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)();\n  var latestSelectedState = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)();\n  var storeState = store.getState();\n  var selectedState;\n\n  try {\n    if (selector !== latestSelector.current || storeState !== latestStoreState.current || latestSubscriptionCallbackError.current) {\n      selectedState = selector(storeState);\n    } else {\n      selectedState = latestSelectedState.current;\n    }\n  } catch (err) {\n    if (latestSubscriptionCallbackError.current) {\n      err.message += \"\\nThe error may be correlated with this previous error:\\n\" + latestSubscriptionCallbackError.current.stack + \"\\n\\n\";\n    }\n\n    throw err;\n  }\n\n  (0,_utils_useIsomorphicLayoutEffect__WEBPACK_IMPORTED_MODULE_3__.useIsomorphicLayoutEffect)(function () {\n    latestSelector.current = selector;\n    latestStoreState.current = storeState;\n    latestSelectedState.current = selectedState;\n    latestSubscriptionCallbackError.current = undefined;\n  });\n  (0,_utils_useIsomorphicLayoutEffect__WEBPACK_IMPORTED_MODULE_3__.useIsomorphicLayoutEffect)(function () {\n    function checkForUpdates() {\n      try {\n        var newSelectedState = latestSelector.current(store.getState());\n\n        if (equalityFn(newSelectedState, latestSelectedState.current)) {\n          return;\n        }\n\n        latestSelectedState.current = newSelectedState;\n      } catch (err) {\n        // we ignore all errors here, since when the component\n        // is re-rendered, the selectors are called again, and\n        // will throw again, if neither props nor store state\n        // changed\n        latestSubscriptionCallbackError.current = err;\n      }\n\n      forceRender();\n    }\n\n    subscription.onStateChange = checkForUpdates;\n    subscription.trySubscribe();\n    checkForUpdates();\n    return function () {\n      return subscription.tryUnsubscribe();\n    };\n  }, [store, subscription]);\n  return selectedState;\n}\n/**\n * Hook factory, which creates a `useSelector` hook bound to a given context.\n *\n * @param {React.Context} [context=ReactReduxContext] Context passed to your `<Provider>`.\n * @returns {Function} A `useSelector` hook bound to the specified context.\n */\n\n\nfunction createSelectorHook(context) {\n  if (context === void 0) {\n    context = _components_Context__WEBPACK_IMPORTED_MODULE_4__.ReactReduxContext;\n  }\n\n  var useReduxContext = context === _components_Context__WEBPACK_IMPORTED_MODULE_4__.ReactReduxContext ? _useReduxContext__WEBPACK_IMPORTED_MODULE_1__.useReduxContext : function () {\n    return (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(context);\n  };\n  return function useSelector(selector, equalityFn) {\n    if (equalityFn === void 0) {\n      equalityFn = refEquality;\n    }\n\n    if ( true && !selector) {\n      throw new Error(\"You must pass a selector to useSelector\");\n    }\n\n    var _useReduxContext = useReduxContext(),\n        store = _useReduxContext.store,\n        contextSub = _useReduxContext.subscription;\n\n    var selectedState = useSelectorWithStoreAndSubscription(selector, equalityFn, store, contextSub);\n    (0,react__WEBPACK_IMPORTED_MODULE_0__.useDebugValue)(selectedState);\n    return selectedState;\n  };\n}\n/**\n * A hook to access the redux store's state. This hook takes a selector function\n * as an argument. The selector is called with the store state.\n *\n * This hook takes an optional equality comparison function as the second parameter\n * that allows you to customize the way the selected state is compared to determine\n * whether the component needs to be re-rendered.\n *\n * @param {Function} selector the selector function\n * @param {Function=} equalityFn the function that will be used to determine equality\n *\n * @returns {any} the selected state\n *\n * @example\n *\n * import React from 'react'\n * import { useSelector } from 'react-redux'\n *\n * export const CounterComponent = () => {\n *   const counter = useSelector(state => state.counter)\n *   return <div>{counter}</div>\n * }\n */\n\nvar useSelector = /*#__PURE__*/createSelectorHook();\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/hooks/useSelector.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/hooks/useStore.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/react-redux/es/hooks/useStore.js ***!
+  \*******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"createStoreHook\": () => (/* binding */ createStoreHook),\n/* harmony export */   \"useStore\": () => (/* binding */ useStore)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _components_Context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Context */ \"./node_modules/react-redux/es/components/Context.js\");\n/* harmony import */ var _useReduxContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./useReduxContext */ \"./node_modules/react-redux/es/hooks/useReduxContext.js\");\n\n\n\n/**\n * Hook factory, which creates a `useStore` hook bound to a given context.\n *\n * @param {React.Context} [context=ReactReduxContext] Context passed to your `<Provider>`.\n * @returns {Function} A `useStore` hook bound to the specified context.\n */\n\nfunction createStoreHook(context) {\n  if (context === void 0) {\n    context = _components_Context__WEBPACK_IMPORTED_MODULE_1__.ReactReduxContext;\n  }\n\n  var useReduxContext = context === _components_Context__WEBPACK_IMPORTED_MODULE_1__.ReactReduxContext ? _useReduxContext__WEBPACK_IMPORTED_MODULE_2__.useReduxContext : function () {\n    return (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(context);\n  };\n  return function useStore() {\n    var _useReduxContext = useReduxContext(),\n        store = _useReduxContext.store;\n\n    return store;\n  };\n}\n/**\n * A hook to access the redux store.\n *\n * @returns {any} the redux store\n *\n * @example\n *\n * import React from 'react'\n * import { useStore } from 'react-redux'\n *\n * export const ExampleComponent = () => {\n *   const store = useStore()\n *   return <div>{store.getState()}</div>\n * }\n */\n\nvar useStore = /*#__PURE__*/createStoreHook();\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/hooks/useStore.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/index.js":
+/*!**********************************************!*\
+  !*** ./node_modules/react-redux/es/index.js ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"Provider\": () => (/* reexport safe */ _components_Provider__WEBPACK_IMPORTED_MODULE_0__.default),\n/* harmony export */   \"connectAdvanced\": () => (/* reexport safe */ _components_connectAdvanced__WEBPACK_IMPORTED_MODULE_1__.default),\n/* harmony export */   \"ReactReduxContext\": () => (/* reexport safe */ _components_Context__WEBPACK_IMPORTED_MODULE_2__.ReactReduxContext),\n/* harmony export */   \"connect\": () => (/* reexport safe */ _connect_connect__WEBPACK_IMPORTED_MODULE_3__.default),\n/* harmony export */   \"batch\": () => (/* reexport safe */ _utils_reactBatchedUpdates__WEBPACK_IMPORTED_MODULE_8__.unstable_batchedUpdates),\n/* harmony export */   \"useDispatch\": () => (/* reexport safe */ _hooks_useDispatch__WEBPACK_IMPORTED_MODULE_4__.useDispatch),\n/* harmony export */   \"createDispatchHook\": () => (/* reexport safe */ _hooks_useDispatch__WEBPACK_IMPORTED_MODULE_4__.createDispatchHook),\n/* harmony export */   \"useSelector\": () => (/* reexport safe */ _hooks_useSelector__WEBPACK_IMPORTED_MODULE_5__.useSelector),\n/* harmony export */   \"createSelectorHook\": () => (/* reexport safe */ _hooks_useSelector__WEBPACK_IMPORTED_MODULE_5__.createSelectorHook),\n/* harmony export */   \"useStore\": () => (/* reexport safe */ _hooks_useStore__WEBPACK_IMPORTED_MODULE_6__.useStore),\n/* harmony export */   \"createStoreHook\": () => (/* reexport safe */ _hooks_useStore__WEBPACK_IMPORTED_MODULE_6__.createStoreHook),\n/* harmony export */   \"shallowEqual\": () => (/* reexport safe */ _utils_shallowEqual__WEBPACK_IMPORTED_MODULE_9__.default)\n/* harmony export */ });\n/* harmony import */ var _components_Provider__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Provider */ \"./node_modules/react-redux/es/components/Provider.js\");\n/* harmony import */ var _components_connectAdvanced__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/connectAdvanced */ \"./node_modules/react-redux/es/components/connectAdvanced.js\");\n/* harmony import */ var _components_Context__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/Context */ \"./node_modules/react-redux/es/components/Context.js\");\n/* harmony import */ var _connect_connect__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./connect/connect */ \"./node_modules/react-redux/es/connect/connect.js\");\n/* harmony import */ var _hooks_useDispatch__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./hooks/useDispatch */ \"./node_modules/react-redux/es/hooks/useDispatch.js\");\n/* harmony import */ var _hooks_useSelector__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./hooks/useSelector */ \"./node_modules/react-redux/es/hooks/useSelector.js\");\n/* harmony import */ var _hooks_useStore__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./hooks/useStore */ \"./node_modules/react-redux/es/hooks/useStore.js\");\n/* harmony import */ var _utils_batch__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./utils/batch */ \"./node_modules/react-redux/es/utils/batch.js\");\n/* harmony import */ var _utils_reactBatchedUpdates__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./utils/reactBatchedUpdates */ \"./node_modules/react-redux/es/utils/reactBatchedUpdates.js\");\n/* harmony import */ var _utils_shallowEqual__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./utils/shallowEqual */ \"./node_modules/react-redux/es/utils/shallowEqual.js\");\n\n\n\n\n\n\n\n\n\n\n(0,_utils_batch__WEBPACK_IMPORTED_MODULE_7__.setBatch)(_utils_reactBatchedUpdates__WEBPACK_IMPORTED_MODULE_8__.unstable_batchedUpdates);\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/index.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/Subscription.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/Subscription.js ***!
+  \***********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Subscription)\n/* harmony export */ });\n/* harmony import */ var _batch__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./batch */ \"./node_modules/react-redux/es/utils/batch.js\");\n // encapsulates the subscription logic for connecting a component to the redux store, as\n// well as nesting subscriptions of descendant components, so that we can ensure the\n// ancestor components re-render before descendants\n\nvar nullListeners = {\n  notify: function notify() {}\n};\n\nfunction createListenerCollection() {\n  var batch = (0,_batch__WEBPACK_IMPORTED_MODULE_0__.getBatch)();\n  var first = null;\n  var last = null;\n  return {\n    clear: function clear() {\n      first = null;\n      last = null;\n    },\n    notify: function notify() {\n      batch(function () {\n        var listener = first;\n\n        while (listener) {\n          listener.callback();\n          listener = listener.next;\n        }\n      });\n    },\n    get: function get() {\n      var listeners = [];\n      var listener = first;\n\n      while (listener) {\n        listeners.push(listener);\n        listener = listener.next;\n      }\n\n      return listeners;\n    },\n    subscribe: function subscribe(callback) {\n      var isSubscribed = true;\n      var listener = last = {\n        callback: callback,\n        next: null,\n        prev: last\n      };\n\n      if (listener.prev) {\n        listener.prev.next = listener;\n      } else {\n        first = listener;\n      }\n\n      return function unsubscribe() {\n        if (!isSubscribed || first === null) return;\n        isSubscribed = false;\n\n        if (listener.next) {\n          listener.next.prev = listener.prev;\n        } else {\n          last = listener.prev;\n        }\n\n        if (listener.prev) {\n          listener.prev.next = listener.next;\n        } else {\n          first = listener.next;\n        }\n      };\n    }\n  };\n}\n\nvar Subscription = /*#__PURE__*/function () {\n  function Subscription(store, parentSub) {\n    this.store = store;\n    this.parentSub = parentSub;\n    this.unsubscribe = null;\n    this.listeners = nullListeners;\n    this.handleChangeWrapper = this.handleChangeWrapper.bind(this);\n  }\n\n  var _proto = Subscription.prototype;\n\n  _proto.addNestedSub = function addNestedSub(listener) {\n    this.trySubscribe();\n    return this.listeners.subscribe(listener);\n  };\n\n  _proto.notifyNestedSubs = function notifyNestedSubs() {\n    this.listeners.notify();\n  };\n\n  _proto.handleChangeWrapper = function handleChangeWrapper() {\n    if (this.onStateChange) {\n      this.onStateChange();\n    }\n  };\n\n  _proto.isSubscribed = function isSubscribed() {\n    return Boolean(this.unsubscribe);\n  };\n\n  _proto.trySubscribe = function trySubscribe() {\n    if (!this.unsubscribe) {\n      this.unsubscribe = this.parentSub ? this.parentSub.addNestedSub(this.handleChangeWrapper) : this.store.subscribe(this.handleChangeWrapper);\n      this.listeners = createListenerCollection();\n    }\n  };\n\n  _proto.tryUnsubscribe = function tryUnsubscribe() {\n    if (this.unsubscribe) {\n      this.unsubscribe();\n      this.unsubscribe = null;\n      this.listeners.clear();\n      this.listeners = nullListeners;\n    }\n  };\n\n  return Subscription;\n}();\n\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/Subscription.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/batch.js":
+/*!****************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/batch.js ***!
+  \****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"setBatch\": () => (/* binding */ setBatch),\n/* harmony export */   \"getBatch\": () => (/* binding */ getBatch)\n/* harmony export */ });\n// Default to a dummy \"batch\" implementation that just runs the callback\nfunction defaultNoopBatch(callback) {\n  callback();\n}\n\nvar batch = defaultNoopBatch; // Allow injecting another batching function later\n\nvar setBatch = function setBatch(newBatch) {\n  return batch = newBatch;\n}; // Supply a getter just to skip dealing with ESM bindings\n\nvar getBatch = function getBatch() {\n  return batch;\n};\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/batch.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/isPlainObject.js":
+/*!************************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/isPlainObject.js ***!
+  \************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ isPlainObject)\n/* harmony export */ });\n/**\n * @param {any} obj The object to inspect.\n * @returns {boolean} True if the argument appears to be a plain object.\n */\nfunction isPlainObject(obj) {\n  if (typeof obj !== 'object' || obj === null) return false;\n  var proto = Object.getPrototypeOf(obj);\n  if (proto === null) return true;\n  var baseProto = proto;\n\n  while (Object.getPrototypeOf(baseProto) !== null) {\n    baseProto = Object.getPrototypeOf(baseProto);\n  }\n\n  return proto === baseProto;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/isPlainObject.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/reactBatchedUpdates.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/reactBatchedUpdates.js ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"unstable_batchedUpdates\": () => (/* reexport safe */ react_dom__WEBPACK_IMPORTED_MODULE_0__.unstable_batchedUpdates)\n/* harmony export */ });\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* eslint-disable import/no-unresolved */\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/reactBatchedUpdates.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/shallowEqual.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/shallowEqual.js ***!
+  \***********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ shallowEqual)\n/* harmony export */ });\nfunction is(x, y) {\n  if (x === y) {\n    return x !== 0 || y !== 0 || 1 / x === 1 / y;\n  } else {\n    return x !== x && y !== y;\n  }\n}\n\nfunction shallowEqual(objA, objB) {\n  if (is(objA, objB)) return true;\n\n  if (typeof objA !== 'object' || objA === null || typeof objB !== 'object' || objB === null) {\n    return false;\n  }\n\n  var keysA = Object.keys(objA);\n  var keysB = Object.keys(objB);\n  if (keysA.length !== keysB.length) return false;\n\n  for (var i = 0; i < keysA.length; i++) {\n    if (!Object.prototype.hasOwnProperty.call(objB, keysA[i]) || !is(objA[keysA[i]], objB[keysA[i]])) {\n      return false;\n    }\n  }\n\n  return true;\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/shallowEqual.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js":
+/*!************************************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"useIsomorphicLayoutEffect\": () => (/* binding */ useIsomorphicLayoutEffect)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n // React currently throws a warning when using useLayoutEffect on the server.\n// To get around it, we can conditionally useEffect on the server (no-op) and\n// useLayoutEffect in the browser. We need useLayoutEffect to ensure the store\n// subscription callback always has the selector from the latest render commit\n// available, otherwise a store update may happen between render and the effect,\n// which may cause missed updates; we also must ensure the store subscription\n// is created synchronously, otherwise a store update may occur before the\n// subscription is created and an inconsistent state may be observed\n\nvar useIsomorphicLayoutEffect = typeof window !== 'undefined' && typeof window.document !== 'undefined' && typeof window.document.createElement !== 'undefined' ? react__WEBPACK_IMPORTED_MODULE_0__.useLayoutEffect : react__WEBPACK_IMPORTED_MODULE_0__.useEffect;\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/verifyPlainObject.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/verifyPlainObject.js ***!
+  \****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ verifyPlainObject)\n/* harmony export */ });\n/* harmony import */ var _isPlainObject__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./isPlainObject */ \"./node_modules/react-redux/es/utils/isPlainObject.js\");\n/* harmony import */ var _warning__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./warning */ \"./node_modules/react-redux/es/utils/warning.js\");\n\n\nfunction verifyPlainObject(value, displayName, methodName) {\n  if (!(0,_isPlainObject__WEBPACK_IMPORTED_MODULE_0__.default)(value)) {\n    (0,_warning__WEBPACK_IMPORTED_MODULE_1__.default)(methodName + \"() in \" + displayName + \" must return a plain object. Instead received \" + value + \".\");\n  }\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/verifyPlainObject.js?");
+
+/***/ }),
+
+/***/ "./node_modules/react-redux/es/utils/warning.js":
+/*!******************************************************!*\
+  !*** ./node_modules/react-redux/es/utils/warning.js ***!
+  \******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ warning)\n/* harmony export */ });\n/**\n * Prints a warning in the console if it exists.\n *\n * @param {String} message The warning message.\n * @returns {void}\n */\nfunction warning(message) {\n  /* eslint-disable no-console */\n  if (typeof console !== 'undefined' && typeof console.error === 'function') {\n    console.error(message);\n  }\n  /* eslint-enable no-console */\n\n\n  try {\n    // This error was thrown as a convenience so that if you enable\n    // \"break on all exceptions\" in your console,\n    // it would pause the execution at this line.\n    throw new Error(message);\n    /* eslint-disable no-empty */\n  } catch (e) {}\n  /* eslint-enable no-empty */\n\n}\n\n//# sourceURL=webpack://react-ssr/./node_modules/react-redux/es/utils/warning.js?");
+
+/***/ }),
+
 /***/ "./node_modules/react-router-config/esm/react-router-config.js":
 /*!*********************************************************************!*\
   !*** ./node_modules/react-router-config/esm/react-router-config.js ***!
@@ -2797,6 +2033,28 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
 
 /***/ }),
 
+/***/ "./node_modules/redux-thunk/es/index.js":
+/*!**********************************************!*\
+  !*** ./node_modules/redux-thunk/es/index.js ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nfunction createThunkMiddleware(extraArgument) {\n  return function (_ref) {\n    var dispatch = _ref.dispatch,\n        getState = _ref.getState;\n    return function (next) {\n      return function (action) {\n        if (typeof action === 'function') {\n          return action(dispatch, getState, extraArgument);\n        }\n\n        return next(action);\n      };\n    };\n  };\n}\n\nvar thunk = createThunkMiddleware();\nthunk.withExtraArgument = createThunkMiddleware;\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (thunk);\n\n//# sourceURL=webpack://react-ssr/./node_modules/redux-thunk/es/index.js?");
+
+/***/ }),
+
+/***/ "./node_modules/redux/es/redux.js":
+/*!****************************************!*\
+  !*** ./node_modules/redux/es/redux.js ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"__DO_NOT_USE__ActionTypes\": () => (/* binding */ ActionTypes),\n/* harmony export */   \"applyMiddleware\": () => (/* binding */ applyMiddleware),\n/* harmony export */   \"bindActionCreators\": () => (/* binding */ bindActionCreators),\n/* harmony export */   \"combineReducers\": () => (/* binding */ combineReducers),\n/* harmony export */   \"compose\": () => (/* binding */ compose),\n/* harmony export */   \"createStore\": () => (/* binding */ createStore)\n/* harmony export */ });\n/* harmony import */ var symbol_observable__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! symbol-observable */ \"./node_modules/symbol-observable/es/index.js\");\n\n\n/**\n * These are private action types reserved by Redux.\n * For any unknown actions, you must return the current state.\n * If the current state is undefined, you must return the initial state.\n * Do not reference these action types directly in your code.\n */\nvar randomString = function randomString() {\n  return Math.random().toString(36).substring(7).split('').join('.');\n};\n\nvar ActionTypes = {\n  INIT: \"@@redux/INIT\" + randomString(),\n  REPLACE: \"@@redux/REPLACE\" + randomString(),\n  PROBE_UNKNOWN_ACTION: function PROBE_UNKNOWN_ACTION() {\n    return \"@@redux/PROBE_UNKNOWN_ACTION\" + randomString();\n  }\n};\n\n/**\n * @param {any} obj The object to inspect.\n * @returns {boolean} True if the argument appears to be a plain object.\n */\nfunction isPlainObject(obj) {\n  if (typeof obj !== 'object' || obj === null) return false;\n  var proto = obj;\n\n  while (Object.getPrototypeOf(proto) !== null) {\n    proto = Object.getPrototypeOf(proto);\n  }\n\n  return Object.getPrototypeOf(obj) === proto;\n}\n\n/**\n * Creates a Redux store that holds the state tree.\n * The only way to change the data in the store is to call `dispatch()` on it.\n *\n * There should only be a single store in your app. To specify how different\n * parts of the state tree respond to actions, you may combine several reducers\n * into a single reducer function by using `combineReducers`.\n *\n * @param {Function} reducer A function that returns the next state tree, given\n * the current state tree and the action to handle.\n *\n * @param {any} [preloadedState] The initial state. You may optionally specify it\n * to hydrate the state from the server in universal apps, or to restore a\n * previously serialized user session.\n * If you use `combineReducers` to produce the root reducer function, this must be\n * an object with the same shape as `combineReducers` keys.\n *\n * @param {Function} [enhancer] The store enhancer. You may optionally specify it\n * to enhance the store with third-party capabilities such as middleware,\n * time travel, persistence, etc. The only store enhancer that ships with Redux\n * is `applyMiddleware()`.\n *\n * @returns {Store} A Redux store that lets you read the state, dispatch actions\n * and subscribe to changes.\n */\n\nfunction createStore(reducer, preloadedState, enhancer) {\n  var _ref2;\n\n  if (typeof preloadedState === 'function' && typeof enhancer === 'function' || typeof enhancer === 'function' && typeof arguments[3] === 'function') {\n    throw new Error('It looks like you are passing several store enhancers to ' + 'createStore(). This is not supported. Instead, compose them ' + 'together to a single function.');\n  }\n\n  if (typeof preloadedState === 'function' && typeof enhancer === 'undefined') {\n    enhancer = preloadedState;\n    preloadedState = undefined;\n  }\n\n  if (typeof enhancer !== 'undefined') {\n    if (typeof enhancer !== 'function') {\n      throw new Error('Expected the enhancer to be a function.');\n    }\n\n    return enhancer(createStore)(reducer, preloadedState);\n  }\n\n  if (typeof reducer !== 'function') {\n    throw new Error('Expected the reducer to be a function.');\n  }\n\n  var currentReducer = reducer;\n  var currentState = preloadedState;\n  var currentListeners = [];\n  var nextListeners = currentListeners;\n  var isDispatching = false;\n  /**\n   * This makes a shallow copy of currentListeners so we can use\n   * nextListeners as a temporary list while dispatching.\n   *\n   * This prevents any bugs around consumers calling\n   * subscribe/unsubscribe in the middle of a dispatch.\n   */\n\n  function ensureCanMutateNextListeners() {\n    if (nextListeners === currentListeners) {\n      nextListeners = currentListeners.slice();\n    }\n  }\n  /**\n   * Reads the state tree managed by the store.\n   *\n   * @returns {any} The current state tree of your application.\n   */\n\n\n  function getState() {\n    if (isDispatching) {\n      throw new Error('You may not call store.getState() while the reducer is executing. ' + 'The reducer has already received the state as an argument. ' + 'Pass it down from the top reducer instead of reading it from the store.');\n    }\n\n    return currentState;\n  }\n  /**\n   * Adds a change listener. It will be called any time an action is dispatched,\n   * and some part of the state tree may potentially have changed. You may then\n   * call `getState()` to read the current state tree inside the callback.\n   *\n   * You may call `dispatch()` from a change listener, with the following\n   * caveats:\n   *\n   * 1. The subscriptions are snapshotted just before every `dispatch()` call.\n   * If you subscribe or unsubscribe while the listeners are being invoked, this\n   * will not have any effect on the `dispatch()` that is currently in progress.\n   * However, the next `dispatch()` call, whether nested or not, will use a more\n   * recent snapshot of the subscription list.\n   *\n   * 2. The listener should not expect to see all state changes, as the state\n   * might have been updated multiple times during a nested `dispatch()` before\n   * the listener is called. It is, however, guaranteed that all subscribers\n   * registered before the `dispatch()` started will be called with the latest\n   * state by the time it exits.\n   *\n   * @param {Function} listener A callback to be invoked on every dispatch.\n   * @returns {Function} A function to remove this change listener.\n   */\n\n\n  function subscribe(listener) {\n    if (typeof listener !== 'function') {\n      throw new Error('Expected the listener to be a function.');\n    }\n\n    if (isDispatching) {\n      throw new Error('You may not call store.subscribe() while the reducer is executing. ' + 'If you would like to be notified after the store has been updated, subscribe from a ' + 'component and invoke store.getState() in the callback to access the latest state. ' + 'See https://redux.js.org/api-reference/store#subscribelistener for more details.');\n    }\n\n    var isSubscribed = true;\n    ensureCanMutateNextListeners();\n    nextListeners.push(listener);\n    return function unsubscribe() {\n      if (!isSubscribed) {\n        return;\n      }\n\n      if (isDispatching) {\n        throw new Error('You may not unsubscribe from a store listener while the reducer is executing. ' + 'See https://redux.js.org/api-reference/store#subscribelistener for more details.');\n      }\n\n      isSubscribed = false;\n      ensureCanMutateNextListeners();\n      var index = nextListeners.indexOf(listener);\n      nextListeners.splice(index, 1);\n      currentListeners = null;\n    };\n  }\n  /**\n   * Dispatches an action. It is the only way to trigger a state change.\n   *\n   * The `reducer` function, used to create the store, will be called with the\n   * current state tree and the given `action`. Its return value will\n   * be considered the **next** state of the tree, and the change listeners\n   * will be notified.\n   *\n   * The base implementation only supports plain object actions. If you want to\n   * dispatch a Promise, an Observable, a thunk, or something else, you need to\n   * wrap your store creating function into the corresponding middleware. For\n   * example, see the documentation for the `redux-thunk` package. Even the\n   * middleware will eventually dispatch plain object actions using this method.\n   *\n   * @param {Object} action A plain object representing “what changed”. It is\n   * a good idea to keep actions serializable so you can record and replay user\n   * sessions, or use the time travelling `redux-devtools`. An action must have\n   * a `type` property which may not be `undefined`. It is a good idea to use\n   * string constants for action types.\n   *\n   * @returns {Object} For convenience, the same action object you dispatched.\n   *\n   * Note that, if you use a custom middleware, it may wrap `dispatch()` to\n   * return something else (for example, a Promise you can await).\n   */\n\n\n  function dispatch(action) {\n    if (!isPlainObject(action)) {\n      throw new Error('Actions must be plain objects. ' + 'Use custom middleware for async actions.');\n    }\n\n    if (typeof action.type === 'undefined') {\n      throw new Error('Actions may not have an undefined \"type\" property. ' + 'Have you misspelled a constant?');\n    }\n\n    if (isDispatching) {\n      throw new Error('Reducers may not dispatch actions.');\n    }\n\n    try {\n      isDispatching = true;\n      currentState = currentReducer(currentState, action);\n    } finally {\n      isDispatching = false;\n    }\n\n    var listeners = currentListeners = nextListeners;\n\n    for (var i = 0; i < listeners.length; i++) {\n      var listener = listeners[i];\n      listener();\n    }\n\n    return action;\n  }\n  /**\n   * Replaces the reducer currently used by the store to calculate the state.\n   *\n   * You might need this if your app implements code splitting and you want to\n   * load some of the reducers dynamically. You might also need this if you\n   * implement a hot reloading mechanism for Redux.\n   *\n   * @param {Function} nextReducer The reducer for the store to use instead.\n   * @returns {void}\n   */\n\n\n  function replaceReducer(nextReducer) {\n    if (typeof nextReducer !== 'function') {\n      throw new Error('Expected the nextReducer to be a function.');\n    }\n\n    currentReducer = nextReducer; // This action has a similiar effect to ActionTypes.INIT.\n    // Any reducers that existed in both the new and old rootReducer\n    // will receive the previous state. This effectively populates\n    // the new state tree with any relevant data from the old one.\n\n    dispatch({\n      type: ActionTypes.REPLACE\n    });\n  }\n  /**\n   * Interoperability point for observable/reactive libraries.\n   * @returns {observable} A minimal observable of state changes.\n   * For more information, see the observable proposal:\n   * https://github.com/tc39/proposal-observable\n   */\n\n\n  function observable() {\n    var _ref;\n\n    var outerSubscribe = subscribe;\n    return _ref = {\n      /**\n       * The minimal observable subscription method.\n       * @param {Object} observer Any object that can be used as an observer.\n       * The observer object should have a `next` method.\n       * @returns {subscription} An object with an `unsubscribe` method that can\n       * be used to unsubscribe the observable from the store, and prevent further\n       * emission of values from the observable.\n       */\n      subscribe: function subscribe(observer) {\n        if (typeof observer !== 'object' || observer === null) {\n          throw new TypeError('Expected the observer to be an object.');\n        }\n\n        function observeState() {\n          if (observer.next) {\n            observer.next(getState());\n          }\n        }\n\n        observeState();\n        var unsubscribe = outerSubscribe(observeState);\n        return {\n          unsubscribe: unsubscribe\n        };\n      }\n    }, _ref[symbol_observable__WEBPACK_IMPORTED_MODULE_0__.default] = function () {\n      return this;\n    }, _ref;\n  } // When a store is created, an \"INIT\" action is dispatched so that every\n  // reducer returns their initial state. This effectively populates\n  // the initial state tree.\n\n\n  dispatch({\n    type: ActionTypes.INIT\n  });\n  return _ref2 = {\n    dispatch: dispatch,\n    subscribe: subscribe,\n    getState: getState,\n    replaceReducer: replaceReducer\n  }, _ref2[symbol_observable__WEBPACK_IMPORTED_MODULE_0__.default] = observable, _ref2;\n}\n\n/**\n * Prints a warning in the console if it exists.\n *\n * @param {String} message The warning message.\n * @returns {void}\n */\nfunction warning(message) {\n  /* eslint-disable no-console */\n  if (typeof console !== 'undefined' && typeof console.error === 'function') {\n    console.error(message);\n  }\n  /* eslint-enable no-console */\n\n\n  try {\n    // This error was thrown as a convenience so that if you enable\n    // \"break on all exceptions\" in your console,\n    // it would pause the execution at this line.\n    throw new Error(message);\n  } catch (e) {} // eslint-disable-line no-empty\n\n}\n\nfunction getUndefinedStateErrorMessage(key, action) {\n  var actionType = action && action.type;\n  var actionDescription = actionType && \"action \\\"\" + String(actionType) + \"\\\"\" || 'an action';\n  return \"Given \" + actionDescription + \", reducer \\\"\" + key + \"\\\" returned undefined. \" + \"To ignore an action, you must explicitly return the previous state. \" + \"If you want this reducer to hold no value, you can return null instead of undefined.\";\n}\n\nfunction getUnexpectedStateShapeWarningMessage(inputState, reducers, action, unexpectedKeyCache) {\n  var reducerKeys = Object.keys(reducers);\n  var argumentName = action && action.type === ActionTypes.INIT ? 'preloadedState argument passed to createStore' : 'previous state received by the reducer';\n\n  if (reducerKeys.length === 0) {\n    return 'Store does not have a valid reducer. Make sure the argument passed ' + 'to combineReducers is an object whose values are reducers.';\n  }\n\n  if (!isPlainObject(inputState)) {\n    return \"The \" + argumentName + \" has unexpected type of \\\"\" + {}.toString.call(inputState).match(/\\s([a-z|A-Z]+)/)[1] + \"\\\". Expected argument to be an object with the following \" + (\"keys: \\\"\" + reducerKeys.join('\", \"') + \"\\\"\");\n  }\n\n  var unexpectedKeys = Object.keys(inputState).filter(function (key) {\n    return !reducers.hasOwnProperty(key) && !unexpectedKeyCache[key];\n  });\n  unexpectedKeys.forEach(function (key) {\n    unexpectedKeyCache[key] = true;\n  });\n  if (action && action.type === ActionTypes.REPLACE) return;\n\n  if (unexpectedKeys.length > 0) {\n    return \"Unexpected \" + (unexpectedKeys.length > 1 ? 'keys' : 'key') + \" \" + (\"\\\"\" + unexpectedKeys.join('\", \"') + \"\\\" found in \" + argumentName + \". \") + \"Expected to find one of the known reducer keys instead: \" + (\"\\\"\" + reducerKeys.join('\", \"') + \"\\\". Unexpected keys will be ignored.\");\n  }\n}\n\nfunction assertReducerShape(reducers) {\n  Object.keys(reducers).forEach(function (key) {\n    var reducer = reducers[key];\n    var initialState = reducer(undefined, {\n      type: ActionTypes.INIT\n    });\n\n    if (typeof initialState === 'undefined') {\n      throw new Error(\"Reducer \\\"\" + key + \"\\\" returned undefined during initialization. \" + \"If the state passed to the reducer is undefined, you must \" + \"explicitly return the initial state. The initial state may \" + \"not be undefined. If you don't want to set a value for this reducer, \" + \"you can use null instead of undefined.\");\n    }\n\n    if (typeof reducer(undefined, {\n      type: ActionTypes.PROBE_UNKNOWN_ACTION()\n    }) === 'undefined') {\n      throw new Error(\"Reducer \\\"\" + key + \"\\\" returned undefined when probed with a random type. \" + (\"Don't try to handle \" + ActionTypes.INIT + \" or other actions in \\\"redux/*\\\" \") + \"namespace. They are considered private. Instead, you must return the \" + \"current state for any unknown actions, unless it is undefined, \" + \"in which case you must return the initial state, regardless of the \" + \"action type. The initial state may not be undefined, but can be null.\");\n    }\n  });\n}\n/**\n * Turns an object whose values are different reducer functions, into a single\n * reducer function. It will call every child reducer, and gather their results\n * into a single state object, whose keys correspond to the keys of the passed\n * reducer functions.\n *\n * @param {Object} reducers An object whose values correspond to different\n * reducer functions that need to be combined into one. One handy way to obtain\n * it is to use ES6 `import * as reducers` syntax. The reducers may never return\n * undefined for any action. Instead, they should return their initial state\n * if the state passed to them was undefined, and the current state for any\n * unrecognized action.\n *\n * @returns {Function} A reducer function that invokes every reducer inside the\n * passed object, and builds a state object with the same shape.\n */\n\n\nfunction combineReducers(reducers) {\n  var reducerKeys = Object.keys(reducers);\n  var finalReducers = {};\n\n  for (var i = 0; i < reducerKeys.length; i++) {\n    var key = reducerKeys[i];\n\n    if (true) {\n      if (typeof reducers[key] === 'undefined') {\n        warning(\"No reducer provided for key \\\"\" + key + \"\\\"\");\n      }\n    }\n\n    if (typeof reducers[key] === 'function') {\n      finalReducers[key] = reducers[key];\n    }\n  }\n\n  var finalReducerKeys = Object.keys(finalReducers); // This is used to make sure we don't warn about the same\n  // keys multiple times.\n\n  var unexpectedKeyCache;\n\n  if (true) {\n    unexpectedKeyCache = {};\n  }\n\n  var shapeAssertionError;\n\n  try {\n    assertReducerShape(finalReducers);\n  } catch (e) {\n    shapeAssertionError = e;\n  }\n\n  return function combination(state, action) {\n    if (state === void 0) {\n      state = {};\n    }\n\n    if (shapeAssertionError) {\n      throw shapeAssertionError;\n    }\n\n    if (true) {\n      var warningMessage = getUnexpectedStateShapeWarningMessage(state, finalReducers, action, unexpectedKeyCache);\n\n      if (warningMessage) {\n        warning(warningMessage);\n      }\n    }\n\n    var hasChanged = false;\n    var nextState = {};\n\n    for (var _i = 0; _i < finalReducerKeys.length; _i++) {\n      var _key = finalReducerKeys[_i];\n      var reducer = finalReducers[_key];\n      var previousStateForKey = state[_key];\n      var nextStateForKey = reducer(previousStateForKey, action);\n\n      if (typeof nextStateForKey === 'undefined') {\n        var errorMessage = getUndefinedStateErrorMessage(_key, action);\n        throw new Error(errorMessage);\n      }\n\n      nextState[_key] = nextStateForKey;\n      hasChanged = hasChanged || nextStateForKey !== previousStateForKey;\n    }\n\n    hasChanged = hasChanged || finalReducerKeys.length !== Object.keys(state).length;\n    return hasChanged ? nextState : state;\n  };\n}\n\nfunction bindActionCreator(actionCreator, dispatch) {\n  return function () {\n    return dispatch(actionCreator.apply(this, arguments));\n  };\n}\n/**\n * Turns an object whose values are action creators, into an object with the\n * same keys, but with every function wrapped into a `dispatch` call so they\n * may be invoked directly. This is just a convenience method, as you can call\n * `store.dispatch(MyActionCreators.doSomething())` yourself just fine.\n *\n * For convenience, you can also pass an action creator as the first argument,\n * and get a dispatch wrapped function in return.\n *\n * @param {Function|Object} actionCreators An object whose values are action\n * creator functions. One handy way to obtain it is to use ES6 `import * as`\n * syntax. You may also pass a single function.\n *\n * @param {Function} dispatch The `dispatch` function available on your Redux\n * store.\n *\n * @returns {Function|Object} The object mimicking the original object, but with\n * every action creator wrapped into the `dispatch` call. If you passed a\n * function as `actionCreators`, the return value will also be a single\n * function.\n */\n\n\nfunction bindActionCreators(actionCreators, dispatch) {\n  if (typeof actionCreators === 'function') {\n    return bindActionCreator(actionCreators, dispatch);\n  }\n\n  if (typeof actionCreators !== 'object' || actionCreators === null) {\n    throw new Error(\"bindActionCreators expected an object or a function, instead received \" + (actionCreators === null ? 'null' : typeof actionCreators) + \". \" + \"Did you write \\\"import ActionCreators from\\\" instead of \\\"import * as ActionCreators from\\\"?\");\n  }\n\n  var boundActionCreators = {};\n\n  for (var key in actionCreators) {\n    var actionCreator = actionCreators[key];\n\n    if (typeof actionCreator === 'function') {\n      boundActionCreators[key] = bindActionCreator(actionCreator, dispatch);\n    }\n  }\n\n  return boundActionCreators;\n}\n\nfunction _defineProperty(obj, key, value) {\n  if (key in obj) {\n    Object.defineProperty(obj, key, {\n      value: value,\n      enumerable: true,\n      configurable: true,\n      writable: true\n    });\n  } else {\n    obj[key] = value;\n  }\n\n  return obj;\n}\n\nfunction ownKeys(object, enumerableOnly) {\n  var keys = Object.keys(object);\n\n  if (Object.getOwnPropertySymbols) {\n    keys.push.apply(keys, Object.getOwnPropertySymbols(object));\n  }\n\n  if (enumerableOnly) keys = keys.filter(function (sym) {\n    return Object.getOwnPropertyDescriptor(object, sym).enumerable;\n  });\n  return keys;\n}\n\nfunction _objectSpread2(target) {\n  for (var i = 1; i < arguments.length; i++) {\n    var source = arguments[i] != null ? arguments[i] : {};\n\n    if (i % 2) {\n      ownKeys(source, true).forEach(function (key) {\n        _defineProperty(target, key, source[key]);\n      });\n    } else if (Object.getOwnPropertyDescriptors) {\n      Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));\n    } else {\n      ownKeys(source).forEach(function (key) {\n        Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));\n      });\n    }\n  }\n\n  return target;\n}\n\n/**\n * Composes single-argument functions from right to left. The rightmost\n * function can take multiple arguments as it provides the signature for\n * the resulting composite function.\n *\n * @param {...Function} funcs The functions to compose.\n * @returns {Function} A function obtained by composing the argument functions\n * from right to left. For example, compose(f, g, h) is identical to doing\n * (...args) => f(g(h(...args))).\n */\nfunction compose() {\n  for (var _len = arguments.length, funcs = new Array(_len), _key = 0; _key < _len; _key++) {\n    funcs[_key] = arguments[_key];\n  }\n\n  if (funcs.length === 0) {\n    return function (arg) {\n      return arg;\n    };\n  }\n\n  if (funcs.length === 1) {\n    return funcs[0];\n  }\n\n  return funcs.reduce(function (a, b) {\n    return function () {\n      return a(b.apply(void 0, arguments));\n    };\n  });\n}\n\n/**\n * Creates a store enhancer that applies middleware to the dispatch method\n * of the Redux store. This is handy for a variety of tasks, such as expressing\n * asynchronous actions in a concise manner, or logging every action payload.\n *\n * See `redux-thunk` package as an example of the Redux middleware.\n *\n * Because middleware is potentially asynchronous, this should be the first\n * store enhancer in the composition chain.\n *\n * Note that each middleware will be given the `dispatch` and `getState` functions\n * as named arguments.\n *\n * @param {...Function} middlewares The middleware chain to be applied.\n * @returns {Function} A store enhancer applying the middleware.\n */\n\nfunction applyMiddleware() {\n  for (var _len = arguments.length, middlewares = new Array(_len), _key = 0; _key < _len; _key++) {\n    middlewares[_key] = arguments[_key];\n  }\n\n  return function (createStore) {\n    return function () {\n      var store = createStore.apply(void 0, arguments);\n\n      var _dispatch = function dispatch() {\n        throw new Error('Dispatching while constructing your middleware is not allowed. ' + 'Other middleware would not be applied to this dispatch.');\n      };\n\n      var middlewareAPI = {\n        getState: store.getState,\n        dispatch: function dispatch() {\n          return _dispatch.apply(void 0, arguments);\n        }\n      };\n      var chain = middlewares.map(function (middleware) {\n        return middleware(middlewareAPI);\n      });\n      _dispatch = compose.apply(void 0, chain)(store.dispatch);\n      return _objectSpread2({}, store, {\n        dispatch: _dispatch\n      });\n    };\n  };\n}\n\n/*\n * This is a dummy function to check if the function name has been altered by minification.\n * If the function has been minified and NODE_ENV !== 'production', warn the user.\n */\n\nfunction isCrushed() {}\n\nif ( true && typeof isCrushed.name === 'string' && isCrushed.name !== 'isCrushed') {\n  warning('You are currently using minified code outside of NODE_ENV === \"production\". ' + 'This means that you are running a slower development build of Redux. ' + 'You can use loose-envify (https://github.com/zertosh/loose-envify) for browserify ' + 'or setting mode to production in webpack (https://webpack.js.org/concepts/mode/) ' + 'to ensure you have the correct code for your production build.');\n}\n\n\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/redux/es/redux.js?");
+
+/***/ }),
+
 /***/ "./node_modules/regenerator-runtime/runtime.js":
 /*!*****************************************************!*\
   !*** ./node_modules/regenerator-runtime/runtime.js ***!
@@ -2862,6 +2120,28 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
 
 /***/ }),
 
+/***/ "./node_modules/symbol-observable/es/index.js":
+/*!****************************************************!*\
+  !*** ./node_modules/symbol-observable/es/index.js ***!
+  \****************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _ponyfill_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ponyfill.js */ \"./node_modules/symbol-observable/es/ponyfill.js\");\n/* module decorator */ module = __webpack_require__.hmd(module);\n/* global window */\n\n\nvar root;\n\nif (typeof self !== 'undefined') {\n  root = self;\n} else if (typeof window !== 'undefined') {\n  root = window;\n} else if (typeof __webpack_require__.g !== 'undefined') {\n  root = __webpack_require__.g;\n} else if (true) {\n  root = module;\n} else {}\n\nvar result = (0,_ponyfill_js__WEBPACK_IMPORTED_MODULE_0__.default)(root);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (result);\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/symbol-observable/es/index.js?");
+
+/***/ }),
+
+/***/ "./node_modules/symbol-observable/es/ponyfill.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/symbol-observable/es/ponyfill.js ***!
+  \*******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ symbolObservablePonyfill)\n/* harmony export */ });\nfunction symbolObservablePonyfill(root) {\n\tvar result;\n\tvar Symbol = root.Symbol;\n\n\tif (typeof Symbol === 'function') {\n\t\tif (Symbol.observable) {\n\t\t\tresult = Symbol.observable;\n\t\t} else {\n\t\t\tresult = Symbol('observable');\n\t\t\tSymbol.observable = result;\n\t\t}\n\t} else {\n\t\tresult = '@@observable';\n\t}\n\n\treturn result;\n};\n\n\n//# sourceURL=webpack://react-ssr/./node_modules/symbol-observable/es/ponyfill.js?");
+
+/***/ }),
+
 /***/ "./node_modules/tiny-invariant/dist/tiny-invariant.esm.js":
 /*!****************************************************************!*\
   !*** ./node_modules/tiny-invariant/dist/tiny-invariant.esm.js ***!
@@ -2908,13 +2188,16 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 		}
 /******/ 		// Create a new module (and put it into the cache)
 /******/ 		var module = __webpack_module_cache__[moduleId] = {
-/******/ 			// no module.id needed
-/******/ 			// no module.loaded needed
+/******/ 			id: moduleId,
+/******/ 			loaded: false,
 /******/ 			exports: {}
 /******/ 		};
 /******/ 	
 /******/ 		// Execute the module function
 /******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Flag the module as loaded
+/******/ 		module.loaded = true;
 /******/ 	
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
@@ -2955,6 +2238,21 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 				if (typeof window === 'object') return window;
 /******/ 			}
 /******/ 		})();
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/harmony module decorator */
+/******/ 	(() => {
+/******/ 		__webpack_require__.hmd = (module) => {
+/******/ 			module = Object.create(module);
+/******/ 			if (!module.children) module.children = [];
+/******/ 			Object.defineProperty(module, 'exports', {
+/******/ 				enumerable: true,
+/******/ 				set: () => {
+/******/ 					throw new Error('ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: ' + module.id);
+/******/ 				}
+/******/ 			});
+/******/ 			return module;
+/******/ 		};
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */

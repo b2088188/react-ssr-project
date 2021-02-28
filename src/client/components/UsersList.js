@@ -1,26 +1,28 @@
 import React, { useEffect } from 'react';
-import { useUser } from '../context/user/userContext';
-import { fetchUsers } from '../context/user/UserProvider';
+import { useSelector, useDispatch } from 'react-redux';
+import { fetchUsers } from '../actions';
 
 const UsersList = () => {
-	const { users, dispatch } = useUser();
-
+	const users = useSelector((state) => state.users);
+	const dispatch = useDispatch();
 	useEffect(() => {
-		fetchUsers(dispatch);
+		dispatch(fetchUsers());
 	}, [dispatch]);
 
 	return (
 		<div>
 			<div>Here's a big list of users:</div>
-			{users.map((user) => (
-				<li key={user.id}>{user.name}</li>
-			))}
+			<ul>
+				{users.map((user) => (
+					<li key={user.id}>{user.name}</li>
+				))}
+			</ul>
 		</div>
 	);
 };
 
-function loadData() {
-	console.log("I'm trying to load some data");
+async function loadData(store) {
+	return store.dispatch(fetchUsers());
 }
 export { loadData };
 export default UsersList;

@@ -3,15 +3,15 @@ import { renderToString } from 'react-dom/server';
 import { StaticRouter as Router } from 'react-router-dom';
 import Routes from '../client/Routes';
 import { renderRoutes } from 'react-router-config';
-import UserProvider from '../client/context/user/UserProvider';
+import { Provider } from 'react-redux';
 
-function renderer(req) {
+function renderer(req, store) {
 	const template = renderToString(
-		<UserProvider>
+		<Provider store={store}>
 			<Router location={req.path} context={{}}>
 				<div>{renderRoutes(Routes)}</div>
 			</Router>
-		</UserProvider>
+		</Provider>
 	);
 	return `<html>
 	<head></head>
