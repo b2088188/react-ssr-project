@@ -17,6 +17,9 @@ function renderer(req, store) {
 	<head></head>
 	<body>
 		<div id = 'root'>${template}</div>
+		<script>
+		window.INITIAL_STATE = ${JSON.stringify(store.getState())}
+		</script>
 		<script src = 'bundle.js'>
 		</script>
 	</body>
