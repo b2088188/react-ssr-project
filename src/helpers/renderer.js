@@ -4,6 +4,7 @@ import { StaticRouter as Router } from 'react-router-dom';
 import Routes from '../client/Routes';
 import { renderRoutes } from 'react-router-config';
 import { Provider } from 'react-redux';
+import serialize from 'serialize-javascript';
 
 function renderer(req, store) {
 	const template = renderToString(
@@ -18,7 +19,7 @@ function renderer(req, store) {
 	<body>
 		<div id = 'root'>${template}</div>
 		<script>
-		window.INITIAL_STATE = ${JSON.stringify(store.getState())}
+		window.INITIAL_STATE = ${serialize(store.getState())}
 		</script>
 		<script src = 'bundle.js'>
 		</script>
