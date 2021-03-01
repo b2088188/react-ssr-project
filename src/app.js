@@ -27,8 +27,11 @@ app.get('*', (req, res) => {
 	});
 	// Once the promise resolved, this means our data loading has finished.
 	Promise.all(promises).then(() => {
+		const context = {};
+		const content = renderer(req, store, context);
+		const statusCode = context.notFound ? 404 : 200;
 		// Send back content to browser, and the bundle file for React application
-		res.send(renderer(req, store));
+		res.status(statusCode).send(content);
 	});
 });
 

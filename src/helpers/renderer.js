@@ -6,10 +6,10 @@ import { renderRoutes } from 'react-router-config';
 import { Provider } from 'react-redux';
 import serialize from 'serialize-javascript';
 
-function renderer(req, store) {
+function renderer(req, store, context) {
 	const template = renderToString(
 		<Provider store={store}>
-			<Router location={req.path} context={{}}>
+			<Router location={req.path} context={context}>
 				<div>{renderRoutes(Routes)}</div>
 			</Router>
 		</Provider>
