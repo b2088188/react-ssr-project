@@ -37,6 +37,10 @@ app.get('*', (req, res) => {
 		const context = {};
 		const content = renderer(req, store, context);
 		const statusCode = context.notFound ? 404 : 200;
+		if (context.url) {
+			console.log(context);
+			return res.redirect(301, context.url);
+		}
 		// Send back content to browser, and the bundle file for React application
 		res.status(statusCode).send(content);
 	});
