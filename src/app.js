@@ -11,7 +11,8 @@ app.use(
 	'/api',
 	proxy('http://react-ssr-api.herokuapp.com', {
 		proxyReqOptDecorator(opts) {
-			opts.headers['x-forwarded-host'] = '127.0.0.1:3000';
+			// API server looks this header, if it exist it will attempt to redirect the user back to a localhost 3000 after OAuth
+			opts.headers['x-forwarded-host'] = 'localhost:3000';
 			return opts;
 		}
 	})
