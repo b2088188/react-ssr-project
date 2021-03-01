@@ -21,10 +21,17 @@ app.use(express.static('public'));
 // Accept all route request, and delegate to React Router
 app.get('*', (req, res) => {
 	const store = createStore(req);
-	const promises = matchRoutes(Routes, req.path).map(({ route }) => {
-		// If the component has loadData function, call it and return the promise
-		return route.loadData ? route.loadData(store) : null;
-	});
+	const promises = matchRoutes(Routes, req.path)
+		.map(({ route }) => {
+			// If the component has loadData function, call it and return the promise
+			return route.loadData ? route.loadData(store) : null;
+		})
+		.map((promise) => {
+			if (promise)
+				return new Promise((resolve, reject) => {
+					promise.then(resolve).catch(resolve);
+				});
+		});
 	// Once the promise resolved, this means our data loading has finished.
 	Promise.all(promises).then(() => {
 		const context = {};
