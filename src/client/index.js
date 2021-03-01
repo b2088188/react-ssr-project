@@ -7,8 +7,17 @@ import { createStore, applyMiddleware } from 'redux';
 import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
 import reducers from './reducers';
+import axios from 'axios';
 
-const store = createStore(reducers, window.INITIAL_STATE, applyMiddleware(thunk));
+const axiosInstance = axios.create({
+	baseURL: '/api'
+});
+
+const store = createStore(
+	reducers,
+	window.INITIAL_STATE,
+	applyMiddleware(thunk.withExtraArgument(axiosInstance))
+);
 
 // The code is executed on browser side,
 // There's already content rendered from the server inside the div,
