@@ -16,7 +16,7 @@ const Header = () => {
 						<Link to='/users'>Users</Link>
 					</li>
 					<li>
-						<Link to='/admin'>Admins</Link>
+						<Link to='/admins'>Admins</Link>
 					</li>
 					<li>
 						{auth ? <a href='/api/logout'>Logout</a> : <a href='/api/auth/google'>Login</a>}

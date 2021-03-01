@@ -1,5 +1,6 @@
 import Home from './pages/Home';
 import UsersList from './pages/UsersList';
+import AdminsList from './pages/AdminsList';
 import App from './App';
 import NotFound from './pages/NotFound';
 
@@ -11,6 +12,10 @@ const Routes = [
 				...Home,
 				path: '/',
 				exact: true
+			},
+			{
+				...AdminsList,
+				path: '/admins'
 			},
 			{
 				...UsersList,
