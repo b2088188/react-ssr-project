@@ -10,12 +10,18 @@ const UsersList = () => {
 		dispatch(fetchUsers());
 	}, [dispatch]);
 
-	return (
-		<div>
+	function head() {
+		return (
 			<Helmet>
-				<title>User's App</title>
+				<title>{`${users.length} Users Loaded`}</title>
 				<meta property='og:title' content="User's app" />
 			</Helmet>
+		);
+	}
+
+	return (
+		<div>
+			{head()}
 			<div>Here's a big list of users:</div>
 			<ul>
 				{users.map((user) => (
